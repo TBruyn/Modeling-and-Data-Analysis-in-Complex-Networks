@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import math
 
 
+# ---------------------------------------------------------------------------------------------------------------------
 def create_temporal_graph_data(df):
     print("Creating temporal graph data")
 
@@ -136,7 +137,6 @@ def create_node_vector_sorted_on_first_message_sent_and_count_of_messages_sent(d
 
 
 # ---------------------------------------------------------------------------------------------------------------------
-
 def create_node_vector_sorted_on_eigenvector(graph):
     eigenvector_centrality = nx.eigenvector_centrality(G)
 
@@ -145,6 +145,7 @@ def create_node_vector_sorted_on_eigenvector(graph):
     return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['ec'], reverse=True)]
 
 
+# ---------------------------------------------------------------------------------------------------------------------
 def create_node_vector_sorted_on_closeness(graph):
     closeness_centrality = nx.closeness_centrality(G)
 
@@ -153,6 +154,7 @@ def create_node_vector_sorted_on_closeness(graph):
     return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['cc'], reverse=True)]
 
 
+# ---------------------------------------------------------------------------------------------------------------------
 def create_node_vector_sorted_on_betweenness(graph):
     betweenness_centrality = nx.betweenness_centrality(G)
 
