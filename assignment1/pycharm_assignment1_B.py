@@ -60,6 +60,40 @@ def plot_average_and_standard_deviation(average, standard_dev, wait_with_plottin
 
 
 # ---------------------------------------------------------------------------------------------------------------------
+def calculate_recognition_rate(f_range, sorted_vector_1, sorted_vector_2):
+    recognition_rate_vector = np.zeros(len(f_range))
+    for i in range(0, len(f_range)):
+        f = f_range[i]
+        selection_range = math.floor(f * number_of_nodes)
+
+        d_intersection = [n for n
+                          in sorted_vector_1[0:selection_range]
+                          if n in sorted_vector_2[0:selection_range]]
+        recognition_rate_vector[i] = len(d_intersection) / selection_range
+
+    return recognition_rate_vector
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+def plot_recognition_rate_metrics(f_range, recognition_rates, legend, wait_with_plotting=False):
+    plt.figure()
+
+    for recognition_rate in recognition_rates:
+        plt.plot(f_range, recognition_rate)
+
+    plt.title("Recognition rate of centrality metrics")
+    plt.gca().set_xlim([0.05, 0.5])
+    plt.gca().set_ylim([0, 1])
+    plt.xlabel('Fraction of nodes in comparison set')
+    plt.ylabel('Recognition rate')
+    plt.legend(legend)
+    if wait_with_plotting:
+        plt.draw()
+    else:
+        plt.show()
+
+
+# ---------------------------------------------------------------------------------------------------------------------
 def create_node_vector_sorted_on_time_to_reach_threshold(infected_per_timestamp):
     threshold = math.ceil(0.8 * number_of_nodes)
 
@@ -84,21 +118,6 @@ def create_node_vector_sorted_on_degree(graph):
 def create_node_vector_sorted_on_clustering(graph):
     cl_vector = np.array([[a, b] for (a, b) in nx.clustering(graph).items()])
     return cl_vector[cl_vector[:, 1].argsort()][::-1][:, 0]
-
-
-# ---------------------------------------------------------------------------------------------------------------------
-def calculate_recognition_rate(f_range, sorted_vector_1, sorted_vector_2):
-    recognition_rate_vector = np.zeros(len(f_range))
-    for i in range(0, len(f_range)):
-        f = f_range[i]
-        selection_range = math.floor(f * number_of_nodes)
-
-        d_intersection = [n for n
-                          in sorted_vector_1[0:selection_range]
-                          if n in sorted_vector_2[0:selection_range]]
-        recognition_rate_vector[i] = len(d_intersection) / selection_range
-
-    return recognition_rate_vector
 
 
 # ---------------------------------------------------------------------------------------------------------------------
@@ -161,25 +180,6 @@ def create_node_vector_sorted_on_betweenness(graph):
     nx.set_node_attributes(G, betweenness_centrality, 'bc')
 
     return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['bc'], reverse=True)]
-
-
-# ---------------------------------------------------------------------------------------------------------------------
-def plot_recognition_rate_metrics(f_range, recognition_rates, legend, wait_with_plotting=False):
-    plt.figure()
-
-    for recognition_rate in recognition_rates:
-        plt.plot(f_range, recognition_rate)
-
-    plt.title("Recognition rate of centrality metrics")
-    plt.gca().set_xlim([0.05, 0.5])
-    plt.gca().set_ylim([0, 1])
-    plt.xlabel('Fraction of nodes in comparison set')
-    plt.ylabel('Recognition rate')
-    plt.legend(legend)
-    if wait_with_plotting:
-        plt.draw()
-    else:
-        plt.show()
 
 
 # ---------------------------------------------------------------------------------------------------------------------
