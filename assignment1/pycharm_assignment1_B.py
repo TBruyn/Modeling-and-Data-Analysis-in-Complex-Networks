@@ -101,25 +101,6 @@ def calculate_recognition_rate(f_range, sorted_vector_1, sorted_vector_2):
 
 
 # ---------------------------------------------------------------------------------------------------------------------
-def plot_recognition_rate_metrics(f_range, recognition_rates, legend, wait_with_plotting=False):
-    plt.figure()
-
-    for recognition_rate in recognition_rates:
-        plt.plot(f_range, recognition_rate)
-
-    plt.title("Recognition rate of centrality metrics")
-    plt.gca().set_xlim([0.05, 0.5])
-    plt.gca().set_ylim([0, 1])
-    plt.xlabel('Fraction of nodes in comparison set')
-    plt.ylabel('Recognition rate')
-    plt.legend(legend)
-    if wait_with_plotting:
-        plt.draw()
-    else:
-        plt.show()
-
-
-# ---------------------------------------------------------------------------------------------------------------------
 def create_node_vector_sorted_on_average_time_to_reach_each_node(time_to_infection):
     average_time_to_infection = [np.average(row[np.where(row > 0)])
                                  if np.where(row > 0)[0].shape[0] > 0
@@ -178,6 +159,25 @@ def create_node_vector_sorted_on_betweenness(graph):
     nx.set_node_attributes(G, betweenness_centrality, 'bc')
 
     return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['bc'], reverse=True)]
+
+
+# ---------------------------------------------------------------------------------------------------------------------
+def plot_recognition_rate_metrics(f_range, recognition_rates, legend, wait_with_plotting=False):
+    plt.figure()
+
+    for recognition_rate in recognition_rates:
+        plt.plot(f_range, recognition_rate)
+
+    plt.title("Recognition rate of centrality metrics")
+    plt.gca().set_xlim([0.05, 0.5])
+    plt.gca().set_ylim([0, 1])
+    plt.xlabel('Fraction of nodes in comparison set')
+    plt.ylabel('Recognition rate')
+    plt.legend(legend)
+    if wait_with_plotting:
+        plt.draw()
+    else:
+        plt.show()
 
 
 # ---------------------------------------------------------------------------------------------------------------------
