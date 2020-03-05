@@ -136,17 +136,9 @@ plot_average_and_standard_deviation(avg, std, wait_with_plotting=True)
 
 # Q11
 sorted_infection_vector = create_node_vector_sorted_on_time_to_reach_threshold(infected_per_timestamp)
-['Degree', 'Clustering Coefficient']
 G = nx.from_pandas_edgelist(df, source='node1', target='node2')
 sorted_degree_vector = create_node_vector_sorted_on_degree(G)
 sorted_clustering_vector = create_node_vector_sorted_on_clustering(G)
-
-# print(sorted_infection_vector)
-# print()
-# print(sorted_degree_vector)
-# print()
-# print(sorted_clustering_vector)
-# print()
 
 f_range = np.arange(0.05, 0.55, 0.05)
 recognition_rate_infection_degree = calculate_recognition_rate(f_range, sorted_infection_vector, sorted_degree_vector)
