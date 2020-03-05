@@ -155,6 +155,32 @@ def create_node_vector_sorted_on_first_message_sent_and_count_of_messages_sent(d
 
 
 # ---------------------------------------------------------------------------------------------------------------------
+
+def create_node_vector_sorted_on_eigenvector(graph):
+    eigenvector_centrality = nx.eigenvector_centrality(G)
+
+    nx.set_node_attributes(G, eigenvector_centrality, 'ec')
+
+    return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['ec'], reverse=True)]
+
+
+def create_node_vector_sorted_on_closeness(graph):
+    closeness_centrality = nx.closeness_centrality(G)
+
+    nx.set_node_attributes(G, closeness_centrality, 'cc')
+
+    return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['cc'], reverse=True)]
+
+
+def create_node_vector_sorted_on_betweenness(graph):
+    betweenness_centrality = nx.betweenness_centrality(G)
+
+    nx.set_node_attributes(G, betweenness_centrality, 'bc')
+
+    return [n for (n, _) in sorted(G.nodes(data=True), key=lambda x: x[1]['bc'], reverse=True)]
+
+
+# ---------------------------------------------------------------------------------------------------------------------
 # Initialization
 df = pd.read_excel('manufacturing_emails_temporal_network.xlsx')
 number_of_nodes = 167
@@ -169,8 +195,8 @@ except Exception as e:
     np.savetxt('infected_per_timestep-Gdata.csv', infected_per_timestamp, delimiter=',')
 
 # Q10
-# avg, std = calculate_average_and_standard_deviation(infected_per_timestamp)
-# plot_average_and_standard_deviation(avg, std, wait_with_plotting=True)
+avg, std = calculate_average_and_standard_deviation(infected_per_timestamp)
+plot_average_and_standard_deviation(avg, std, wait_with_plotting=True)
 
 # Q11
 
@@ -209,6 +235,28 @@ recognition_rate_infection_message_count = calculate_recognition_rate(f_range,
                                                                       sorted_message_count)
 recognition_rates.append(recognition_rate_infection_message_count)
 recognition_labels.append("Message count")
+
+sorted_eigenvector = create_node_vector_sorted_on_eigenvector(G)
+recognition_rate_infection_eigenvector = calculate_recognition_rate(f_range,
+                                                                    sorted_infection_vector,
+                                                                    sorted_eigenvector)
+recognition_rates.append(recognition_rate_infection_eigenvector)
+recognition_labels.append("Eigenvector")
+
+sorted_closeness = create_node_vector_sorted_on_closeness(G)
+recognition_rate_infection_closeness = calculate_recognition_rate(f_range,
+                                                                  sorted_infection_vector,
+                                                                  sorted_closeness)
+recognition_rates.append(recognition_rate_infection_closeness)
+recognition_labels.append("Closeness")
+
+sorted_betweenness = create_node_vector_sorted_on_betweenness(G)
+recognition_rate_infection_betweenness = calculate_recognition_rate(f_range,
+                                                                    sorted_infection_vector,
+                                                                    sorted_betweenness)
+recognition_rates.append(recognition_rate_infection_betweenness)
+recognition_labels.append("Betweenness")
+
 
 # Q13
 
