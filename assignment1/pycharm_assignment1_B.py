@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import math
+import random
 
 
 # ---------------------------------------------------------------------------------------------------------------------
@@ -75,13 +76,13 @@ def calculate_recognition_rate(f_range, sorted_vector_1, sorted_vector_2):
 
 
 # ---------------------------------------------------------------------------------------------------------------------
-def plot_recognition_rate_metrics(f_range, recognition_rates, legend, wait_with_plotting=False):
+def plot_recognition_rate_metrics(f_range, recognition_rates, legend, title="Recognition rate of centrality metrics", wait_with_plotting=False):
     plt.figure()
 
     for recognition_rate in recognition_rates:
         plt.plot(f_range, recognition_rate)
 
-    plt.title("Recognition rate of centrality metrics")
+    plt.title(title)
     plt.gca().set_xlim([0.05, 0.5])
     plt.gca().set_ylim([0, 1])
     plt.xlabel('Fraction of nodes in comparison set')
@@ -259,18 +260,50 @@ recognition_rate_infection_betweenness = calculate_recognition_rate(f_range,
 recognition_rates.append(recognition_rate_infection_betweenness)
 recognition_labels.append("Betweenness")
 
+# random_vector = np.arange(1, 168)
+# np.random.shuffle(random_vector)
+# recognition_rate_infection_random = calculate_recognition_rate(f_range,
+#                                                             sorted_infection_vector,
+#                                                             random_vector
+#                                                             )
+# recognition_rates.append(recognition_rate_infection_random)
+# recognition_labels.append("Random")
 
-# Q13
 
-sorted_average_time_vector = create_node_vector_sorted_on_average_time_to_reach_each_node(time_to_infection)
-
-recognition_rate_average_time = calculate_recognition_rate(f_range, sorted_infection_vector, sorted_average_time_vector)
-recognition_rates.append(recognition_rate_average_time)
-recognition_labels.append("Average Time")
 
 plot_recognition_rate_metrics(f_range,
                               recognition_rates,
                               recognition_labels,
+                              title="Recognition rate centrality measures and speed to reach 80%",
+                              wait_with_plotting=True
+                              )
+
+
+# Q13
+
+recognition_rates_2 = []
+recognition_labels_2 = []
+
+sorted_average_time_vector = create_node_vector_sorted_on_average_time_to_reach_each_node(time_to_infection)
+
+recognition_rate_average_time = calculate_recognition_rate(f_range, sorted_infection_vector, sorted_average_time_vector)
+recognition_rates_2.append(recognition_rate_average_time)
+recognition_labels_2.append("R")
+
+recognition_rates_2.append(calculate_recognition_rate(f_range,
+                                                      sorted_average_time_vector,
+                                                      sorted_degree_vector))
+recognition_labels_2.append("Degree")
+
+recognition_rates_2.append(calculate_recognition_rate(f_range,
+                                                      sorted_average_time_vector,
+                                                      sorted_clustering_vector))
+recognition_labels_2.append("Clustering Coefficient")
+
+plot_recognition_rate_metrics(f_range,
+                              recognition_rates_2,
+                              recognition_labels_2,
+                              title="Recognition rate centrality measures and average time to reach nodes within 80%",
                               wait_with_plotting=True
                               )
 
