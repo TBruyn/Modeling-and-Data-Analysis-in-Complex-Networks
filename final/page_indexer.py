@@ -33,5 +33,12 @@ for i in tqdm(range(start_page_list['total_pages'])):
 with open('pagelists.json', 'w', encoding='utf-8') as file:
     json.dump(page_lists, file, indent=4)
 
+pages = []
+[[pages.append(item) for item in page['items']] for page in page_lists]
+# print(pages[0:5])
+len(pages)
+with open('pages.json', 'w', encoding='utf-8') as file:
+    json.dump(pages, file, indent=4)
+
 
 # pages = [p for p in start_page_list['items']]
