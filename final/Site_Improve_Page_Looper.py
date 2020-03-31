@@ -42,8 +42,5 @@ class Site_Improve_Page_Looper:
             print("Ending execution of " + command)
             return
 
-        pages = []
-        [[pages.append(item) for item in page['items']] for page in page_lists]
-
         with open(output_file, 'w', encoding='utf-8') as file:
-            json.dump(pages, file, indent=4)
+            json.dump(page_lists, file, indent=4)
