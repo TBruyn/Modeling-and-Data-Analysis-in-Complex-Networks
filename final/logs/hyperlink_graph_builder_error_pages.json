@@ -1,0 +1,3 @@
+{
+    "http://software.tudelft.nl": "HTTPSConnectionPool(host='software.tudelft.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(\"bad handshake: Error([('SSL routines', 'tls_process_server_certificate', 'certificate verify failed')])\")))"
+}
