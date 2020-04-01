@@ -1,5 +1,9 @@
 **/personal/**
 **/junk/**
+**/.idea/**
+**/.vscode/**
+**/__pycache__/**
+**/.ipynb_checkpoints/**
 
 **/secret*
 *.pickle
