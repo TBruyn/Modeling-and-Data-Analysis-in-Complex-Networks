@@ -22,10 +22,18 @@ merged_traffic = {}
 
 [merged_traffic.update(file) for file in json_files]
 
+traffic_array = list(merged_traffic.values())
+
 with open(path + 'merged_traffic_' + timestamp + '.json', 'w', encoding='utf-8') as file:
     json.dump(merged_traffic, file, indent=4)
 
+with open(path + 'merged_traffic_array_latest.json', 'w', encoding='utf-8') as file:
+    json.dump(traffic_array, file, indent=4)
+
 print("Merged:")
 pprint.pprint(file_list)
+print("Number of visitors in traffic")
+print(len(merged_traffic))
 print("Output file:")
 print(path + 'merged_traffic_' + timestamp + '.json')
+print(path + 'merged_traffic_array_latest.json')
