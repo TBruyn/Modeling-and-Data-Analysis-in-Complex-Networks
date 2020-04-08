@@ -1,0 +1,30 @@
+# Project plan
+
+## Goal
+
+Create a model of how a user visits the website.
+
+![](figures/Visit_model.png)
+
+## Data per page
+
+Per page we know:
+
+- Page views
+- Visits
+- Bounce rate
+
+For a sample of users we know:
+
+- Pages visited
+- Entry page
+
+## Model parameters
+
+- Links between pages
+- Page views
+- Total number of steps taken
+
+## Test our visit model
+
+For each visitor in our sample, we know the entry page. With our visitor model we can simulate visits with the entry pages we know and see how much our simulated visits resemble actual visits. This will give us a metric on how good our model is.
