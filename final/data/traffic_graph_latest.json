@@ -2089,13 +2089,443 @@
         },
         {
             "attr_dict": {
+                "id": 363444903,
+                "title": "Programme",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:08+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/"
+        },
+        {
+            "attr_dict": {
+                "id": 364012634,
+                "title": "Graduation",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/graduation/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:04+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/graduation/"
+        },
+        {
+            "attr_dict": {
+                "id": 665303620,
+                "title": "Scientific staff",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/scientific-staff/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:08+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/scientific-staff/"
+        },
+        {
+            "attr_dict": {
+                "id": 665303634,
+                "title": "Materials Science and Engineering",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:44+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 665303621,
+                "title": "People",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:04+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/"
+        },
+        {
+            "attr_dict": {
+                "id": 363445552,
+                "title": "Track: Data Science & Technology",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:22+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/"
+        },
+        {
+            "attr_dict": {
+                "id": 364873406,
+                "title": "MSc Complex Systems Engineering and Management",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:58+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/"
+        },
+        {
+            "attr_dict": {
+                "id": 363442593,
+                "title": "MSc Computer Science",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:04+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/"
+        },
+        {
+            "attr_dict": {
+                "id": 363445179,
+                "title": "MSc Management of Technology",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:26+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/"
+        },
+        {
+            "attr_dict": {
+                "id": 556710032,
+                "title": "Thematic minor overview",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:02+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/"
+        },
+        {
+            "attr_dict": {
+                "id": 363450691,
+                "title": "Minor",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/minor/"
+        },
+        {
+            "attr_dict": {
+                "id": 665420873,
+                "title": "Self-composed minor",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/self-composed-minor/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:01+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/programmes/minor/self-composed-minor/"
+        },
+        {
+            "attr_dict": {
+                "id": 372257472,
+                "title": "Duncan McMillan Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:10+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/"
+        },
+        {
+            "attr_dict": {
+                "id": 363444558,
+                "title": "Biotechnology",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:55+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/"
+        },
+        {
+            "attr_dict": {
+                "id": 363482095,
+                "title": "Research groups",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:59+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/"
+        },
+        {
+            "attr_dict": {
+                "id": 363502160,
+                "title": "Kristina Djanashvili Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:03+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/"
+        },
+        {
+            "attr_dict": {
+                "id": 363502075,
+                "title": "Peter-Leon Hagedoorn Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:04+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "attr_dict": {
+                "id": 621388824,
+                "title": "Hollmann Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:06+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "attr_dict": {
+                "id": 529792862,
+                "title": "Caroline Paul Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:08+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "attr_dict": {
+                "id": 503558978,
+                "title": "X TU Delft (@x.tudelft) \u00e2\u20ac\u00a2 Instagram photos and videos",
+                "url": "https://www.instagram.com/x.tudelft/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:48+02:00"
+            },
+            "id": "https://www.instagram.com/x.tudelft/"
+        },
+        {
+            "attr_dict": {
+                "id": 503331367,
+                "title": "X",
+                "url": "https://www.tudelft.nl/en/x/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:10+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/x/"
+        },
+        {
+            "attr_dict": {
+                "id": 667932364,
+                "title": "Update coronavirus: closure X extended until 28 April",
+                "url": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:14+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/"
+        },
+        {
+            "attr_dict": {
+                "id": 662365413,
+                "title": "Boating Licence",
+                "url": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:21+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/"
+        },
+        {
+            "attr_dict": {
+                "id": 666064626,
+                "title": "Corona virus update: X will be closed immediately",
+                "url": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:30+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "attr_dict": {
+                "id": 363443960,
+                "title": "Visa & Residence Permit",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:20+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/"
+        },
+        {
+            "attr_dict": {
+                "id": 453354085,
+                "title": "The revitalisation system",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:09+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/"
+        },
+        {
+            "attr_dict": {
+                "id": 363462148,
+                "title": "MSc Design for Interaction",
+                "url": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:26+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/"
+        },
+        {
+            "attr_dict": {
+                "id": 452936730,
+                "title": "A new Unaccompanied Minors service",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:36+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/"
+        },
+        {
+            "attr_dict": {
+                "id": 625084711,
+                "title": "MoMi Study Progress Monitoring",
+                "url": "https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:58+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/"
+        },
+        {
+            "attr_dict": {
+                "id": 625084250,
+                "title": "MoMi Study Progress Monitoring",
+                "url": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:54+02:00"
+            },
+            "id": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/"
+        },
+        {
+            "attr_dict": {
                 "id": 665073605,
                 "title": "Information regarding the coronavirus",
                 "url": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/",
                 "has_integration": false,
-                "last_page_view": "2020-04-08T10:19:25+02:00"
+                "last_page_view": "2020-04-08T17:13:58+02:00"
             },
             "id": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
+        },
+        {
+            "attr_dict": {
+                "id": 363467772,
+                "title": "Search Jobs",
+                "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:49+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "attr_dict": {
+                "id": 363485820,
+                "title": "Voorleeshulp: BrowseAloud",
+                "url": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:09+02:00"
+            },
+            "id": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
+        },
+        {
+            "attr_dict": {
+                "id": 648033420,
+                "title": "Wetenschappelijke staf",
+                "url": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:31+02:00"
+            },
+            "id": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
+            "attr_dict": {
+                "id": 417404694,
+                "title": "Requirements_for_video_showcase.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:35+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 653575109,
+                "title": "MSc Graduation",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:39+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/"
+        },
+        {
+            "attr_dict": {
+                "id": 653703733,
+                "title": "Deliverables",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:45+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/"
+        },
+        {
+            "attr_dict": {
+                "id": 653573666,
+                "title": "Downloads",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:52+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
+        },
+        {
+            "attr_dict": {
+                "id": 513212343,
+                "title": "20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:00+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 512940946,
+                "title": "20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:19+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 655274888,
+                "title": "handout_Graduation_deliverables",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:40+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 655506052,
+                "title": "Letter after obtaining Green Light - 30 ec (wijziging september 2019- GPB)",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:44+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "attr_dict": {
+                "id": 363443261,
+                "title": "Guidance",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/guidance/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:29+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/practical-matters/guidance/"
+        },
+        {
+            "attr_dict": {
+                "id": 596681811,
+                "title": "NL_AcademischeJaarkalender2019-2020.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:42+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf"
         },
         {
             "attr_dict": {
@@ -2695,16 +3125,6 @@
                 "last_page_view": "2020-04-07T18:43:30+02:00"
             },
             "id": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/staff/staff-water-resources-management/headsecretary/prof-dr-ir-nick-van-de-giesen/"
-        },
-        {
-            "attr_dict": {
-                "id": 596681811,
-                "title": "NL_AcademischeJaarkalender2019-2020.pdf",
-                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf",
-                "has_integration": false,
-                "last_page_view": "2020-04-07T18:43:25+02:00"
-            },
-            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf"
         },
         {
             "attr_dict": {
@@ -3696,16 +4116,6 @@
         },
         {
             "attr_dict": {
-                "id": 363467772,
-                "title": "Search Jobs",
-                "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
-                "has_integration": false,
-                "last_page_view": "2020-04-03T23:29:32+02:00"
-            },
-            "id": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
-        },
-        {
-            "attr_dict": {
                 "id": 363445223,
                 "title": "PhD",
                 "url": "https://www.tudelft.nl/onderwijs/opleidingen/phd/",
@@ -4585,8 +4995,8 @@
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
         },
         {
-            "visited_together": 11,
-            "weight": 0.4583333333333333,
+            "visited_together": 16,
+            "weight": 0.6666666666666666,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
         },
@@ -4651,8 +5061,8 @@
             "target": "https://www.tudelft.nl/en/stories/articles/a-post-coronavirus-society/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.08333333333333333,
+            "visited_together": 3,
+            "weight": 0.125,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/en/"
         },
@@ -4714,6 +5124,36 @@
             "visited_together": 2,
             "weight": 0.08333333333333333,
             "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.125,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/stories/articles/aandacht-voor-eenzame-jongeren-in-delft/"
         },
         {
@@ -4732,25 +5172,7 @@
             "visited_together": 1,
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl",
-            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
-            "source": "https://www.tudelft.nl",
-            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
-            "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/x/rent-our-venue/algemene-voorwaarden/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
-            "source": "https://www.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
         },
         {
             "visited_together": 1,
@@ -5197,8 +5619,8 @@
             "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/topsport-en-studie/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.08333333333333333,
+            "visited_together": 3,
+            "weight": 0.125,
             "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
         },
@@ -5219,6 +5641,12 @@
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/huidige-maatregelen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/en/"
         },
         {
             "visited_together": 1,
@@ -5485,10 +5913,22 @@
             "target": "https://www.tudelft.nl/en/education/practical-matters/"
         },
         {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
+        },
+        {
             "visited_together": 1,
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/",
+            "target": "https://webmail.tudelft.nl"
         },
         {
             "visited_together": 1,
@@ -5881,14 +6321,14 @@
             "target": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
             "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
             "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.16666666666666666,
+            "visited_together": 6,
+            "weight": 0.25,
             "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
             "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/"
         },
@@ -5911,6 +6351,24 @@
             "target": "https://www.tudelft.nl/over-tu-delft/"
         },
         {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
+            "target": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
             "visited_together": 1,
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
@@ -5927,6 +6385,24 @@
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
             "target": "https://www.tudelft.nl/over-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
+            "target": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
         },
         {
             "visited_together": 4,
@@ -6025,8 +6501,8 @@
             "target": "https://www.tudelft.nl/en/current/latest-news/article/detail/regenradar-geinstalleerd-in-rotterdam/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.125,
+            "visited_together": 5,
+            "weight": 0.20833333333333334,
             "source": "https://tudelft.zoom.us",
             "target": "https://www.tudelft.nl/lr/actueel/informatie-coronavirus/thuiswerken/"
         },
@@ -6035,6 +6511,12 @@
             "weight": 0.125,
             "source": "https://tudelft.zoom.us",
             "target": "https://www.tudelft.nl/en/ae/news/information-coronavirus/working-from-home/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://tudelft.zoom.us",
+            "target": "https://tudelft.zoom.us"
         },
         {
             "visited_together": 1,
@@ -6691,6 +7173,36 @@
             "target": "https://www.tudelft.nl/en/education/programmes/masters/architecture-urbanism-and-building-sciences/msc-architecture-urbanism-and-building-sciences/"
         },
         {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/"
+        },
+        {
+            "visited_together": 9,
+            "weight": 0.375,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/"
+        },
+        {
             "visited_together": 1,
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/en/education/programmes/masters/",
@@ -6719,12 +7231,6 @@
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/en/education/programmes/masters/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.125,
-            "source": "https://www.tudelft.nl/en/education/programmes/masters/",
-            "target": "https://www.tudelft.nl/en/education/programmes/masters/"
         },
         {
             "visited_together": 3,
@@ -6799,8 +7305,8 @@
             "target": "https://www.tudelft.nl/en/education/programmes/masters/architecture-urbanism-and-building-sciences/msc-architecture-urbanism-and-building-sciences/master-tracks/architecture/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.08333333333333333,
+            "visited_together": 3,
+            "weight": 0.125,
             "source": "https://www.tudelft.nl/io/actueel/corona/",
             "target": "https://www.tudelft.nl/io/"
         },
@@ -6955,10 +7461,22 @@
             "target": "https://www.scientias.nl/toerist-is-enorme-bedreiging-klimaatakkoord-parijs/"
         },
         {
-            "visited_together": 8,
-            "weight": 0.3333333333333333,
+            "visited_together": 9,
+            "weight": 0.375,
             "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/",
             "target": "https://webmail.tudelft.nl"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/",
+            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://webmail.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
         },
         {
             "visited_together": 4,
@@ -6973,10 +7491,22 @@
             "target": "https://www.tudelft.nl/en/education/practical-matters/scholarships/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
             "source": "https://www.tudelft.nl/en/education/practical-matters/",
             "target": "https://www.tudelft.nl/en/education/practical-matters/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.125,
+            "source": "https://www.tudelft.nl/en/education/practical-matters/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/education/practical-matters/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/guidance/"
         },
         {
             "visited_together": 1,
@@ -7843,10 +8373,352 @@
             "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.08333333333333333,
+            "visited_together": 3,
+            "weight": 0.125,
             "source": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/",
             "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/graduation/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/scientific-staff/",
+            "target": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/scientific-staff/",
+            "target": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/",
+            "target": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/self-composed-minor/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/programmes/minor/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/self-composed-minor/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.instagram.com/x.tudelft/",
+            "target": "https://www.tudelft.nl/en/x/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.instagram.com/x.tudelft/",
+            "target": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.instagram.com/x.tudelft/",
+            "target": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.instagram.com/x.tudelft/",
+            "target": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/x/",
+            "target": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/x/",
+            "target": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/x/",
+            "target": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/",
+            "target": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/",
+            "target": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/",
+            "target": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/",
+            "target": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
+            "target": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/guidance/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+            "target": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.16666666666666666,
+            "source": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+            "target": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+            "target": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/",
+            "target": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/",
+            "target": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/",
+            "target": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/"
         },
         {
             "visited_together": 1,
@@ -7877,6 +8749,210 @@
             "weight": 0.041666666666666664,
             "source": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/",
             "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/current-measures/thesis-defences/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+            "target": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.08333333333333333,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/finding-a-position/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/jobs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/",
+            "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.041666666666666664,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
         },
         {
             "visited_together": 2,
@@ -9299,24 +10375,6 @@
             "weight": 0.08333333333333333,
             "source": "https://www.tudelft.nl/en/proton-therapy-research/",
             "target": "https://www.tudelft.nl/en/proton-therapy-research/example-projects/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
-            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.08333333333333333,
-            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/finding-a-position/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.041666666666666664,
-            "source": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/jobs/"
         },
         {
             "visited_together": 1,

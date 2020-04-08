@@ -7112,6 +7112,1759 @@
         ]
     },
     {
+        "id": 4400418989,
+        "city": "Lelystad",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:08+02:00",
+        "organisation": "Euronet Communications B.V.",
+        "page_views": 2,
+        "region": "Flevoland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418989/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418989/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 364012634,
+                "title": "Graduation",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/graduation/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:04+02:00"
+            },
+            {
+                "id": 363444903,
+                "title": "Programme",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:08+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418647,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:08+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 3,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418647/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418647/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665303634,
+                "title": "Materials Science and Engineering",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:44+02:00"
+            },
+            {
+                "id": 665303621,
+                "title": "People",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:04+02:00"
+            },
+            {
+                "id": 665303620,
+                "title": "Scientific staff",
+                "url": "https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/people/scientific-staff/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:08+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416217,
+        "city": "Paderborn",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "last_page_view": "2020-04-08T17:15:22+02:00",
+        "organisation": "Vodafone Gmbh",
+        "page_views": 8,
+        "region": "Nordrhein-Westfalen",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416217/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416217/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363442585,
+                "title": "Masters",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:50+02:00"
+            },
+            {
+                "id": 364873406,
+                "title": "MSc Complex Systems Engineering and Management",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:58+02:00"
+            },
+            {
+                "id": 363442585,
+                "title": "Masters",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:58+02:00"
+            },
+            {
+                "id": 363442593,
+                "title": "MSc Computer Science",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:04+02:00"
+            },
+            {
+                "id": 363442585,
+                "title": "Masters",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:13+02:00"
+            },
+            {
+                "id": 363445179,
+                "title": "MSc Management of Technology",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/mot/mot/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:26+02:00"
+            },
+            {
+                "id": 363442585,
+                "title": "Masters",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:06+02:00"
+            },
+            {
+                "id": 363445552,
+                "title": "Track: Data Science & Technology",
+                "url": "https://www.tudelft.nl/en/education/programmes/masters/computer-science/msc-computer-science/the-data-science-technology-track/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:22+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418471,
+        "city": "Vlaardingen",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:02+02:00",
+        "organisation": "TELE2 Consumer Is One Of The Largest Isp S In The Netherlands",
+        "page_views": 4,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418471/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418471/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363450691,
+                "title": "Minor",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:46+02:00"
+            },
+            {
+                "id": 556710032,
+                "title": "Thematic minor overview",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:58+02:00"
+            },
+            {
+                "id": 665420873,
+                "title": "Self-composed minor",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/self-composed-minor/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:01+02:00"
+            },
+            {
+                "id": 556710032,
+                "title": "Thematic minor overview",
+                "url": "https://www.tudelft.nl/en/education/programmes/minor/thematic-minor-overview/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:02+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400419039,
+        "city": "Tilburg",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:01+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Noord-Brabant",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400419039/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400419039/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363823039,
+                "title": "TU Delft maakt gratis online cursus programmeren voor kinderen",
+                "url": "https://www.tudelft.nl/2016/tu-delft/tu-delft-maakt-gratis-online-cursus-programmeren-voor-kinderen/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:01+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416479,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:10+02:00",
+        "organisation": "Customers",
+        "page_views": 44,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416479/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416479/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363444558,
+                "title": "Biotechnology",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:55+02:00"
+            },
+            {
+                "id": 363482095,
+                "title": "Research groups",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:59+02:00"
+            },
+            {
+                "id": 363502160,
+                "title": "Kristina Djanashvili Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:03+02:00"
+            },
+            {
+                "id": 363502075,
+                "title": "Peter-Leon Hagedoorn Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:04+02:00"
+            },
+            {
+                "id": 363502160,
+                "title": "Kristina Djanashvili Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/kristina-djanashvili-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:05+02:00"
+            },
+            {
+                "id": 621388824,
+                "title": "Hollmann Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/hollmann-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:06+02:00"
+            },
+            {
+                "id": 363502075,
+                "title": "Peter-Leon Hagedoorn Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/peter-leon-hagedoorn-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:07+02:00"
+            },
+            {
+                "id": 372257472,
+                "title": "Duncan McMillan Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:07+02:00"
+            },
+            {
+                "id": 529792862,
+                "title": "Caroline Paul Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/caroline-paul-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:08+02:00"
+            },
+            {
+                "id": 372257472,
+                "title": "Duncan McMillan Group",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/biocatalysis/duncan-mcmillan-group/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:10+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418200,
+        "city": "Mah\u00f3n",
+        "country_code": "ES",
+        "country_name": "Spain",
+        "last_page_view": "2020-04-08T17:14:48+02:00",
+        "organisation": "Red De Servicios Ip",
+        "page_views": 7,
+        "region": "Islas Baleares",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418200/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418200/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 503331367,
+                "title": "X",
+                "url": "https://www.tudelft.nl/en/x/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:10+02:00"
+            },
+            {
+                "id": 667932364,
+                "title": "Update coronavirus: closure X extended until 28 April",
+                "url": "https://www.tudelft.nl/en/2020/x/update-coronavirus-closure-x-extended-until-28-april/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:14+02:00"
+            },
+            {
+                "id": 662365413,
+                "title": "Boating Licence",
+                "url": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:21+02:00"
+            },
+            {
+                "id": 666064626,
+                "title": "Corona virus update: X will be closed immediately",
+                "url": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:30+02:00"
+            },
+            {
+                "id": 662365413,
+                "title": "Boating Licence",
+                "url": "https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z/boating-licence/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:30+02:00"
+            },
+            {
+                "id": 666064626,
+                "title": "Corona virus update: X will be closed immediately",
+                "url": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:36+02:00"
+            },
+            {
+                "id": 503558978,
+                "title": "X TU Delft (@x.tudelft) \u00e2\u20ac\u00a2 Instagram photos and videos",
+                "url": "https://www.instagram.com/x.tudelft/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:48+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418472,
+        "city": "Amsterdam",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:47+02:00",
+        "organisation": "Euronet Communications B.V.",
+        "page_views": 1,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418472/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418472/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:47+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418559,
+        "city": "The Hague",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:46+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418559/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418559/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:46+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418505,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:45+02:00",
+        "organisation": "Delft University Of Technology Network",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418505/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418505/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:45+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418344,
+        "city": "Apeldoorn",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:27+02:00",
+        "organisation": "Ziggo Lgi Internal Cgnat For IPV4-IPV6 Aftr",
+        "page_views": 1,
+        "region": "Gelderland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418344/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418344/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 490882225,
+                "title": "Contracteren",
+                "url": "https://www.tudelft.nl/bk/studeren/beroepservaringsperiode/contracteren/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:27+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418197,
+        "city": "Sevenum",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:22+02:00",
+        "organisation": "Xenosite Isp Xsdsl For Dhcp Customers",
+        "page_views": 1,
+        "region": "Limburg",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418197/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418197/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363713013,
+                "title": "Gewone differentiaalvergelijkingen",
+                "url": "https://www.tudelft.nl/ewi/studeren/online-onderwijs/wiskunde-uitgelegd/gewone-differentiaalvergelijkingen/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:22+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400418100,
+        "city": "Bagalkot",
+        "country_code": "IN",
+        "country_name": "India",
+        "last_page_view": "2020-04-08T17:14:20+02:00",
+        "organisation": "Reliance Jio Infocomm Ltd",
+        "page_views": 2,
+        "region": "Karnataka",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418100/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400418100/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363449532,
+                "title": "Practical matters",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:14+02:00"
+            },
+            {
+                "id": 363443960,
+                "title": "Visa & Residence Permit",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:20+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417126,
+        "city": "Falavarjan",
+        "country_code": "IR",
+        "country_name": "Iran, Islamic Republic of",
+        "last_page_view": "2020-04-08T17:15:09+02:00",
+        "organisation": "Mobile Communication Company Of Iran",
+        "page_views": 5,
+        "region": "Esfahan",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417126/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417126/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363462148,
+                "title": "MSc Design for Interaction",
+                "url": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:26+02:00"
+            },
+            {
+                "id": 452936730,
+                "title": "A new Unaccompanied Minors service",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:36+02:00"
+            },
+            {
+                "id": 452936730,
+                "title": "A new Unaccompanied Minors service",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/a-new-unaccompanied-minors-service/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:02+02:00"
+            },
+            {
+                "id": 453354085,
+                "title": "The revitalisation system",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:14+02:00"
+            },
+            {
+                "id": 453354085,
+                "title": "The revitalisation system",
+                "url": "https://www.tudelft.nl/en/ide/news/congresses-and-symposia/exceed-17/exceed/the-revitalisation-system/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:09+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417953,
+        "city": "Alkmaar",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:14:06+02:00",
+        "organisation": "Ziggo Lgi Internal Cgnat For IPV4-IPV6 Aftr",
+        "page_views": 2,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417953/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417953/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 339997911,
+                "title": "Industrieel Ontwerpen",
+                "url": "https://www.tudelft.nl/io/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:02+02:00"
+            },
+            {
+                "id": 666024658,
+                "title": "Informatie coronavirus",
+                "url": "https://www.tudelft.nl/io/actueel/corona/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:14:06+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417832,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:58+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 2,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417832/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417832/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 625084250,
+                "title": "MoMi Study Progress Monitoring",
+                "url": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:54+02:00"
+            },
+            {
+                "id": 625084711,
+                "title": "MoMi Study Progress Monitoring",
+                "url": "https://www.tudelft.nl/en/student/legal-position/education-regulations/momi-study-progress-monitoring/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:58+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415311,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:58+02:00",
+        "organisation": "Fiber",
+        "page_views": 4,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415311/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415311/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 413599885,
+                "title": "Online ICT-diensten",
+                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:55+02:00"
+            },
+            {
+                "id": 258862709,
+                "url": "https://webmail.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:56+02:00"
+            },
+            {
+                "id": 337155966,
+                "title": "Delft University of Technology",
+                "url": "https://www.tudelft.nl/en/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:56+02:00"
+            },
+            {
+                "id": 665073605,
+                "title": "Information regarding the coronavirus",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:58+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417746,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:56+02:00",
+        "organisation": "Pool For Fixed Wba Users",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417746/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417746/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 661186822,
+                "title": "Data Stewardship",
+                "url": "https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:56+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416321,
+        "city": "Eindhoven",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:49+02:00",
+        "organisation": "Bombeeck Communication",
+        "page_views": 7,
+        "region": "Noord-Brabant",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416321/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416321/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:47+02:00"
+            },
+            {
+                "id": 363485820,
+                "title": "Voorleeshulp: BrowseAloud",
+                "url": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:09+02:00"
+            },
+            {
+                "id": 363442962,
+                "title": "Werken bij TU Delft",
+                "url": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:16+02:00"
+            },
+            {
+                "id": 363443419,
+                "title": "Vacatures",
+                "url": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:18+02:00"
+            },
+            {
+                "id": 648033420,
+                "title": "Wetenschappelijke staf",
+                "url": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/wetenschappelijke-staf/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:31+02:00"
+            },
+            {
+                "id": 363443419,
+                "title": "Vacatures",
+                "url": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:45+02:00"
+            },
+            {
+                "id": 363467772,
+                "title": "Search Jobs",
+                "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:49+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417489,
+        "city": "Buffalo",
+        "country_code": "US",
+        "country_name": "United States",
+        "last_page_view": "2020-04-08T17:13:40+02:00",
+        "organisation": "Coloup",
+        "page_views": 1,
+        "region": "New York",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417489/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417489/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 663975995,
+                "title": "Dennis Schaart",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/radiation-science-technology/research/research-groups/medical-physics-technology/people/dennis-schaart/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:40+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417488,
+        "city": "Hoogeveen",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:37+02:00",
+        "organisation": "Kpn B.V.",
+        "page_views": 1,
+        "region": "Drenthe",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417488/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417488/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 504042080,
+                "title": "Prof.dr. A.R. Pereira Roders",
+                "url": "https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/professors/profdr-ar-pereira-roders/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:37+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415028,
+        "city": "Zaandam",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:35+02:00",
+        "organisation": "Soho Customers",
+        "page_views": 8,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415028/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415028/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 653575109,
+                "title": "MSc Graduation",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:39+02:00"
+            },
+            {
+                "id": 653703733,
+                "title": "Deliverables",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/deliverables/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:45+02:00"
+            },
+            {
+                "id": 653573666,
+                "title": "Downloads",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:52+02:00"
+            },
+            {
+                "id": 513212343,
+                "title": "20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Assessment+form+MSc+Graduation+project+%28July+2018%29.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:00+02:00"
+            },
+            {
+                "id": 512940946,
+                "title": "20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/20180917+Rubric+MSc+Graduation+project+%28July+2018%29.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:19+02:00"
+            },
+            {
+                "id": 655274888,
+                "title": "handout_Graduation_deliverables",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:40+02:00"
+            },
+            {
+                "id": 655506052,
+                "title": "Letter after obtaining Green Light - 30 ec (wijziging september 2019- GPB)",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:44+02:00"
+            },
+            {
+                "id": 417404694,
+                "title": "Requirements_for_video_showcase.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Requirements_for_video_showcase.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:35+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417508,
+        "city": "Leiden",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:34+02:00",
+        "organisation": "Xxlnet",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417508/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417508/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:34+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417053,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:29+02:00",
+        "organisation": "Stichting Duwo",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417053/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417053/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:29+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417124,
+        "city": "Schoonhoven",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:26+02:00",
+        "organisation": "Customers",
+        "page_views": 2,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417124/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417124/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:23+02:00"
+            },
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:26+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417083,
+        "city": "Monster",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:20+02:00",
+        "organisation": "XS4All Internet Bv",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417083/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417083/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:20+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416747,
+        "city": "Lisserbroek",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:10+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 2,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416747/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416747/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:02+02:00"
+            },
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:10+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416877,
+        "city": "Geldrop",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:03+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Noord-Brabant",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416877/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416877/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:03+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416693,
+        "city": "Rotterdam",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:13:00+02:00",
+        "organisation": "Voip Customers Nl",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416693/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416693/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:13:00+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416533,
+        "city": "Amsterdam",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:59+02:00",
+        "organisation": "TELE2 Nederland B.V.",
+        "page_views": 1,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416533/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416533/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 257119884,
+                "url": "http://www.studiegids.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:59+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416388,
+        "city": "Heemskerk",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:53+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416388/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416388/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 624386544,
+                "title": "SURFfilesender",
+                "url": "https://www.tudelft.nl/2019/x/surffilesender/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:53+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416161,
+        "city": "Bruinisse",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:46+02:00",
+        "organisation": "Customers",
+        "page_views": 3,
+        "region": "Zeeland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416161/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416161/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:44+02:00"
+            },
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:46+02:00"
+            },
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:46+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415978,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:45+02:00",
+        "organisation": "Stichting Duwo",
+        "page_views": 3,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415978/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415978/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 667320780,
+                "title": "Thuiswerken",
+                "url": "https://www.tudelft.nl/lr/actueel/informatie-coronavirus/thuiswerken/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:33+02:00"
+            },
+            {
+                "id": 667821537,
+                "title": "Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom",
+                "url": "https://tudelft.zoom.us",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:36+02:00"
+            },
+            {
+                "id": 667821537,
+                "title": "Video Conferencing, Web Conferencing, Online Meetings, Screen Sharing - Zoom",
+                "url": "https://tudelft.zoom.us",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:45+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415807,
+        "city": "Los Angeles",
+        "country_code": "US",
+        "country_name": "United States",
+        "last_page_view": "2020-04-08T17:12:44+02:00",
+        "organisation": "IT7 Networks Inc",
+        "page_views": 4,
+        "region": "California",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415807/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415807/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 363449532,
+                "title": "Practical matters",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:27+02:00"
+            },
+            {
+                "id": 363443261,
+                "title": "Guidance",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/guidance/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:29+02:00"
+            },
+            {
+                "id": 363449532,
+                "title": "Practical matters",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:40+02:00"
+            },
+            {
+                "id": 363443960,
+                "title": "Visa & Residence Permit",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:44+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400416081,
+        "city": "Rijswijk",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:30+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416081/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400416081/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:30+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415804,
+        "city": "Madrid",
+        "country_code": "ES",
+        "country_name": "Spain",
+        "last_page_view": "2020-04-08T17:12:23+02:00",
+        "organisation": "Telefonica De Espana",
+        "page_views": 1,
+        "region": "Madrid",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415804/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415804/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 504042080,
+                "title": "Prof.dr. A.R. Pereira Roders",
+                "url": "https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/professors/profdr-ar-pereira-roders/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:23+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400417601,
+        "city": "Bellaire",
+        "country_code": "US",
+        "country_name": "United States",
+        "last_page_view": "2020-04-08T17:12:15+02:00",
+        "organisation": "Att Corp.",
+        "page_views": 3,
+        "region": "Texas",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417601/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400417601/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:29+02:00"
+            },
+            {
+                "id": 337155966,
+                "title": "Delft University of Technology",
+                "url": "https://www.tudelft.nl/en/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:12+02:00"
+            },
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:15+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415668,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:10+02:00",
+        "organisation": "Stichting Duwo",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415668/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415668/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:10+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415546,
+        "city": "Den Hoorn",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:12:05+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415546/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415546/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:12:05+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415408,
+        "city": "Huizen",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:59+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Noord-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415408/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415408/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400415008,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:42+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 2,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415008/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415008/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 416399181,
+                "title": "Academische jaarindeling",
+                "url": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:25+02:00"
+            },
+            {
+                "id": 596681811,
+                "title": "NL_AcademischeJaarkalender2019-2020.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/NL_AcademischeJaarkalender2019-2020.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:11:42+02:00"
+            }
+        ]
+    },
+    {
+        "id": 4400415131,
+        "city": "Leiden",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:38+02:00",
+        "organisation": "XS4All Internet Bv",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415131/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400415131/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414701,
+        "city": "The Hague",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:35+02:00",
+        "organisation": "TELE2 Nederland B.V.",
+        "page_views": 3,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414701/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414701/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414866,
+        "city": "Terneuzen",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:27+02:00",
+        "organisation": "Kpn Mobile The Netherlands B.V",
+        "page_views": 2,
+        "region": "Zeeland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414866/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414866/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414974,
+        "city": "Barendrecht",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:23+02:00",
+        "organisation": "TELE2 Nederland B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414974/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414974/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414860,
+        "city": "The Hague",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:20+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414860/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414860/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414752,
+        "city": "Rotterdam",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:17+02:00",
+        "organisation": "Cpe Customers Nl",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414752/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414752/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414750,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:14+02:00",
+        "organisation": "Pool For Fixed Wba Users",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414750/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414750/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414551,
+        "city": "Leiden",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:11:05+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414551/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414551/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414286,
+        "city": "Nootdorp",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:10:50+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414286/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414286/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414099,
+        "city": "Gouda",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:10:47+02:00",
+        "organisation": "Customers",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414099/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414099/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414146,
+        "city": "Delft",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:10:47+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414146/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414146/pages?period=now"
+            }
+        }
+    },
+    {
+        "id": 4400414070,
+        "city": "Pijnacker",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:10:46+02:00",
+        "organisation": "Stichting Kabeltelevisie Pijnacker",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414070/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400414070/pages?period=now"
+            }
+        }
+    },
+    {
         "id": 4400030265,
         "city": "The Hague",
         "country_code": "NL",
@@ -17550,5 +19303,32 @@
             }
         },
         "pagelist": []
+    },
+    {
+        "id": 4400419231,
+        "city": "Rijswijk",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "last_page_view": "2020-04-08T17:15:21+02:00",
+        "organisation": "Ziggo B.V.",
+        "page_views": 1,
+        "region": "Zuid-Holland",
+        "_links": {
+            "details": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400419231/details?period=now"
+            },
+            "pages": {
+                "href": "https://api.siteimprove.com/v2/sites/1348629560/analytics/overview/online_visitors/4400419231/pages?period=now"
+            }
+        },
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "has_integration": false,
+                "last_page_view": "2020-04-08T17:15:21+02:00"
+            }
+        ]
     }
 ]
