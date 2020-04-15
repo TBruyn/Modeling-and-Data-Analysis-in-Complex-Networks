@@ -1,7 +1,7 @@
 import json
 import os
+import time
 from networkx.readwrite import json_graph
-
 
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
@@ -13,6 +13,10 @@ traffic_graph_filename = 'data/' \
                          'traffic_graph_latest.json'
 pages_graph_filename = 'data' \
                        '/hyperlink_graph_builder_output_graph.json'
+
+
+def filenames():
+    return [subgraph_filename, traffic_graph_filename, pages_graph_filename]
 
 
 def load_graph(filename):
@@ -33,5 +37,10 @@ def load_page_graph():
     return load_graph(pages_graph_filename)
 
 
-def filenames():
-    return [subgraph_filename, traffic_graph_filename, pages_graph_filename]
+def save_probability_graph(graph, filename, add_path=True):
+    if add_path:
+        timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
+        filename = dname + '/pipeline/probability_graphs/pgraph_' \
+                   + filename.replace('.json', '') + '_' + timestamp + '.json'
+    with open(filename, 'w', encoding='utf-8') as file:
+        json.dump(json_graph.node_link_data(graph), file, indent=4)
