@@ -1,10 +1,19 @@
 import json
+import os
 from networkx.readwrite import json_graph
 
+if os.path.isfile('/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final/path.txt'):
+    with open('/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final/path.txt') as f:
+        absolute_path = f.read().rstrip('\n')
+else:
+    absolute_path = ""
 
-subgraph_filename = 'data/subgraph_latest.json'
-traffic_graph_filename = 'data/traffic_graph_latest.json'
-pages_graph_filename = 'data/hyperlink_graph_builder_output_graph.json'
+subgraph_filename = absolute_path + 'data/' \
+                    'subgraph_latest.json'
+traffic_graph_filename = absolute_path + 'data/' \
+                         'traffic_graph_latest.json'
+pages_graph_filename = absolute_path + 'data' \
+                       '/hyperlink_graph_builder_output_graph.json'
 
 
 def load_graph(filename):
