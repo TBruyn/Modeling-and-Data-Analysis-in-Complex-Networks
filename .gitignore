@@ -3,6 +3,7 @@
 **/secret*
 *.pickle
 **/*2020*
+*/path.txt
 
 git rm -r .idea
 git rm -r .vscode
