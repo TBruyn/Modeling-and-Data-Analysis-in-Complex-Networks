@@ -37,6 +37,10 @@ def load_page_graph():
     return load_graph(pages_graph_filename)
 
 
+def load_probability_graph(filename):
+    return load_graph('pipeline/probability_graphs/' + pages_graph_filename)
+
+
 def save_probability_graph(graph, filename, add_path=True):
     if add_path:
         timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
