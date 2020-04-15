@@ -3,6 +3,8 @@ import networkx as nx
 from networkx.readwrite import json_graph
 import time
 import GraphLoader
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 path = '/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final/data/'
@@ -26,8 +28,6 @@ while len(nodes) != prev and len(nodes) < 1000:
 
 subgraph = link_graph.subgraph(nodes)
 
-
-
 with open(path + 'subgraph_' + timestamp + '.json', 'w', encoding='utf-8') as file:
     json.dump(json_graph.node_link_data(subgraph), file, indent=4)
 with open(path + 'subgraph_latest.json', 'w', encoding='utf-8') as file:
@@ -36,3 +36,9 @@ with open(path + 'subgraph_latest.json', 'w', encoding='utf-8') as file:
 print('----------------------------------------------------------------------------------------')
 print('Created subgraph')
 print('----------------------------------------------------------------------------------------')
+
+fig, ax = plt.subplots(1, 1, figsize=(50, 50));
+nx.draw(subgraph, ax=ax)
+plt.savefig('/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final//figures/subgraph_latest.svg', format='svg')
+plt.savefig('/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final//figures/subgraph_' + timestamp + '.svg', format='svg')
+print("Plotted subgraph in figures/subgraph_latest.svg")
