@@ -3967,6 +3967,406 @@
         },
         {
             "attr_dict": {
+                "id": 295751814,
+                "title": "SAML 2.0 POST",
+                "url": "https://software.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:46+02:00"
+            },
+            "id": "https://software.tudelft.nl"
+        },
+        {
+            "attr_dict": {
+                "id": 417762861,
+                "title": "Uitschrijven",
+                "url": "https://www.tudelft.nl/studenten/administratie/uitschrijven/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/studenten/administratie/uitschrijven/"
+        },
+        {
+            "attr_dict": {
+                "id": 363454474,
+                "title": "Typografie",
+                "url": "https://www.tudelft.nl/huisstijl/typografie/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:43+02:00"
+            },
+            "id": "https://www.tudelft.nl/huisstijl/typografie/"
+        },
+        {
+            "attr_dict": {
+                "id": 363448662,
+                "title": "Presentaties",
+                "url": "https://www.tudelft.nl/huisstijl/presentaties/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:39+02:00"
+            },
+            "id": "https://www.tudelft.nl/huisstijl/presentaties/"
+        },
+        {
+            "attr_dict": {
+                "id": 363445689,
+                "title": "BSc Applied Earth Sciences",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/aes/bsc-applied-earth-sciences/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:43+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/aes/bsc-applied-earth-sciences/"
+        },
+        {
+            "attr_dict": {
+                "id": 364074644,
+                "title": "Geoscience & Engineering",
+                "url": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:54+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 363442965,
+                "title": "Search",
+                "url": "https://www.tudelft.nl/en/search/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:16+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/search/"
+        },
+        {
+            "attr_dict": {
+                "id": 363849563,
+                "title": "Bachelor",
+                "url": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/education/bachelor/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:19+02:00"
+            },
+            "id": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/education/bachelor/"
+        },
+        {
+            "attr_dict": {
+                "id": 417471962,
+                "title": "Software installaties",
+                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:10+02:00"
+            },
+            "id": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/"
+        },
+        {
+            "attr_dict": {
+                "id": 411886009,
+                "title": "ICT Handleidingen - Medewerkers en studenten",
+                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:10+02:00"
+            },
+            "id": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "attr_dict": {
+                "id": 416894032,
+                "title": "Online ICT-diensten",
+                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:20+02:00"
+            },
+            "id": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/"
+        },
+        {
+            "attr_dict": {
+                "id": 406641852,
+                "title": "ICT Handleidingen - Gasten",
+                "url": "https://www.tudelft.nl/ict-handleidingen/g/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:10+02:00"
+            },
+            "id": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "attr_dict": {
+                "id": 668439017,
+                "title": "Onderwijs",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:31+02:00"
+            },
+            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
+        },
+        {
+            "attr_dict": {
+                "id": 363442866,
+                "title": "Laatste Nieuws",
+                "url": "https://www.tudelft.nl/actueel/laatste-nieuws/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:40+02:00"
+            },
+            "id": "https://www.tudelft.nl/actueel/laatste-nieuws/"
+        },
+        {
+            "attr_dict": {
+                "id": 343836926,
+                "title": "Agenda",
+                "url": "https://www.tudelft.nl/actueel/agenda/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:09+02:00"
+            },
+            "id": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
+            "attr_dict": {
+                "id": 668437514,
+                "title": "Maatregelen TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:26+02:00"
+            },
+            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "attr_dict": {
+                "id": 420575324,
+                "title": "Exam Dates BSc",
+                "url": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/exam-dates-bsc/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:57+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/exam-dates-bsc/"
+        },
+        {
+            "attr_dict": {
+                "id": 417377041,
+                "title": "Bachelor's graduation procedure",
+                "url": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:05:54+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/"
+        },
+        {
+            "attr_dict": {
+                "id": 514018014,
+                "title": "Staff - Dr.ir. S.J. Tans",
+                "url": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash=",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:48+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash="
+        },
+        {
+            "attr_dict": {
+                "id": 372841993,
+                "title": "Bionanoscience",
+                "url": "https://www.tudelft.nl/en/tnw/bn/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:19+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/tnw/bn/"
+        },
+        {
+            "attr_dict": {
+                "id": 363446153,
+                "title": "Bionanoscience",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:20+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/"
+        },
+        {
+            "attr_dict": {
+                "id": 470419062,
+                "title": "Biophysics - AMOLF",
+                "url": "https://amolf.nl/research-groups/biophysics",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:08+02:00"
+            },
+            "id": "https://amolf.nl/research-groups/biophysics"
+        },
+        {
+            "attr_dict": {
+                "id": 258867365,
+                "title": "EService",
+                "url": "https://e-service.tudelft.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:30+02:00"
+            },
+            "id": "https://e-service.tudelft.nl"
+        },
+        {
+            "attr_dict": {
+                "id": 665301123,
+                "title": "Process & Energy",
+                "url": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:34+02:00"
+            },
+            "id": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/"
+        },
+        {
+            "attr_dict": {
+                "id": 417173171,
+                "title": "NetID account",
+                "url": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:40+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "attr_dict": {
+                "id": 652902529,
+                "title": "Admission and application",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/admission-and-application/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:09:55+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/admission-and-application/"
+        },
+        {
+            "attr_dict": {
+                "id": 363450723,
+                "title": "MSc Mechanical Engineering",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:08:23+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 614529096,
+                "title": "Dates & Deadlines",
+                "url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:31+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "attr_dict": {
+                "id": 363447352,
+                "title": "MSc Aerospace Engineering",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:42+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 654953579,
+                "title": "Frequently asked questions",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:55+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "attr_dict": {
+                "id": 402712746,
+                "title": "MSc International",
+                "url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:03+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "attr_dict": {
+                "id": 490850310,
+                "title": "404",
+                "url": "https://www.tudelft.nl/en/eemcs/research/facilities/else-kooi-lab/EKLi/IntranetHome.php",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:55+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/eemcs/research/facilities/else-kooi-lab/EKLi/IntranetHome.php"
+        },
+        {
+            "attr_dict": {
+                "id": 665922657,
+                "title": "AcademicCalendar2020-2021",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/AcademicCalendar2020-2021.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:36+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/AcademicCalendar2020-2021.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 413205446,
+                "title": "Academic calendar",
+                "url": "https://www.tudelft.nl/en/student/education/academic-calendar/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:33+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/student/education/academic-calendar/"
+        },
+        {
+            "attr_dict": {
+                "id": 363599141,
+                "title": "Masters",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FChemische+%7C+Biochemische+%7C+Procestechnologie",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:21+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FChemische+%7C+Biochemische+%7C+Procestechnologie"
+        },
+        {
+            "attr_dict": {
+                "id": 363522364,
+                "title": "Support Staff",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/support-staff/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:07:05+02:00"
+            },
+            "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/support-staff/"
+        },
+        {
+            "attr_dict": {
+                "id": 363608078,
+                "title": "R.S. (Rolf) van Wegberg - R.S. van Wegberg MSc",
+                "url": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/rs-rolf-van-wegberg/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:56+02:00"
+            },
+            "id": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/rs-rolf-van-wegberg/"
+        },
+        {
+            "attr_dict": {
+                "id": 667976748,
+                "title": "Samenwerking FIOD en TU Delft op het gebied van opsporing digitale en financi\u00eble criminaliteit",
+                "url": "https://www.tudelft.nl/2020/tu-delft/samenwerking-fiod-en-tu-delft-op-het-gebied-van-opsporing-digitale-en-financiele-criminaliteit/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:01+02:00"
+            },
+            "id": "https://www.tudelft.nl/2020/tu-delft/samenwerking-fiod-en-tu-delft-op-het-gebied-van-opsporing-digitale-en-financiele-criminaliteit/"
+        },
+        {
+            "attr_dict": {
+                "id": 370224787,
+                "title": "Dr. J. (Jafar) Rezaei - Dr. J. (Jafar) Rezaei",
+                "url": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:06:23+02:00"
+            },
+            "id": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/"
+        },
+        {
+            "attr_dict": {
+                "id": 368838716,
+                "title": "Dr. Mr. N. (Niek) Mouter MSc - Mr.dr. N. Mouter",
+                "url": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/",
+                "has_integration": false,
+                "last_page_view": "2020-04-17T10:05:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/"
+        },
+        {
+            "attr_dict": {
                 "id": 664360260,
                 "title": "Our approach",
                 "url": "https://www.tudelft.nl/e-refinery/about-us/our-approach/",
@@ -4747,16 +5147,6 @@
         },
         {
             "attr_dict": {
-                "id": 363442965,
-                "title": "Search",
-                "url": "https://www.tudelft.nl/en/search/",
-                "has_integration": false,
-                "last_page_view": "2020-04-09T10:54:31+02:00"
-            },
-            "id": "https://www.tudelft.nl/en/search/"
-        },
-        {
-            "attr_dict": {
                 "id": 398584894,
                 "title": "404",
                 "url": "https://www.tudelft.nl/integrity/",
@@ -5512,16 +5902,6 @@
                 "last_page_view": "2020-04-13T15:36:56+02:00"
             },
             "id": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/"
-        },
-        {
-            "attr_dict": {
-                "id": 363450723,
-                "title": "MSc Mechanical Engineering",
-                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/",
-                "has_integration": false,
-                "last_page_view": "2020-04-13T15:37:21+02:00"
-            },
-            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
         },
         {
             "attr_dict": {
@@ -6394,16 +6774,6 @@
         },
         {
             "attr_dict": {
-                "id": 665301123,
-                "title": "Process & Energy",
-                "url": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
-                "has_integration": false,
-                "last_page_view": "2020-04-08T10:15:04+02:00"
-            },
-            "id": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/"
-        },
-        {
-            "attr_dict": {
                 "id": 665303579,
                 "title": "People",
                 "url": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/",
@@ -6863,16 +7233,6 @@
         },
         {
             "attr_dict": {
-                "id": 668437514,
-                "title": "Maatregelen TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-                "has_integration": false,
-                "last_page_view": "2020-04-09T16:58:21+02:00"
-            },
-            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
-        },
-        {
-            "attr_dict": {
                 "id": 668438698,
                 "title": "Thuiswerken",
                 "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/",
@@ -7183,16 +7543,6 @@
         },
         {
             "attr_dict": {
-                "id": 668439017,
-                "title": "Onderwijs",
-                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
-                "has_integration": false,
-                "last_page_view": "2020-04-09T16:58:02+02:00"
-            },
-            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
-        },
-        {
-            "attr_dict": {
                 "id": 363937843,
                 "title": "404",
                 "url": "https://www.tudelft.nl/brightspace/",
@@ -7280,16 +7630,6 @@
                 "last_page_view": "2020-04-05T14:10:39+02:00"
             },
             "id": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/toegang-buiten-de-campus/"
-        },
-        {
-            "attr_dict": {
-                "id": 363442866,
-                "title": "Laatste Nieuws",
-                "url": "https://www.tudelft.nl/actueel/laatste-nieuws/",
-                "has_integration": false,
-                "last_page_view": "2020-04-05T00:21:29+02:00"
-            },
-            "id": "https://www.tudelft.nl/actueel/laatste-nieuws/"
         },
         {
             "attr_dict": {
@@ -7952,8 +8292,8 @@
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
         },
         {
-            "visited_together": 21,
-            "weight": 0.8076923076923077,
+            "visited_together": 23,
+            "weight": 0.8846153846153846,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
         },
@@ -8000,8 +8340,8 @@
             "target": "https://www.tudelft.nl/over-tu-delft/zoek-medewerkers/"
         },
         {
-            "visited_together": 14,
-            "weight": 0.5384615384615384,
+            "visited_together": 17,
+            "weight": 0.6538461538461539,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/zoeken/"
         },
@@ -8048,8 +8388,8 @@
             "target": "https://www.tudelft.nl/over-tu-delft/organisatie/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.15384615384615385,
+            "visited_together": 5,
+            "weight": 0.19230769230769232,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/over-tu-delft/"
         },
@@ -8096,8 +8436,8 @@
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FArchitectuur+%7C+Gebouwde+Omgeving+%7C+Bouwen"
         },
         {
-            "visited_together": 12,
-            "weight": 0.46153846153846156,
+            "visited_together": 13,
+            "weight": 0.5,
             "source": "https://www.tudelft.nl",
             "target": "https://intranet.tudelft.nl"
         },
@@ -8160,6 +8500,54 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/over-tu-delft/voorleeshulp-browsealoud/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl",
+            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
         },
         {
             "visited_together": 2,
@@ -8268,12 +8656,6 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl",
-            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
         },
         {
             "visited_together": 1,
@@ -8614,6 +8996,72 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/zoeken/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cheme/msc-chemical-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FChemische+%7C+Biochemische+%7C+Procestechnologie"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FTransport%2C+Infrastructuur+en+Logistiek",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cme/msc-construction-management-and-engineering/"
         },
@@ -8678,8 +9126,8 @@
             "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
             "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
             "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/"
         },
@@ -8688,6 +9136,48 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
             "target": "https://www.tudelft.nl/index.php?id=8209"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/onderwijs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/",
+            "target": "https://www.tudelft.nl/zoeken/"
         },
         {
             "visited_together": 1,
@@ -8748,6 +9238,48 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
             "target": "https://www.tudelft.nl/index.php?id=8209"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/onderwijs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/",
+            "target": "https://www.tudelft.nl/zoeken/"
         },
         {
             "visited_together": 1,
@@ -8870,6 +9402,36 @@
             "target": "https://www.tudelft.nl/en/"
         },
         {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.23076923076923078,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/over-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
@@ -8888,22 +9450,10 @@
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.15384615384615385,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
-        },
-        {
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
             "target": "https://www.kinderopvang-plein.nl/algemeen/noodopvang"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
         },
         {
             "visited_together": 1,
@@ -10106,8 +10656,8 @@
             "target": "https://www.tudelft.nl/staff/e.mendes/?cHash=44c85b4b780d754fbc51c82c74104cf9"
         },
         {
-            "visited_together": 3,
-            "weight": 0.11538461538461539,
+            "visited_together": 6,
+            "weight": 0.23076923076923078,
             "source": "https://www.tudelft.nl/zoeken/",
             "target": "https://www.tudelft.nl/zoeken/"
         },
@@ -10140,6 +10690,66 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/zoeken/",
             "target": "https://www.tudelft.nl/3me/onderwijs/minoren-en-keuzevakken/biomedical-engineering/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.23076923076923078,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.23076923076923078,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/zoeken/",
+            "target": "https://www.tudelft.nl/onderwijs/"
         },
         {
             "visited_together": 1,
@@ -10846,6 +11456,30 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/over-tu-delft/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/over-tu-delft/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/over-tu-delft/",
+            "target": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/over-tu-delft/",
+            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
             "source": "http://software.tudelft.nl",
             "target": "https://www.tudelft.nl/studenten/ict/software/"
         },
@@ -10854,6 +11488,12 @@
             "weight": 0.038461538461538464,
             "source": "http://software.tudelft.nl",
             "target": "https://www.tudelft.nl/en/student/ict/software/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/software/",
+            "target": "https://software.tudelft.nl"
         },
         {
             "visited_together": 1,
@@ -11942,8 +12582,8 @@
             "target": "https://www.tudelft.nl/studenten/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
             "source": "https://www.tudelft.nl/studenten/",
             "target": "http://studenten.tudelft.nl"
         },
@@ -11982,6 +12622,12 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/studenten/",
             "target": "https://www.tudelft.nl/en/student/legal-position/binding-recommendation-on-continuation-of-studies/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/",
+            "target": "https://www.tudelft.nl/studenten/administratie/uitschrijven/"
         },
         {
             "visited_together": 1,
@@ -13150,6 +13796,12 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
+            "source": "http://studenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/administratie/uitschrijven/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/tbm/onderwijs/online-education/open-course-ware/",
             "target": "https://www.tudelft.nl/2020/tbm/rolf-van-wegberg-in-trouw-over-samenwerking-met-fiod/"
         },
@@ -13796,6 +14448,36 @@
             "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/where-did-you-obtain-your-degree/"
         },
         {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
+            "target": "https://www.tudelft.nl/onderwijs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
             "visited_together": 3,
             "weight": 0.11538461538461539,
             "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/education/master-programmes/post-msc-programmes/chemical-product-design/contact/",
@@ -13848,6 +14530,12 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/education/",
             "target": "https://www.tudelft.nl/en/education/programmes/bachelors/bachelor-of-computer-science-and-engineering/curriculum/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/education/",
+            "target": "https://www.tudelft.nl/en/eemcs/research/facilities/else-kooi-lab/EKLi/IntranetHome.php"
         },
         {
             "visited_together": 1,
@@ -13906,6 +14594,12 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cheme/msc-chemical-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/?lookup%5B93512%5D%5Bfilter%5D%5B22%5D%5B%5D=Type%2FMasterthema%27s%2FChemische+%7C+Biochemische+%7C+Procestechnologie"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/education/practical-matters/scholarships/sub-saharan-africa-excellence-scholarships/",
             "target": "https://www.tudelft.nl/en/education/practical-matters/scholarships/sub-saharan-africa-excellence-scholarships/"
         },
@@ -13914,6 +14608,30 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/praktische-zaken/scholarships/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/finances/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
         },
         {
             "visited_together": 1,
@@ -14610,6 +15328,426 @@
             "weight": 0.038461538461538464,
             "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/handout_Graduation_deliverables.pdf",
             "target": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30+EC+Downloads/Letter+after+obtaining+Green+Light+-+30+ec+%28wijziging+september+2019-+GPB%29.docx"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/huisstijl/typografie/",
+            "target": "https://www.tudelft.nl/huisstijl/presentaties/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/aes/bsc-applied-earth-sciences/",
+            "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/aes/bsc-applied-earth-sciences/",
+            "target": "https://www.tudelft.nl/en/search/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/aes/bsc-applied-earth-sciences/",
+            "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/education/bachelor/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/",
+            "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/education/bachelor/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/",
+            "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.15384615384615385,
+            "source": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/",
+            "target": "https://www.tudelft.nl/en/search/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/education/bachelor/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/en/search/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/integrity/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/integrity-policy/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/en/student/corona/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Algemene_Bestanden/corp+ppt+okt+2018+16+9+xs.pptx"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU+Delft+Huisstijl/tudelft+stramien+16+9.pptx"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU+Delft+Huisstijl/tudelft+stramien+4+3.pptx"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/en/search/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/annual-reports/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.15384615384615385,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/",
+            "target": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/software-installaties/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
+            "target": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/online-ict-diensten/",
+            "target": "https://www.tudelft.nl/ict-handleidingen/g/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+            "target": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.15384615384615385,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+            "target": "https://www.tudelft.nl/brightspace/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/actueel/laatste-nieuws/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/actueel/laatste-nieuws/",
+            "target": "https://www.tudelft.nl/actueel/agenda/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/actueel/laatste-nieuws/",
+            "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/actueel/laatste-nieuws/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/actueel/agenda/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+            "target": "https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Actueel/corona/Aanvraag+aanspraak+kinderopvang.docx"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.15384615384615385,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+            "target": "https://www.kinderopvang-plein.nl/algemeen/noodopvang"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
+            "target": "https://www.tudelft.nl/brightspace/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/exam-dates-bsc/",
+            "target": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/"
+        },
+        {
+            "visited_together": 10,
+            "weight": 0.38461538461538464,
+            "source": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash=",
+            "target": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash="
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.19230769230769232,
+            "source": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash=",
+            "target": "https://www.tudelft.nl/en/tnw/bn/"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.19230769230769232,
+            "source": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash=",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.19230769230769232,
+            "source": "https://www.tudelft.nl/en/staff/s.j.tans/?cHash=",
+            "target": "https://amolf.nl/research-groups/biophysics"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/tnw/bn/",
+            "target": "https://amolf.nl/research-groups/biophysics"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/tnw/bn/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/",
+            "target": "https://amolf.nl/research-groups/biophysics"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://e-service.tudelft.nl",
+            "target": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.23076923076923078,
+            "source": "https://e-service.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://e-service.tudelft.nl",
+            "target": "https://e-service.tudelft.nl"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
+            "target": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
+            "target": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/admission-and-application/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/aansluitende-masteropleidingen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/eemcs/research/facilities/else-kooi-lab/EKLi/IntranetHome.php",
+            "target": "https://www.tudelft.nl/en/eemcs/research/facilities/else-kooi-lab/EKLi/IntranetHome.php"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/Onderwijs/Academische+Jaarindeling/AcademicCalendar2020-2021.pdf",
+            "target": "https://www.tudelft.nl/en/student/education/academic-calendar/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/support-staff/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/support-staff/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/phd-candidates/rs-rolf-van-wegberg/",
+            "target": "https://www.tudelft.nl/2020/tu-delft/samenwerking-fiod-en-tu-delft-op-het-gebied-van-opsporing-digitale-en-financiele-criminaliteit/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/",
+            "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/",
+            "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-j-jafar-rezaei/"
         },
         {
             "visited_together": 1,
@@ -15392,64 +16530,10 @@
             "target": "https://www.tudelft.nl/integrity/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/integrity-policy/",
-            "target": "https://www.tudelft.nl/en/search/"
-        },
-        {
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/integrity-policy/",
             "target": "https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/integrity-policy/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://www.tudelft.nl/integrity/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://www.tudelft.nl/en/search/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://www.tudelft.nl/en/student/corona/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Algemene_Bestanden/corp+ppt+okt+2018+16+9+xs.pptx"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU+Delft+Huisstijl/tudelft+stramien+16+9.pptx"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://d1rkab7tlqy5f1.cloudfront.net/Websections/TU+Delft+Huisstijl/tudelft+stramien+4+3.pptx"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/en/search/",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/annual-reports/"
         },
         {
             "visited_together": 2,
@@ -16086,18 +17170,6 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/aansluitende-masteropleidingen/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/aansluitende-masteropleidingen/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/aansluitende-masteropleidingen/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
         },
         {
             "visited_together": 2,
@@ -16876,18 +17948,6 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
-            "target": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/",
-            "target": "https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/student/ict/ict-facilities/e-mail/",
             "target": "https://www.tudelft.nl/en/student/administration/contact-centre/"
         },
@@ -17381,55 +18441,13 @@
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Actueel/corona/Aanvraag+aanspraak+kinderopvang.docx",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Actueel/corona/Aanvraag+aanspraak+kinderopvang.docx",
             "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/"
-        },
-        {
-            "visited_together": 4,
-            "weight": 0.15384615384615385,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-            "target": "https://www.kinderopvang-plein.nl/algemeen/noodopvang"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-            "target": "https://www.tudelft.nl/brightspace/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/"
         },
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/",
             "target": "https://www.kinderopvang-plein.nl/algemeen/noodopvang"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/thuiswerken/",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/"
         },
         {
             "visited_together": 1,
@@ -17836,12 +18854,6 @@
         {
             "visited_together": 1,
             "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/2020/tu-delft/coronavirus/maatregelen-tu-delft/onderwijs/",
-            "target": "https://www.tudelft.nl/brightspace/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
             "source": "http://www.rotterdam.nl/regenradar",
             "target": "https://www.tudelft.nl/en/current/latest-news/article/detail/regenradar-geinstalleerd-in-rotterdam/"
         },
@@ -17886,12 +18898,6 @@
             "weight": 0.11538461538461539,
             "source": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/toegang-buiten-de-campus/",
             "target": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/toegang-buiten-de-campus/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/actueel/laatste-nieuws/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering/"
         },
         {
             "visited_together": 1,
