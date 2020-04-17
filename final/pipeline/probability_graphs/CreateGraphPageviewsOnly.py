@@ -5,6 +5,7 @@ import time
 import GraphLoader
 import random
 import numpy as np
+import pprint
 
 """
 Create simple probability graph
@@ -18,11 +19,13 @@ G = GraphLoader.load_page_subgraph()
 
 for current in G.nodes:
     edges = G.edges(current, data=True)
-    edges = [(u,v,d) for (u,v,d) in edges if u != v]
-    views = {current : G.nodes[current]['attr_data']['page_views']}
-    total = G.nodes[current]['attr_data']['page_views'] + sum([G.nodes[neighbour]['attr_data']['page_views'] for (_, neighbour, _) in edges])
+    edges = [(u, v, d) for (u, v, d) in edges if u != v]
+    views = {current: G.nodes[current]['attr_data']['page_views']}
+    total = G.nodes[current]['attr_data']['page_views'] + \
+            sum([G.nodes[neighbour]['attr_data']['page_views'] for (_, neighbour, _) in edges])
 
-    [attributes.update({'p': G.nodes[neighbour]['attr_data']['page_views']/total}) for (_, neighbour, attributes) in edges]
-    G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['page_views']/total
+    [attributes.update({'p': G.nodes[neighbour]['attr_data']['page_views'] / total})
+     for (_, neighbour, attributes) in edges]
+    G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['page_views'] / total
 
 GraphLoader.save_probability_graph(G, tag)
