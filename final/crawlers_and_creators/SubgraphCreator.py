@@ -26,7 +26,14 @@ while len(nodes) != prev and len(nodes) < 1000:
     prev = len(nodes)
     [nodes.update(link_graph.neighbors(n)) for n in nodes.copy()]
 
-subgraph = link_graph.subgraph(nodes)
+subgraph = nx.Graph(link_graph.subgraph(nodes))
+
+self_edges = [(u,v) for (u,v) in subgraph.edges if u == v]
+subgraph.remove_edges_from(self_edges)
+
+singular_nodes = [n for n,d in subgraph.degree() if d == 0]
+subgraph.remove_nodes_from(singular_nodes)
+
 
 with open(path + 'subgraph_' + timestamp + '.json', 'w', encoding='utf-8') as file:
     json.dump(json_graph.node_link_data(subgraph), file, indent=4)
@@ -35,6 +42,9 @@ with open(path + 'subgraph_latest.json', 'w', encoding='utf-8') as file:
 
 print('----------------------------------------------------------------------------------------')
 print('Created subgraph')
+print('Nodes:\t' + str(len(subgraph.nodes)))
+print('Edges:\t' + str(len(subgraph.edges)))
+print('Components:\t' + str(nx.number_connected_components(subgraph)))
 print('----------------------------------------------------------------------------------------')
 
 fig, ax = plt.subplots(1, 1, figsize=(50, 50));
