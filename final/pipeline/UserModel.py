@@ -2,7 +2,22 @@ import GraphLoader
 import json
 import networkx as nx
 import numpy as np
+import random
 import pprint
+import os
+import time
+
+
+def save_traffic_data(traffic_data, nametag=''):
+    abspath = os.path.abspath(__file__)
+    dname = os.path.dirname(abspath)
+    print(dname)
+    os.chdir(dname)
+
+    timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
+
+    with open('generated_user_traffic/generated_traffic_' + nametag + '_' + timestamp + '.json', 'w', encoding='utf-8') as file:
+        json.dump(traffic_data, file, indent=4)
 
 
 class UserModel:
@@ -29,19 +44,28 @@ class UserModel:
         def p_next_step(steps):
             return 1
 
-        pagelist = [self.graph.nodes[entry_point]['attr_data']]
-        pages_visited = 1
+        virtual_user_traffic = {
+            'pagelist': [self.graph.nodes[entry_point]['attr_data']],
+            'page_views': 1
+        }
 
-        current = entry_point
-        while np.random.random(1)[0] < p_next_step(pages_visited):
-            current = choose_next_point(current)
-            if current == 'exit':
-                return pagelist
+        next_node = entry_point
+        while np.random.random(1)[0] < p_next_step(virtual_user_traffic['page_views']):
+            next_node = choose_next_point(next_node)
+            if next_node == 'exit':
+                return virtual_user_traffic
             else:
-                pagelist.append(self.graph.nodes[current]['attr_data'])
-                pages_visited += 1
+                virtual_user_traffic['pagelist'].append(self.graph.nodes[next_node]['attr_data'])
+                virtual_user_traffic['page_views'] = len(virtual_user_traffic['pagelist'])
 
-        return pagelist
+        return virtual_user_traffic
+
+    def random_walk_from_node_list(self, nodelist):
+        return [self.random_walk_from_node(node) for node in nodelist]
+
+    def random_walk_n_nodes(self, n):
+        nlist = random.choices(list(self.graph.nodes), k=n)
+        return self.random_walk_from_node_list(nlist)
 
 
 def test():
@@ -50,9 +74,12 @@ def test():
     model = UserModel(G)
     walk = model.random_walk_from_node('https://www.tudelft.nl/')
 
-    list = [p['url'] for p in walk]
+    deg = list(G.degree())
+    deg.sort(key=lambda x: x[1], reverse=True)
+    nlist = [node for (node, degree) in deg[0:10]]
 
-    pprint.pprint(list)
+    walklist = model.random_walk_from_node_list(nlist)
+
+    bla = model.random_walk_n_nodes(10)
 
 
-test()
