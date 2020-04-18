@@ -15,24 +15,35 @@ P[exit] = (degree of u) / (sum of degree of all neighbours of u + degree u)
 
 """
 
-tag = 'degree_only'
+def create_graph():
+    G = GraphLoader.load_page_subgraph()
 
-G = GraphLoader.load_page_subgraph()
+    degrees = nx.degree((G))
+    [d['attr_data'].update({'degree': degrees[n]}) for n, d in G.nodes(data=True)]
 
-degrees = nx.degree((G))
-[d['attr_data'].update({'degree': degrees[n]}) for n, d in G.nodes(data=True)]
+    for current in G.nodes:
+        edges = G.edges(current, data=True)
+        edges = [(u, v, d) for (u, v, d) in edges if u != v]
+        views = {current: G.nodes[current]['attr_data']['degree']}
+        total = G.nodes[current]['attr_data']['degree'] + \
+                sum([G.nodes[neighbour]['attr_data']['degree'] for (_, neighbour, _) in edges])
 
-for current in G.nodes:
-    edges = G.edges(current, data=True)
-    edges = [(u, v, d) for (u, v, d) in edges if u != v]
-    views = {current: G.nodes[current]['attr_data']['degree']}
-    total = G.nodes[current]['attr_data']['degree'] + \
-            sum([G.nodes[neighbour]['attr_data']['degree'] for (_, neighbour, _) in edges])
+        [attributes.update({'p': G.nodes[neighbour]['attr_data']['degree'] / total})
+         for (_, neighbour, attributes) in edges]
+        G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['degree'] / total
 
-    [attributes.update({'p': G.nodes[neighbour]['attr_data']['degree'] / total})
-     for (_, neighbour, attributes) in edges]
-    G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['degree'] / total
+    return G
 
-GraphLoader.save_probability_graph(G, tag)
-print("Created probability graph:")
-print("Degree only")
+
+def main():
+    tag = 'degree_only'
+
+    G = create_graph()
+
+    GraphLoader.save_probability_graph(G, tag)
+    print("Created probability graph:")
+    print("Pageviews only")
+
+
+if __name__ == "__main__":
+    main()

@@ -8,7 +8,7 @@ from pipeline.UserModel import UserModel
 probability_graph_filenames = {
     'betweenness_only':"pgraph_betweenness_only_Sat_Apr_18_20:41:20_2020.json",
     'degree_only':"pgraph_degree_only_Sat_Apr_18_16:43:36_2020.json",
-    # 'inverted_betweenness_only':"pgraph_inverted_betweenness_only_Sat_Apr_18_20:44:14_2020.json",
+    'inverted_betweenness_only':"pgraph_inverted_betweenness_only_Sat_Apr_18_23:01:02_2020.json",
     'inverted_degree_only':"pgraph_inverted_degree_only_Sat_Apr_18_17:06:15_2020.json",
     'pagerank_only':"pgraph_pagerank_only_Sat_Apr_18_11:40:38_2020.json",
     'pageviews_only':"pgraph_pageviews_only_Fri_Apr_17_16:51:30_2020.json",

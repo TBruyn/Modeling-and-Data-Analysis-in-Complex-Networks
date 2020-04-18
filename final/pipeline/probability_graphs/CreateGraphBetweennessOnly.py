@@ -20,28 +20,40 @@ P[exit] = (betweenness of u) / (sum of betweenness of all neighbours of u + betw
 
 tag = 'betweenness_only'
 
-G = GraphLoader.load_page_subgraph()
-undirected = G.to_undirected()
 
-components = [undirected.subgraph(c) for c in nx.connected_components(undirected)]
-betweenness = {}
-[[betweenness.update({k: v}) for k, v in nx.betweenness_centrality(c).items()] for c in components]
+def create_graph():
+    G = GraphLoader.load_page_subgraph()
+    undirected = G.to_undirected()
 
-min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
-[betweenness.update({n: betweenness[n] + min_b}) for n, d in G.nodes(data=True)]
+    components = [undirected.subgraph(c) for c in nx.connected_components(undirected)]
+    betweenness = {}
+    [[betweenness.update({k: v}) for k, v in nx.betweenness_centrality(c).items()] for c in components]
 
-[d['attr_data'].update({'betweenness': betweenness[n]}) for n, d in G.nodes(data=True)]
+    min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
+    [betweenness.update({n: betweenness[n] + min_b}) for n, d in G.nodes(data=True)]
 
-for current in G.nodes:
-    edges = G.edges(current, data=True)
-    edges = [(u, v, d) for (u, v, d) in edges if u != v]
-    views = {current: G.nodes[current]['attr_data']['betweenness']}
-    total = G.nodes[current]['attr_data']['betweenness'] + \
-            sum([G.nodes[neighbour]['attr_data']['betweenness'] for (_, neighbour, _) in edges])
-    [attributes.update({'p': G.nodes[neighbour]['attr_data']['betweenness'] / total})
-     for (_, neighbour, attributes) in edges]
-    G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['betweenness'] / total
+    [d['attr_data'].update({'betweenness': betweenness[n]}) for n, d in G.nodes(data=True)]
 
-GraphLoader.save_probability_graph(G, tag)
-print("Created probability graph:")
-print("Betweenness only")
+    for current in G.nodes:
+        edges = G.edges(current, data=True)
+        edges = [(u, v, d) for (u, v, d) in edges if u != v]
+        views = {current: G.nodes[current]['attr_data']['betweenness']}
+        total = G.nodes[current]['attr_data']['betweenness'] + \
+                sum([G.nodes[neighbour]['attr_data']['betweenness'] for (_, neighbour, _) in edges])
+        [attributes.update({'p': G.nodes[neighbour]['attr_data']['betweenness'] / total})
+         for (_, neighbour, attributes) in edges]
+        G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['betweenness'] / total
+
+    return G
+
+
+def main():
+    G = create_graph()
+
+    GraphLoader.save_probability_graph(G, tag)
+    print("Created probability graph:")
+    print("Betweenness only")
+
+
+if __name__ == "__main__":
+    main()

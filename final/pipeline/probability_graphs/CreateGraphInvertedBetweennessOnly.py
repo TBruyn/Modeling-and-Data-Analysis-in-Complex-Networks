@@ -19,29 +19,41 @@ P[exit] = (inverted betweenness of u) / (sum of inverted betweenness of all neig
 """
 
 tag = 'inverted_betweenness_only'
+def create_graph():
+    G = GraphLoader.load_page_subgraph()
+    undirected = G.to_undirected()
 
-G = GraphLoader.load_page_subgraph()
-undirected = G.to_undirected()
+    components = [undirected.subgraph(c) for c in nx.connected_components(undirected)]
+    betweenness = {}
+    [[betweenness.update({k: v}) for k, v in nx.betweenness_centrality(c).items()] for c in components]
 
-components = [undirected.subgraph(c) for c in nx.connected_components(undirected)]
-betweenness = {}
-[[betweenness.update({k: v}) for k, v in nx.betweenness_centrality(c).items()] for c in components]
+    min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
+    [betweenness.update({n: 1 / (betweenness[n] + min_b)}) for n, d in G.nodes(data=True)]
 
-min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
-[betweenness.update({n: betweenness[n] + min_b}) for n, d in G.nodes(data=True)]
 
-[d['attr_data'].update({'inverted_betweenness': 1 - betweenness[n]}) for n, d in G.nodes(data=True)]
+    [d['attr_data'].update({'inverted_betweenness': betweenness[n]}) for n, d in G.nodes(data=True)]
 
-for current in G.nodes:
-    edges = G.edges(current, data=True)
-    edges = [(u, v, d) for (u, v, d) in edges if u != v]
-    views = {current: G.nodes[current]['attr_data']['inverted_betweenness']}
-    total = G.nodes[current]['attr_data']['inverted_betweenness'] + \
-            sum([G.nodes[neighbour]['attr_data']['inverted_betweenness'] for (_, neighbour, _) in edges])
-    [attributes.update({'p': G.nodes[neighbour]['attr_data']['inverted_betweenness'] / total})
-     for (_, neighbour, attributes) in edges]
-    G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['inverted_betweenness'] / total
 
-GraphLoader.save_probability_graph(G, tag)
-print("Created probability graph:")
-print("Inverted betweenness only")
+
+    for current in G.nodes:
+        edges = G.edges(current, data=True)
+        edges = [(u, v, d) for (u, v, d) in edges if u != v]
+        views = {current: G.nodes[current]['attr_data']['inverted_betweenness']}
+        total = G.nodes[current]['attr_data']['inverted_betweenness'] + \
+                sum([G.nodes[neighbour]['attr_data']['inverted_betweenness'] for (_, neighbour, _) in edges])
+        [attributes.update({'p': G.nodes[neighbour]['attr_data']['inverted_betweenness'] / total})
+         for (_, neighbour, attributes) in edges]
+        G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['inverted_betweenness'] / total
+
+        return G
+
+def main():
+    G = create_graph()
+
+    GraphLoader.save_probability_graph(G, tag)
+    print("Created probability graph:")
+    print("Inverted betweenness only")
+
+
+if __name__ == "__main__":
+    main()
