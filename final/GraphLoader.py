@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 import time
@@ -48,3 +49,14 @@ def save_probability_graph(graph, filename, add_path=True):
                    + filename.replace('.json', '') + '_' + timestamp + '.json'
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(json_graph.node_link_data(graph), file, indent=4)
+
+
+def load_traffic_graph(filename):
+    return load_graph('pipeline/traffic_graphs/' + filename)
+
+
+def load_all_traffic_graphs():
+    traffic_graphs = []
+    for file in glob.glob('pipeline/traffic_graphs/*.json'):
+        traffic_graphs.append(load_graph(file))
+    return traffic_graphs
