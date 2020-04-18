@@ -8,9 +8,11 @@ import numpy as np
 import pprint
 
 """
+
 Create simple probability graph
 P[u -> v] = (pageviews of v) / (sum of pageviews of all neighbours of u + pageviews u)
 P[exit] = (pageviews of u) / (sum of pageviews of all neighbours of u + pageviews u)
+
 """
 
 tag = 'pageviews_only'
