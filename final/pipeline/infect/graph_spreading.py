@@ -7,12 +7,16 @@ import os
 import time
 import GraphLoader
 import matplotlib.pyplot as plt
+import UserModel
 
 
 G = GraphLoader.load_graph('pgraph_random.json') #Graph
-N = 1000 #Number of agents
-k = 10 #Number of iterations
+model = UserModel.UserModel(G)
+my_list = list(G.nodes())
+walkList = model.random_walk_n_nodes(len(my_list))
 
-for n in G.nodes:
-    if G.nodes[n]['attr_data']['p_exit'] < 1:
-        print(G.nodes[n]['attr_data']['p_exit'])
+for n in walkList:
+    sum = 0
+    for l in n['pagelist']:
+        sum = sum + l['visits']
+    print(sum)
