@@ -14,14 +14,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -118,16 +118,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -179,9 +179,33 @@
                 "visits": 68,
                 "inverted_betweenness": 57.12661566487545,
                 "p_exit": 0.4865532044547668
+            },
+            {
+                "id": 257323321,
+                "title": "Delft University of Technology: Master of Science Mechanical Engineering",
+                "url": "http://me.msc.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 3,
+                "inverted_betweenness": 57.282342455622775,
+                "p_exit": 7.256064612625608e-06
+            },
+            {
+                "id": 363450723,
+                "title": "MSc Mechanical Engineering",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/",
+                "average_page_views_per_visit": 1.53,
+                "bounce_rate": 66.67,
+                "has_integration": false,
+                "page_views": 55,
+                "visits": 36,
+                "inverted_betweenness": 7894341.000000001,
+                "p_exit": 0.9999986306126616
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -232,14 +256,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -261,14 +285,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -319,28 +343,28 @@
                 "p_exit": 0.7205667586125132
             },
             {
-                "id": 258864577,
-                "title": "Online Courses for Engineers, Designers and Scientists",
-                "url": "https://online-learning.tudelft.nl",
-                "average_page_views_per_visit": 1.14,
-                "bounce_rate": 100.0,
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
                 "has_integration": false,
-                "page_views": 153,
-                "visits": 134,
-                "inverted_betweenness": 32.0200698220915,
-                "p_exit": 2.0280353283610806e-06
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 660901576,
-                "title": "TU Delft tops new global MOOC rankings",
-                "url": "https://www.tudelft.nl/en/2019/tu-delft/tu-delft-tops-new-global-mooc-rankings/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 100.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 4,
-                "visits": 4,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 4
@@ -360,16 +384,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -418,14 +442,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
+                "id": 662647224,
+                "title": "Zigzag DNA",
+                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
+                "page_views": 18,
+                "visits": 16,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -447,14 +471,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 666477994,
+                "title": "TU Delft climate arboretum",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 71.79,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 167,
+                "visits": 142,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -636,14 +660,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -663,98 +687,6 @@
                 "visits": 342,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999994277289864
-            }
-        ],
-        "page_views": 1
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
-                "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
-                "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 363447001,
-                "title": "BSc Bouwkunde",
-                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 46.48,
-                "has_integration": false,
-                "page_views": 282,
-                "visits": 204,
-                "inverted_betweenness": 7894341.000000001,
-                "p_exit": 0.9999986306126616
-            }
-        ],
-        "page_views": 1
-    },
-    {
-        "pagelist": [
-            {
-                "id": 363509093,
-                "title": "Archineering",
-                "url": "https://www.tudelft.nl/bk/studeren/minoren-en-keuzevakken/archineering/",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 18.18,
-                "has_integration": false,
-                "page_views": 53,
-                "visits": 43,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999819793581135
             }
         ],
         "page_views": 1
@@ -820,6 +752,40 @@
     {
         "pagelist": [
             {
+                "id": 363447001,
+                "title": "BSc Bouwkunde",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 46.48,
+                "has_integration": false,
+                "page_views": 282,
+                "visits": 204,
+                "inverted_betweenness": 7894341.000000001,
+                "p_exit": 0.9999986306126616
+            }
+        ],
+        "page_views": 1
+    },
+    {
+        "pagelist": [
+            {
+                "id": 363509093,
+                "title": "Archineering",
+                "url": "https://www.tudelft.nl/bk/studeren/minoren-en-keuzevakken/archineering/",
+                "average_page_views_per_visit": 1.23,
+                "bounce_rate": 18.18,
+                "has_integration": false,
+                "page_views": 53,
+                "visits": 43,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999819793581135
+            }
+        ],
+        "page_views": 1
+    },
+    {
+        "pagelist": [
+            {
                 "id": 336118449,
                 "title": "Home",
                 "url": "https://www.tudelft.nl",
@@ -832,14 +798,43 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 138,
+                "visits": 106,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
+                "has_integration": false,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -869,6 +864,35 @@
                 "has_integration": false,
                 "page_views": 3771,
                 "visits": 3127,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
+                "has_integration": false,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -976,14 +1000,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -1068,14 +1092,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -1131,16 +1155,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -1177,14 +1201,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -1206,14 +1230,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -1269,16 +1293,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -1299,6 +1323,35 @@
             }
         ],
         "page_views": 1
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1344,43 +1397,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
-                "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -1418,16 +1442,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -1447,16 +1471,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -1476,14 +1500,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 665104883,
+                "title": "The magnet that didn\u2019t exist",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 15,
+                "visits": 11,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -1522,14 +1546,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 665104883,
-                "title": "The magnet that didn\u2019t exist",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
-                "average_page_views_per_visit": 1.36,
-                "bounce_rate": 100.0,
+                "id": 666575774,
+                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
+                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 45.83,
                 "has_integration": false,
-                "page_views": 15,
-                "visits": 11,
+                "page_views": 105,
+                "visits": 81,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -1711,16 +1735,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -1740,14 +1764,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -1796,9 +1820,21 @@
                 "visits": 16,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.5
+            },
+            {
+                "id": 363457916,
+                "title": "Project MARCH",
+                "url": "https://www.tudelft.nl/ddream/teams/project-march/",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 5,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1883,16 +1919,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -1946,16 +1982,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -1992,26 +2028,26 @@
                 "p_exit": 0.10774241360264049
             },
             {
-                "id": 391757573,
-                "title": "Floor plans",
-                "url": "https://www.tudelft.nl/index.php?id=7659",
+                "id": 400501854,
+                "title": "Minors",
+                "url": "https://www.tudelft.nl/index.php?id=7012",
                 "average_page_views_per_visit": 2.0,
-                "bounce_rate": 0.0,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 4,
-                "visits": 2,
+                "page_views": 8,
+                "visits": 4,
                 "inverted_betweenness": 363.99160835936516,
                 "p_exit": 2.3053426315486142e-05
             },
             {
-                "id": 491398663,
-                "title": "Plattegronden",
-                "url": "https://www.tudelft.nl/io/over-io/contact/plattegronden/",
-                "average_page_views_per_visit": 1.4,
-                "bounce_rate": 0.0,
+                "id": 360801568,
+                "title": "Minors",
+                "url": "https://www.tudelft.nl/io/studeren/minors/",
+                "average_page_views_per_visit": 1.79,
+                "bounce_rate": 25.0,
                 "has_integration": false,
-                "page_views": 7,
-                "visits": 5,
+                "page_views": 25,
+                "visits": 14,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -2176,16 +2212,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -2215,35 +2251,6 @@
                 "visits": 7,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -2300,6 +2307,35 @@
                 "has_integration": false,
                 "page_views": 3771,
                 "visits": 3127,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
+                "has_integration": false,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2350,16 +2386,45 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
+                "has_integration": false,
+                "page_views": 60,
+                "visits": 48,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -2387,35 +2452,6 @@
                 "has_integration": false,
                 "page_views": 3771,
                 "visits": 3127,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
-                "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2488,16 +2524,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -2517,16 +2553,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -2563,14 +2599,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2592,14 +2628,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2638,16 +2674,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -2718,14 +2754,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2747,14 +2783,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -2919,16 +2955,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -3028,14 +3064,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
+                "id": 665104883,
+                "title": "The magnet that didn\u2019t exist",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
+                "page_views": 15,
+                "visits": 11,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -3389,14 +3425,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -3435,14 +3471,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -3510,14 +3546,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -3556,16 +3592,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -3648,14 +3684,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -3929,14 +3965,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -3958,16 +3994,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -4021,14 +4057,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -4118,14 +4154,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666575774,
-                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
-                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 45.83,
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 105,
-                "visits": 81,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -4210,14 +4246,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 666803506,
+                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 61.08,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 542,
+                "visits": 461,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -4239,16 +4275,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -4268,14 +4304,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 662647224,
+                "title": "Zigzag DNA",
+                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 18,
+                "visits": 16,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -4358,9 +4394,21 @@
                 "visits": 1057,
                 "inverted_betweenness": 971.2103283983583,
                 "p_exit": 0.692410712038162
+            },
+            {
+                "id": 380105054,
+                "title": "Single Sign-On for the TU Delft",
+                "url": "http://osiaan.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 17,
+                "visits": 17,
+                "inverted_betweenness": 428.4384395576803,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -4440,16 +4488,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -4469,16 +4517,16 @@
                 "p_exit": 0.6021006610990666
             },
             {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
+                "id": 353659310,
+                "title": "Tuition Fee & Finances",
+                "url": "https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/",
+                "average_page_views_per_visit": 1.43,
+                "bounce_rate": 54.49,
                 "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "inverted_betweenness": 5.4053778603063325,
-                "p_exit": 1.0
+                "page_views": 1571,
+                "visits": 1102,
+                "inverted_betweenness": 29.782209775068637,
+                "p_exit": 0.9084350728368413
             }
         ],
         "page_views": 2
@@ -4627,21 +4675,9 @@
                 "visits": 10,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.5
-            },
-            {
-                "id": 364917421,
-                "title": "J.C. Diehl - Research output \u203a TU Delft Research Information System",
-                "url": "https://pure.tudelft.nl/portal/en/persons/jc-diehl(f55e6009-c69f-4081-ab87-a45ccad925ca)/publications.html",
-                "average_page_views_per_visit": 2.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 2,
-                "visits": 1,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -4738,14 +4774,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -4960,14 +4996,14 @@
                 "p_exit": 2.2800986337499655e-06
             },
             {
-                "id": 666064626,
-                "title": "Corona virus update: X will be closed immediately",
-                "url": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
-                "average_page_views_per_visit": 1.43,
-                "bounce_rate": 25.0,
+                "id": 653581411,
+                "title": "Events",
+                "url": "https://www.tudelft.nl/en/x/whats-on-offer/events/",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 30,
-                "visits": 21,
+                "page_views": 12,
+                "visits": 10,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999999170867656
             }
@@ -4987,9 +5023,33 @@
                 "visits": 16891,
                 "inverted_betweenness": 18.74916470879487,
                 "p_exit": 0.8585921173789663
+            },
+            {
+                "id": 259767158,
+                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
+                "url": "http://universiteitsfonds.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 6,
+                "inverted_betweenness": 3.0879385318342796,
+                "p_exit": 1.9557920844169927e-07
+            },
+            {
+                "id": 363442639,
+                "title": "Universiteitsfonds",
+                "url": "https://www.tudelft.nl/universiteitsfonds/",
+                "average_page_views_per_visit": 1.37,
+                "bounce_rate": 35.0,
+                "has_integration": false,
+                "page_views": 56,
+                "visits": 41,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -5006,14 +5066,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5161,14 +5221,89 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 24,
+                "visits": 23,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "average_page_views_per_visit": 1.46,
+                "bounce_rate": 59.1,
+                "has_integration": false,
+                "page_views": 24698,
+                "visits": 16891,
+                "inverted_betweenness": 18.74916470879487,
+                "p_exit": 0.8585921173789663
+            }
+        ],
+        "page_views": 1
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
+                "has_integration": false,
+                "page_views": 22,
+                "visits": 21,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
+                "has_integration": false,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5217,81 +5352,6 @@
                 "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
-                "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 665073598,
-                "title": "Informatie rondom het coronavirus",
-                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
-                "average_page_views_per_visit": 1.46,
-                "bounce_rate": 59.1,
-                "has_integration": false,
-                "page_views": 24698,
-                "visits": 16891,
-                "inverted_betweenness": 18.74916470879487,
-                "p_exit": 0.8585921173789663
-            }
-        ],
-        "page_views": 1
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
-                "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -5361,14 +5421,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5388,33 +5448,9 @@
                 "visits": 539,
                 "inverted_betweenness": 1453.6843257163846,
                 "p_exit": 0.20599447076174351
-            },
-            {
-                "id": 417347252,
-                "title": "404",
-                "url": "https://www.tudelft.nl/en/student/counselling/career-counselling-services/career-centre/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 50.0,
-                "has_integration": false,
-                "page_views": 9,
-                "visits": 9,
-                "inverted_betweenness": 5600.223244208242,
-                "p_exit": 0.00035457262073343226
-            },
-            {
-                "id": 437800935,
-                "title": "404",
-                "url": "https://www.tudelft.nl/en/student/404/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 3,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999994277289864
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5431,14 +5467,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5460,16 +5496,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -5555,9 +5591,21 @@
                 "visits": 96,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.49999991181967207
+            },
+            {
+                "id": 366159667,
+                "title": "TU Delft Studentenportal",
+                "url": "https://www.tudelft.nl/studenten/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 42.86,
+                "has_integration": false,
+                "page_views": 702,
+                "visits": 516,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999996472787505
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -5591,14 +5639,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5666,14 +5714,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5786,14 +5834,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 665104883,
+                "title": "The magnet that didn\u2019t exist",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 15,
+                "visits": 11,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -5849,64 +5897,6 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
-                "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
-                "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
                 "id": 665104742,
                 "title": "De magneet die niet bestond",
                 "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
@@ -5936,6 +5926,35 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
                 "id": 666478032,
                 "title": "Klimaatarboretum TU Delft",
                 "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
@@ -5944,6 +5963,35 @@
                 "has_integration": false,
                 "page_views": 173,
                 "visits": 150,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -5994,16 +6042,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -6023,16 +6071,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -6069,14 +6117,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -6115,14 +6163,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -6227,49 +6275,9 @@
                 "visits": 94,
                 "inverted_betweenness": 437.76396334061496,
                 "p_exit": 0.39409172626820405
-            },
-            {
-                "id": 341042657,
-                "url": "http://www.studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=18422",
-                "average_page_views_per_visit": 1.1,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 53,
-                "visits": 48,
-                "inverted_betweenness": 662.243053382916,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 337155966,
-                "title": "Delft University of Technology",
-                "url": "https://www.tudelft.nl/en/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 18.85,
-                "has_integration": false,
-                "page_views": 9278,
-                "visits": 6563,
-                "inverted_betweenness": 17.447913475801954,
-                "p_exit": 1.8418161513130547e-07
-            },
-            {
-                "id": 666575774,
-                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
-                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 45.83,
-                "has_integration": false,
-                "page_views": 105,
-                "visits": 81,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6294,6 +6302,35 @@
                 "has_integration": false,
                 "page_views": 60,
                 "visits": 52,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 337155966,
+                "title": "Delft University of Technology",
+                "url": "https://www.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.41,
+                "bounce_rate": 18.85,
+                "has_integration": false,
+                "page_views": 9278,
+                "visits": 6563,
+                "inverted_betweenness": 17.447913475801954,
+                "p_exit": 1.8418161513130547e-07
+            },
+            {
+                "id": 666803506,
+                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 61.08,
+                "has_integration": false,
+                "page_views": 542,
+                "visits": 461,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -6376,21 +6413,9 @@
                 "visits": 467,
                 "inverted_betweenness": 46.69511809941797,
                 "p_exit": 0.6123571801448389
-            },
-            {
-                "id": 665073598,
-                "title": "Informatie rondom het coronavirus",
-                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
-                "average_page_views_per_visit": 1.46,
-                "bounce_rate": 59.1,
-                "has_integration": false,
-                "page_views": 24698,
-                "visits": 16891,
-                "inverted_betweenness": 18.74916470879487,
-                "p_exit": 0.8585921173789663
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6572,14 +6597,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 662647224,
+                "title": "Zigzag DNA",
+                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 18,
+                "visits": 16,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -6703,9 +6728,33 @@
                 "visits": 16891,
                 "inverted_betweenness": 18.74916470879487,
                 "p_exit": 0.8585921173789663
+            },
+            {
+                "id": 259767158,
+                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
+                "url": "http://universiteitsfonds.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 6,
+                "inverted_betweenness": 3.0879385318342796,
+                "p_exit": 1.9557920844169927e-07
+            },
+            {
+                "id": 363442639,
+                "title": "Universiteitsfonds",
+                "url": "https://www.tudelft.nl/universiteitsfonds/",
+                "average_page_views_per_visit": 1.37,
+                "bounce_rate": 35.0,
+                "has_integration": false,
+                "page_views": 56,
+                "visits": 41,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -6739,16 +6788,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -6882,16 +6931,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -6911,14 +6960,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -6991,14 +7040,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7020,14 +7069,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7083,16 +7132,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -7158,14 +7207,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7187,14 +7236,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7233,16 +7282,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -7342,14 +7391,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
+                "id": 666575774,
+                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
+                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 45.83,
                 "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
+                "page_views": 105,
+                "visits": 81,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -7371,16 +7420,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -7521,16 +7570,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -7579,14 +7628,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7608,14 +7657,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -7792,16 +7841,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -7945,20 +7994,9 @@
                 "visits": 59,
                 "inverted_betweenness": 67.00380850342641,
                 "p_exit": 0.2531561703932349
-            },
-            {
-                "id": 653204005,
-                "url": "https://brightspace-support.tudelft.nl/enrolling-and-unenrolling-for-courses/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 4,
-                "visits": 4,
-                "inverted_betweenness": 128.80620861375047,
-                "p_exit": 0.24044172799044905
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -7992,21 +8030,21 @@
                 "p_exit": 0.012710051951691422
             },
             {
-                "id": 257160323,
+                "id": 257087474,
                 "title": "Delft University of Technology: Employee",
-                "url": "http://staff.tudelft.nl/en/M.A.M.M.vanderMeijden/",
+                "url": "http://staff.tudelft.nl/en/P.Palensky/",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "inverted_betweenness": 202.1407696258731,
-                "p_exit": 1.2802724264084328e-05
+                "page_views": 2,
+                "visits": 2,
+                "inverted_betweenness": 130.09376854339857,
+                "p_exit": 4.119825196873494e-06
             },
             {
-                "id": 430557906,
-                "title": "M.A.M.M. van der Meijden - Research output \u203a TU Delft Research Information System",
-                "url": "https://pure.tudelft.nl/portal/en/persons/mamm-van-der-meijden(b72228a5-5753-4190-a31b-d6a32269d2c7)/publications.html",
+                "id": 382994193,
+                "title": "Course browser searcher",
+                "url": "http://studiegids.tudelft.nl/a101_displayCourse.do?course_id=44929",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
@@ -8084,15 +8122,15 @@
                 "p_exit": 0.2531561703932349
             },
             {
-                "id": 653204005,
-                "url": "https://brightspace-support.tudelft.nl/enrolling-and-unenrolling-for-courses/",
-                "average_page_views_per_visit": 1.0,
+                "id": 257920007,
+                "url": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+                "average_page_views_per_visit": 1.5,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 4,
-                "visits": 4,
-                "inverted_betweenness": 128.80620861375047,
-                "p_exit": 0.24044172799044905
+                "page_views": 3,
+                "visits": 2,
+                "inverted_betweenness": 9.035410222519962,
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -8158,14 +8196,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -8283,16 +8321,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -8312,28 +8350,28 @@
                 "p_exit": 0.03235405528287057
             },
             {
-                "id": 257133744,
-                "title": "TU Delft: Radiation Science & Technology",
-                "url": "http://www.rst.tudelft.nl",
-                "average_page_views_per_visit": 1.2,
+                "id": 257080621,
+                "title": "Quantum Nanoscience",
+                "url": "http://www.qn.tudelft.nl",
+                "average_page_views_per_visit": 1.13,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 6,
-                "visits": 5,
-                "inverted_betweenness": 364.4915852898401,
-                "p_exit": 2.3085091647813843e-05
+                "page_views": 9,
+                "visits": 8,
+                "inverted_betweenness": 332.3533189839625,
+                "p_exit": 2.104934382434633e-05
             },
             {
-                "id": 363443985,
-                "title": "Radiation Science & Technology",
-                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/radiation-science-technology/",
-                "average_page_views_per_visit": 2.12,
-                "bounce_rate": 20.0,
+                "id": 363456279,
+                "title": "Quantum Nanoscience",
+                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/",
+                "average_page_views_per_visit": 1.86,
+                "bounce_rate": 25.93,
                 "has_integration": false,
-                "page_views": 87,
-                "visits": 41,
+                "page_views": 106,
+                "visits": 57,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999851744608907
             }
         ],
         "page_views": 3
@@ -8387,16 +8425,16 @@
                 "p_exit": 5.135215240235272e-06
             },
             {
-                "id": 262673734,
-                "title": "Research - RailaHead | RailaHead",
-                "url": "http://railahead.tudelft.nl/research/",
+                "id": 262673902,
+                "title": "All publications - RailaHead | RailaHead",
+                "url": "http://railahead.tudelft.nl/themes/all-publications/",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 3,
-                "visits": 3,
+                "page_views": 1,
+                "visits": 1,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.5
             }
         ],
         "page_views": 2
@@ -8450,14 +8488,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -8477,9 +8515,33 @@
                 "visits": 5,
                 "inverted_betweenness": 59.61410801781245,
                 "p_exit": 0.6000130516604875
+            },
+            {
+                "id": 257358094,
+                "title": "TU Delft: Docenten en decanen",
+                "url": "http://vodocenten.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "inverted_betweenness": 5.40504755319764,
+                "p_exit": 3.423367259440248e-07
+            },
+            {
+                "id": 363451904,
+                "title": "Docenten en decanen",
+                "url": "https://www.tudelft.nl/docenten-en-decanen/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -8547,14 +8609,43 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
+                "id": 666575774,
+                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
+                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 45.83,
                 "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
+                "page_views": 105,
+                "visits": 81,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 1.0
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 337155966,
+                "title": "Delft University of Technology",
+                "url": "https://www.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.41,
+                "bounce_rate": 18.85,
+                "has_integration": false,
+                "page_views": 9278,
+                "visits": 6563,
+                "inverted_betweenness": 17.447913475801954,
+                "p_exit": 1.8418161513130547e-07
+            },
+            {
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
+                "has_integration": false,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -8593,35 +8684,6 @@
     {
         "pagelist": [
             {
-                "id": 337155966,
-                "title": "Delft University of Technology",
-                "url": "https://www.tudelft.nl/en/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 18.85,
-                "has_integration": false,
-                "page_views": 9278,
-                "visits": 6563,
-                "inverted_betweenness": 17.447913475801954,
-                "p_exit": 1.8418161513130547e-07
-            },
-            {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
-                "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
                 "id": 336118449,
                 "title": "Home",
                 "url": "https://www.tudelft.nl",
@@ -8634,14 +8696,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -8663,14 +8725,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -8760,14 +8822,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 662647224,
-                "title": "Zigzag DNA",
-                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.13,
-                "bounce_rate": 50.0,
+                "id": 666477994,
+                "title": "TU Delft climate arboretum",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 71.79,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 16,
+                "page_views": 167,
+                "visits": 142,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -8869,14 +8931,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 666575774,
+                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
+                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 45.83,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 105,
+                "visits": 81,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -9017,14 +9079,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -9063,14 +9125,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
+                "id": 662647224,
+                "title": "Zigzag DNA",
+                "url": "https://www.tudelft.nl/en/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
+                "page_views": 18,
+                "visits": 16,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -9332,14 +9394,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666575774,
-                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
-                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 45.83,
+                "id": 665104883,
+                "title": "The magnet that didn\u2019t exist",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 105,
-                "visits": 81,
+                "page_views": 15,
+                "visits": 11,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -9395,14 +9457,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -9424,14 +9486,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -9516,16 +9578,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -9579,14 +9641,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -9739,16 +9801,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -9768,16 +9830,16 @@
                 "p_exit": 1.6421161577273862e-07
             },
             {
-                "id": 396314799,
-                "title": "Nico de Jong",
-                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/people/nico-de-jong/",
-                "average_page_views_per_visit": 1.9,
+                "id": 259041149,
+                "title": "Homepage Bernd Rieger",
+                "url": "http://homepage.tudelft.nl/z63s8/",
+                "average_page_views_per_visit": 1.4,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 19,
-                "visits": 10,
+                "page_views": 7,
+                "visits": 5,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999975368161349
             }
         ],
         "page_views": 2
@@ -9814,16 +9876,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -9906,14 +9968,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -9986,14 +10048,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10015,14 +10077,14 @@
                 "p_exit": 2.2800986337499655e-06
             },
             {
-                "id": 653581411,
-                "title": "Events",
-                "url": "https://www.tudelft.nl/en/x/whats-on-offer/events/",
-                "average_page_views_per_visit": 1.2,
-                "bounce_rate": 100.0,
+                "id": 666064626,
+                "title": "Corona virus update: X will be closed immediately",
+                "url": "https://www.tudelft.nl/en/2020/x/corona-virus-update-x-will-be-closed-immediately/",
+                "average_page_views_per_visit": 1.43,
+                "bounce_rate": 25.0,
                 "has_integration": false,
-                "page_views": 12,
-                "visits": 10,
+                "page_views": 30,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999999170867656
             }
@@ -10044,43 +10106,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
-            }
-        ],
-        "page_views": 2
-    },
-    {
-        "pagelist": [
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "inverted_betweenness": 7.992987320491563,
-                "p_exit": 8.437460734511389e-08
-            },
-            {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
-                "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10102,14 +10135,43 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 173,
+                "visits": 150,
+                "inverted_betweenness": 15788682.000000002,
+                "p_exit": 0.9999998044207915
+            }
+        ],
+        "page_views": 2
+    },
+    {
+        "pagelist": [
+            {
+                "id": 336118449,
+                "title": "Home",
+                "url": "https://www.tudelft.nl",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 40.28,
+                "has_integration": false,
+                "page_views": 27238,
+                "visits": 19716,
+                "inverted_betweenness": 7.992987320491563,
+                "p_exit": 8.437460734511389e-08
+            },
+            {
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
+                "has_integration": false,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10194,16 +10256,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -10250,9 +10312,21 @@
                 "visits": 224,
                 "inverted_betweenness": 250.98034848247124,
                 "p_exit": 0.7644227932469417
+            },
+            {
+                "id": 258859949,
+                "title": "Weblogin TU Delft",
+                "url": "http://weblogin.tudelft.nl",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 60.0,
+                "has_integration": false,
+                "page_views": 96,
+                "visits": 80,
+                "inverted_betweenness": 68.31085674876034,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -10269,14 +10343,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10298,14 +10372,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666575774,
-                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
-                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 45.83,
+                "id": 665104883,
+                "title": "The magnet that didn\u2019t exist",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/the-magnet-that-didnt-exist/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 105,
-                "visits": 81,
+                "page_views": 15,
+                "visits": 11,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -10393,33 +10467,9 @@
                 "visits": 16891,
                 "inverted_betweenness": 18.74916470879487,
                 "p_exit": 0.8585921173789663
-            },
-            {
-                "id": 259767158,
-                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
-                "url": "http://universiteitsfonds.tudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 6,
-                "visits": 6,
-                "inverted_betweenness": 3.0879385318342796,
-                "p_exit": 1.9557920844169927e-07
-            },
-            {
-                "id": 363442639,
-                "title": "Universiteitsfonds",
-                "url": "https://www.tudelft.nl/universiteitsfonds/",
-                "average_page_views_per_visit": 1.37,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 56,
-                "visits": 41,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -10453,14 +10503,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10511,14 +10561,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10572,9 +10622,20 @@
                 "visits": 315,
                 "inverted_betweenness": 509.7470195277533,
                 "p_exit": 0.433830224715224
+            },
+            {
+                "id": 341042657,
+                "url": "http://www.studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=18422",
+                "average_page_views_per_visit": 1.1,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 53,
+                "visits": 48,
+                "inverted_betweenness": 662.243053382916,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -10589,33 +10650,9 @@
                 "visits": 16891,
                 "inverted_betweenness": 18.74916470879487,
                 "p_exit": 0.8585921173789663
-            },
-            {
-                "id": 259767158,
-                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
-                "url": "http://universiteitsfonds.tudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 6,
-                "visits": 6,
-                "inverted_betweenness": 3.0879385318342796,
-                "p_exit": 1.9557920844169927e-07
-            },
-            {
-                "id": 363442639,
-                "title": "Universiteitsfonds",
-                "url": "https://www.tudelft.nl/universiteitsfonds/",
-                "average_page_views_per_visit": 1.37,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 56,
-                "visits": 41,
-                "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -10753,14 +10790,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 663610288,
-                "title": "Zigzag-DNA",
-                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
-                "average_page_views_per_visit": 1.04,
-                "bounce_rate": 100.0,
+                "id": 665104742,
+                "title": "De magneet die niet bestond",
+                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
+                "average_page_views_per_visit": 1.05,
+                "bounce_rate": 75.0,
                 "has_integration": false,
-                "page_views": 24,
-                "visits": 23,
+                "page_views": 22,
+                "visits": 21,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -10879,16 +10916,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665104742,
-                "title": "De magneet die niet bestond",
-                "url": "https://www.tudelft.nl/2020/tu-delft/de-magneet-die-niet-bestond/",
-                "average_page_views_per_visit": 1.05,
-                "bounce_rate": 75.0,
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
                 "has_integration": false,
-                "page_views": 22,
-                "visits": 21,
+                "page_views": 138,
+                "visits": 106,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 0.9999998044207915
+                "p_exit": 1.0
             }
         ],
         "page_views": 2
@@ -10937,14 +10974,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -11046,14 +11083,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666575774,
-                "title": "Millions of euros to improve to improve the Rhine-Alpine freight corridor",
-                "url": "https://www.tudelft.nl/en/2020/3me/march/millions-of-euros-to-improve-to-improve-the-rhine-alpine-freight-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 45.83,
+                "id": 666477994,
+                "title": "TU Delft climate arboretum",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 71.79,
                 "has_integration": false,
-                "page_views": 105,
-                "visits": 81,
+                "page_views": 167,
+                "visits": 142,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -11073,21 +11110,9 @@
                 "visits": 121,
                 "inverted_betweenness": 7894341.000000001,
                 "p_exit": 0.49999965765293103
-            },
-            {
-                "id": 656050728,
-                "title": "Verplichte SKC",
-                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering/verplichte-skc/",
-                "average_page_views_per_visit": 1.6,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 5,
-                "inverted_betweenness": 7894341.000000001,
-                "p_exit": 0.9999986306126616
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -11280,14 +11305,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -11309,14 +11334,14 @@
                 "p_exit": 6.6607067074588e-07
             },
             {
-                "id": 652371777,
-                "title": "Modulekaart_BSc-Wb-2019-2020",
-                "url": "https://www.wbmt2.tudelft.nl/onderw/curriculum/Modulekaart_BSc-Wb-2019-2020.pdf",
-                "average_page_views_per_visit": 1.19,
-                "bounce_rate": 100.0,
+                "id": 652317042,
+                "title": "wb1ejaar_2019-2020.htm",
+                "url": "http://www.wbmt2.tudelft.nl/onderw2019/wb1ejaar_2019-2020.htm",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 43,
-                "visits": 36,
+                "page_views": 9,
+                "visits": 8,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -11338,14 +11363,14 @@
                 "p_exit": 1.8418161513130547e-07
             },
             {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
+                "id": 665856240,
+                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
+                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
+                "page_views": 60,
+                "visits": 52,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -11459,14 +11484,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 666478032,
+                "title": "Klimaatarboretum TU Delft",
+                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
+                "average_page_views_per_visit": 1.15,
+                "bounce_rate": 60.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 173,
+                "visits": 150,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -11556,14 +11581,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 663610288,
+                "title": "Zigzag-DNA",
+                "url": "https://www.tudelft.nl/2020/tnw/zigzag-dna/",
+                "average_page_views_per_visit": 1.04,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 24,
+                "visits": 23,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -11757,14 +11782,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }
@@ -11786,16 +11811,16 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666463541,
-                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
-                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 38.1,
+                "id": 665884674,
+                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
+                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
+                "average_page_views_per_visit": 1.25,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 138,
-                "visits": 106,
+                "page_views": 60,
+                "visits": 48,
                 "inverted_betweenness": 15788682.000000002,
-                "p_exit": 1.0
+                "p_exit": 0.9999998044207915
             }
         ],
         "page_views": 2
@@ -11815,26 +11840,26 @@
                 "p_exit": 0.10774241360264049
             },
             {
-                "id": 413593403,
-                "title": "Openingstijden",
-                "url": "https://www.tudelft.nl/index.php?id=9057",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "inverted_betweenness": 363.99160835936516,
-                "p_exit": 2.3053426315486142e-05
-            },
-            {
-                "id": 491418019,
-                "title": "Openingstijden",
-                "url": "https://www.tudelft.nl/io/over-io/contact/openingstijden/",
-                "average_page_views_per_visit": 1.0,
+                "id": 388257045,
+                "title": "Masteropleidingen",
+                "url": "https://www.tudelft.nl/index.php?id=7011",
+                "average_page_views_per_visit": 1.29,
                 "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 3,
-                "visits": 3,
+                "page_views": 18,
+                "visits": 14,
+                "inverted_betweenness": 191.11745950186094,
+                "p_exit": 1.2104566176449997e-05
+            },
+            {
+                "id": 363455663,
+                "title": "Masteropleidingen",
+                "url": "https://www.tudelft.nl/io/studeren/masteropleidingen/",
+                "average_page_views_per_visit": 1.57,
+                "bounce_rate": 23.08,
+                "has_integration": false,
+                "page_views": 47,
+                "visits": 30,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 1.0
             }
@@ -11856,14 +11881,14 @@
                 "p_exit": 8.437460734511389e-08
             },
             {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
                 "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
+                "page_views": 3771,
+                "visits": 3127,
                 "inverted_betweenness": 15788682.000000002,
                 "p_exit": 0.9999998044207915
             }

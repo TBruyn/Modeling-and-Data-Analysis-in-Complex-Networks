@@ -13,6 +13,7 @@ probability_graph_filenames = {
     'pagerank_only':"pgraph_pagerank_only_Sat_Apr_18_11:40:38_2020.json",
     'pageviews_only':"pgraph_pageviews_only_Fri_Apr_17_16:51:30_2020.json",
     'random':"pgraph_random_graph_Wed_Apr_15_17:28:26_2020.json",
+    'all_attributes_evenly' : 'pgraph_all_attributes_latest.json'
 }
 
 

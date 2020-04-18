@@ -5,6 +5,36 @@
     "nodes": [
         {
             "attr_dict": {
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 8,
+                "visits": 8,
+                "betweenness": 0.1850009427358198,
+                "p_exit": 1.0
+            },
+            "id": "https://pwstudelft.nl"
+        },
+        {
+            "attr_dict": {
+                "id": 348518379,
+                "title": "Bachelors",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/",
+                "average_page_views_per_visit": 1.99,
+                "bounce_rate": 38.69,
+                "has_integration": false,
+                "page_views": 1483,
+                "visits": 747,
+                "betweenness": 1.2667301805179177e-07,
+                "p_exit": 3.4234718586684086e-07
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/"
+        },
+        {
+            "attr_dict": {
                 "id": 259767158,
                 "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
                 "url": "http://universiteitsfonds.tudelft.nl",
@@ -35,33 +65,18 @@
         },
         {
             "attr_dict": {
-                "id": 257358094,
-                "title": "TU Delft: Docenten en decanen",
-                "url": "http://vodocenten.tudelft.nl",
+                "id": 368947282,
+                "title": "Home",
+                "url": "https://www.tudelft.nl/",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
                 "page_views": 1,
                 "visits": 1,
-                "betweenness": 0.18501224830268095,
-                "p_exit": 0.999999657663274
+                "betweenness": 0.1378295303941332,
+                "p_exit": 0.27966992156978004
             },
-            "id": "http://vodocenten.tudelft.nl"
-        },
-        {
-            "attr_dict": {
-                "id": 348518379,
-                "title": "Bachelors",
-                "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/",
-                "average_page_views_per_visit": 1.99,
-                "bounce_rate": 38.69,
-                "has_integration": false,
-                "page_views": 1483,
-                "visits": 747,
-                "betweenness": 1.2667301805179177e-07,
-                "p_exit": 3.4234718586684086e-07
-            },
-            "id": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/"
+            "id": "https://www.tudelft.nl/"
         },
         {
             "attr_dict": {
@@ -77,6 +92,21 @@
                 "p_exit": 0.009683102068386207
             },
             "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ee/msc-electrical-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 257358094,
+                "title": "TU Delft: Docenten en decanen",
+                "url": "http://vodocenten.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "betweenness": 0.18501224830268095,
+                "p_exit": 0.999999657663274
+            },
+            "id": "http://vodocenten.tudelft.nl"
         },
         {
             "attr_dict": {
@@ -125,20 +155,6 @@
         },
         {
             "attr_dict": {
-                "id": 257920007,
-                "url": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "betweenness": 0.11067566113463098,
-                "p_exit": 1.0
-            },
-            "id": "http://collegeramacolleges.tudelft.nl/online/welcome/"
-        },
-        {
-            "attr_dict": {
                 "id": 363443960,
                 "title": "Visa & Residence Permit",
                 "url": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
@@ -154,18 +170,18 @@
         },
         {
             "attr_dict": {
-                "id": 368947282,
-                "title": "Home",
-                "url": "https://www.tudelft.nl/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
+                "id": 364662777,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/en/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 66.9,
                 "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "betweenness": 0.1378295303941332,
-                "p_exit": 0.27966992156978004
+                "page_views": 1146,
+                "visits": 896,
+                "betweenness": 0.031158741895930892,
+                "p_exit": 0.5367261436582998
             },
-            "id": "https://www.tudelft.nl/"
+            "id": "https://www.tudelft.nl/en/library/"
         },
         {
             "attr_dict": {
@@ -195,21 +211,6 @@
                 "p_exit": 9.671617280456145e-07
             },
             "id": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/toegang-buiten-de-campus/toegang-via-vpn/"
-        },
-        {
-            "attr_dict": {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "betweenness": 0.1850009427358198,
-                "p_exit": 1.0
-            },
-            "id": "https://pwstudelft.nl"
         },
         {
             "attr_dict": {
@@ -284,6 +285,21 @@
                 "p_exit": 1.2452352474827728e-06
             },
             "id": "https://www.tudelft.nl/ewi/studeren/masteropleidingen/"
+        },
+        {
+            "attr_dict": {
+                "id": 665073598,
+                "title": "Informatie rondom het coronavirus",
+                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
+                "average_page_views_per_visit": 1.46,
+                "bounce_rate": 59.1,
+                "has_integration": false,
+                "page_views": 24698,
+                "visits": 16891,
+                "betweenness": 0.05333570937861138,
+                "p_exit": 0.14140788262103363
+            },
+            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
         },
         {
             "attr_dict": {
@@ -362,6 +378,20 @@
         },
         {
             "attr_dict": {
+                "id": 257920007,
+                "url": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+                "average_page_views_per_visit": 1.5,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 2,
+                "betweenness": 0.11067566113463098,
+                "p_exit": 1.0
+            },
+            "id": "http://collegeramacolleges.tudelft.nl/online/welcome/"
+        },
+        {
+            "attr_dict": {
                 "id": 413205446,
                 "title": "Academic calendar",
                 "url": "https://www.tudelft.nl/en/student/education/academic-calendar/",
@@ -436,36 +466,6 @@
         },
         {
             "attr_dict": {
-                "id": 653573666,
-                "title": "Downloads",
-                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
-                "average_page_views_per_visit": 1.11,
-                "bounce_rate": 62.5,
-                "has_integration": false,
-                "page_views": 39,
-                "visits": 35,
-                "betweenness": 0.006134103129998538,
-                "p_exit": 0.25711562493552087
-            },
-            "id": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
-        },
-        {
-            "attr_dict": {
-                "id": 366933215,
-                "title": "BSc Industrieel Ontwerpen",
-                "url": "https://www.tudelft.nl/index.php?id=8111",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "betweenness": 0.009747337053533367,
-                "p_exit": 0.025667053527606187
-            },
-            "id": "https://www.tudelft.nl/index.php?id=8111"
-        },
-        {
-            "attr_dict": {
                 "id": 363450964,
                 "title": "BSc - Open dagen",
                 "url": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-open-dagen/",
@@ -478,36 +478,6 @@
                 "p_exit": 3.4234718586684086e-07
             },
             "id": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-open-dagen/"
-        },
-        {
-            "attr_dict": {
-                "id": 376175338,
-                "title": "Search results | TU Delft Repositories",
-                "url": "https://repository.tudelft.nl/islandora/search/?collection=research",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "betweenness": 0.026894528416549848,
-                "p_exit": 1.0
-            },
-            "id": "https://repository.tudelft.nl/islandora/search/?collection=research"
-        },
-        {
-            "attr_dict": {
-                "id": 363484028,
-                "title": "Library",
-                "url": "https://www.tudelft.nl/library/",
-                "average_page_views_per_visit": 1.28,
-                "bounce_rate": 61.3,
-                "has_integration": false,
-                "page_views": 1678,
-                "visits": 1308,
-                "betweenness": 0.055852122506474734,
-                "p_exit": 0.37678439724640966
-            },
-            "id": "https://www.tudelft.nl/library/"
         },
         {
             "attr_dict": {
@@ -601,21 +571,6 @@
         },
         {
             "attr_dict": {
-                "id": 364662777,
-                "title": "Library",
-                "url": "https://www.tudelft.nl/en/library/",
-                "average_page_views_per_visit": 1.28,
-                "bounce_rate": 66.9,
-                "has_integration": false,
-                "page_views": 1146,
-                "visits": 896,
-                "betweenness": 0.031158741895930892,
-                "p_exit": 0.5367261436582998
-            },
-            "id": "https://www.tudelft.nl/en/library/"
-        },
-        {
-            "attr_dict": {
                 "id": 257214119,
                 "title": "index.html",
                 "url": "https://weblogin.tudelft.nl/vpn/index.html",
@@ -658,6 +613,21 @@
                 "p_exit": 5.722710136170071e-07
             },
             "id": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "attr_dict": {
+                "id": 376175338,
+                "title": "Search results | TU Delft Repositories",
+                "url": "https://repository.tudelft.nl/islandora/search/?collection=research",
+                "average_page_views_per_visit": 1.5,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 2,
+                "betweenness": 0.026894528416549848,
+                "p_exit": 1.0
+            },
+            "id": "https://repository.tudelft.nl/islandora/search/?collection=research"
         },
         {
             "attr_dict": {
@@ -811,21 +781,6 @@
         },
         {
             "attr_dict": {
-                "id": 407627513,
-                "title": "MOOC: Sustainable Urban Freight Transport: A Global Perspective | TU Delft Online",
-                "url": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "betweenness": 0.01469736743598327,
-                "p_exit": 0.08593069807686797
-            },
-            "id": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
-        },
-        {
-            "attr_dict": {
                 "id": 348351769,
                 "title": "Techniek, Bestuur en Management",
                 "url": "https://www.tudelft.nl/tbm/",
@@ -838,6 +793,21 @@
                 "p_exit": 4.309359234706277e-06
             },
             "id": "https://www.tudelft.nl/tbm/"
+        },
+        {
+            "attr_dict": {
+                "id": 407627513,
+                "title": "MOOC: Sustainable Urban Freight Transport: A Global Perspective | TU Delft Online",
+                "url": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/",
+                "average_page_views_per_visit": 1.5,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 2,
+                "betweenness": 0.01469736743598327,
+                "p_exit": 0.08593069807686797
+            },
+            "id": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
             "attr_dict": {
@@ -931,18 +901,18 @@
         },
         {
             "attr_dict": {
-                "id": 665073598,
-                "title": "Informatie rondom het coronavirus",
-                "url": "https://www.tudelft.nl/2020/tu-delft/coronavirus/",
-                "average_page_views_per_visit": 1.46,
-                "bounce_rate": 59.1,
+                "id": 363484028,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 61.3,
                 "has_integration": false,
-                "page_views": 24698,
-                "visits": 16891,
-                "betweenness": 0.05333570937861138,
-                "p_exit": 0.14140788262103363
+                "page_views": 1678,
+                "visits": 1308,
+                "betweenness": 0.055852122506474734,
+                "p_exit": 0.37678439724640966
             },
-            "id": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
+            "id": "https://www.tudelft.nl/library/"
         },
         {
             "attr_dict": {
@@ -1141,17 +1111,18 @@
         },
         {
             "attr_dict": {
-                "id": 561793920,
-                "url": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree",
-                "average_page_views_per_visit": 1.14,
-                "bounce_rate": 0.0,
+                "id": 344742724,
+                "title": "Single Sign-On for the TU Delft",
+                "url": "https://brightspace.tudelft.nl",
+                "average_page_views_per_visit": 1.09,
+                "bounce_rate": 30.0,
                 "has_integration": false,
-                "page_views": 16,
-                "visits": 14,
-                "betweenness": 0.0032382739515758882,
+                "page_views": 93,
+                "visits": 85,
+                "betweenness": 0.016207610268789883,
                 "p_exit": 1.0
             },
-            "id": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree"
+            "id": "https://brightspace.tudelft.nl"
         },
         {
             "attr_dict": {
@@ -1215,21 +1186,6 @@
         },
         {
             "attr_dict": {
-                "id": 344742724,
-                "title": "Single Sign-On for the TU Delft",
-                "url": "https://brightspace.tudelft.nl",
-                "average_page_views_per_visit": 1.09,
-                "bounce_rate": 30.0,
-                "has_integration": false,
-                "page_views": 93,
-                "visits": 85,
-                "betweenness": 0.016207610268789883,
-                "p_exit": 1.0
-            },
-            "id": "https://brightspace.tudelft.nl"
-        },
-        {
-            "attr_dict": {
                 "id": 363467772,
                 "title": "Search Jobs",
                 "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/",
@@ -1242,6 +1198,36 @@
                 "p_exit": 1.9012806104633223e-07
             },
             "id": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "attr_dict": {
+                "id": 621925910,
+                "title": "Bereikbaarheid TU Delft - TU Delft Campus",
+                "url": "https://iamap.tudelft.nl/bereikbaarheid/",
+                "average_page_views_per_visit": 1.09,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 25,
+                "visits": 23,
+                "betweenness": 0.002753596954240174,
+                "p_exit": 0.7748920413221438
+            },
+            "id": "https://iamap.tudelft.nl/bereikbaarheid/"
+        },
+        {
+            "attr_dict": {
+                "id": 363469817,
+                "title": "Gebouw 21",
+                "url": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/gebouw-21/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "betweenness": 0.002399993362903603,
+                "p_exit": 0.4656934710001798
+            },
+            "id": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/gebouw-21/"
         },
         {
             "attr_dict": {
@@ -1365,18 +1351,18 @@
         },
         {
             "attr_dict": {
-                "id": 558429133,
+                "id": 559469358,
                 "title": "| DMS",
-                "url": "https://sportsandculture.tudelft.nl/en/home",
-                "average_page_views_per_visit": 1.33,
+                "url": "https://sportsandculture.tudelft.nl/nl/home",
+                "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 4,
-                "visits": 3,
-                "betweenness": 0.7638889522253979,
-                "p_exit": 0.5789473330508632
+                "page_views": 10,
+                "visits": 10,
+                "betweenness": 0.5555556188920646,
+                "p_exit": 0.42105263915827407
             },
-            "id": "https://sportsandculture.tudelft.nl/en/home"
+            "id": "https://sportsandculture.tudelft.nl/nl/home"
         },
         {
             "attr_dict": {
@@ -1392,21 +1378,6 @@
                 "p_exit": 1.1400567725471591e-07
             },
             "id": "https://www.tudelft.nl/x/aanbod/ruimte-reserveren-als-x-abonnee/"
-        },
-        {
-            "attr_dict": {
-                "id": 559469358,
-                "title": "| DMS",
-                "url": "https://sportsandculture.tudelft.nl/nl/home",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 10,
-                "visits": 10,
-                "betweenness": 0.5555556188920646,
-                "p_exit": 0.42105263915827407
-            },
-            "id": "https://sportsandculture.tudelft.nl/nl/home"
         },
         {
             "attr_dict": {
@@ -1560,6 +1531,21 @@
         },
         {
             "attr_dict": {
+                "id": 257320241,
+                "title": "Delft University of Technology: Master of Science BioMedical Engineering",
+                "url": "http://www.bme.msc.tudelft.nl",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 5,
+                "betweenness": 0.006459702473512197,
+                "p_exit": 0.01649356376322166
+            },
+            "id": "http://www.bme.msc.tudelft.nl"
+        },
+        {
+            "attr_dict": {
                 "id": 363461609,
                 "title": "Onderwijsprogramma",
                 "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/onderwijsprogramma/",
@@ -1662,6 +1648,21 @@
                 "p_exit": 1.8624268766086541e-07
             },
             "id": "https://www.tudelft.nl/en/education/programmes/minor/"
+        },
+        {
+            "attr_dict": {
+                "id": 558429133,
+                "title": "| DMS",
+                "url": "https://sportsandculture.tudelft.nl/en/home",
+                "average_page_views_per_visit": 1.33,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 4,
+                "visits": 3,
+                "betweenness": 0.7638889522253979,
+                "p_exit": 0.5789473330508632
+            },
+            "id": "https://sportsandculture.tudelft.nl/en/home"
         },
         {
             "attr_dict": {
@@ -1980,17 +1981,18 @@
         },
         {
             "attr_dict": {
-                "id": 519534700,
-                "url": "https://adhok.bk.tudelft.nl",
-                "average_page_views_per_visit": 2.0,
+                "id": 257086259,
+                "title": "TU Delft: Manuals",
+                "url": "http://ictmanuals.tudelft.nl",
+                "average_page_views_per_visit": 1.11,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 6,
-                "visits": 3,
-                "betweenness": 0.007746604154256003,
-                "p_exit": 0.7384599949266083
+                "page_views": 21,
+                "visits": 19,
+                "betweenness": 0.002743547561474732,
+                "p_exit": 0.9999769149083523
             },
-            "id": "https://adhok.bk.tudelft.nl"
+            "id": "http://ictmanuals.tudelft.nl"
         },
         {
             "attr_dict": {
@@ -2006,6 +2008,20 @@
                 "p_exit": 4.5241821550446606e-05
             },
             "id": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
+        },
+        {
+            "attr_dict": {
+                "id": 519534700,
+                "url": "https://adhok.bk.tudelft.nl",
+                "average_page_views_per_visit": 2.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 3,
+                "betweenness": 0.007746604154256003,
+                "p_exit": 0.7384599949266083
+            },
+            "id": "https://adhok.bk.tudelft.nl"
         },
         {
             "attr_dict": {
@@ -2066,6 +2082,36 @@
                 "p_exit": 0.05117925368160303
             },
             "id": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/"
+        },
+        {
+            "attr_dict": {
+                "id": 363475109,
+                "title": "Management in the Built Environment",
+                "url": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/",
+                "average_page_views_per_visit": 1.11,
+                "bounce_rate": 42.86,
+                "has_integration": false,
+                "page_views": 21,
+                "visits": 19,
+                "betweenness": 0.0027492003449052934,
+                "p_exit": 0.33470460210394204
+            },
+            "id": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/"
+        },
+        {
+            "attr_dict": {
+                "id": 663982966,
+                "title": "Verduurzamen aan de hand van harde data",
+                "url": "https://www.tudelft.nl/2020/bk/verduurzamen-aan-de-hand-van-harde-data/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 100.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 3,
+                "betweenness": 0.0018215157752453997,
+                "p_exit": 0.005593268132659168
+            },
+            "id": "https://www.tudelft.nl/2020/bk/verduurzamen-aan-de-hand-van-harde-data/"
         },
         {
             "attr_dict": {
@@ -2159,21 +2205,6 @@
         },
         {
             "attr_dict": {
-                "id": 400501854,
-                "title": "Minors",
-                "url": "https://www.tudelft.nl/index.php?id=7012",
-                "average_page_views_per_visit": 2.0,
-                "bounce_rate": 100.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 4,
-                "betweenness": 0.0027473160837617728,
-                "p_exit": 0.9999769465736845
-            },
-            "id": "https://www.tudelft.nl/index.php?id=7012"
-        },
-        {
-            "attr_dict": {
                 "id": 653572714,
                 "title": "Keuzevakken in de Bachelor",
                 "url": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/",
@@ -2216,6 +2247,21 @@
                 "p_exit": 6.333650100287017e-08
             },
             "id": "https://www.tudelft.nl/3me/over/afdelingen/maritime-and-transport-technology/people/ship-and-offshore-structures/t-keizer-msc/"
+        },
+        {
+            "attr_dict": {
+                "id": 351032688,
+                "title": "Plattegrond en gebouwen",
+                "url": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 5,
+                "visits": 5,
+                "betweenness": 0.0034465314819826726,
+                "p_exit": 0.49235778433145744
+            },
+            "id": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/"
         },
         {
             "attr_dict": {
@@ -2324,21 +2370,6 @@
         },
         {
             "attr_dict": {
-                "id": 257091513,
-                "title": "Delft University of Technology: Employee",
-                "url": "http://staff.tudelft.nl/en/M.Cvetkovic",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 2,
-                "visits": 2,
-                "betweenness": 0.01431087602411213,
-                "p_exit": 0.041568237962712806
-            },
-            "id": "http://staff.tudelft.nl/en/M.Cvetkovic"
-        },
-        {
-            "attr_dict": {
                 "id": 363464309,
                 "title": "Master's theses Civil Engineering and Geosciences",
                 "url": "https://www.tudelft.nl/en/education/programmes/masters/civil-engineering/msc-civil-engineering/msc-programme/masters-theses-civil-engineering-and-geosciences/",
@@ -2384,21 +2415,6 @@
         },
         {
             "attr_dict": {
-                "id": 363462332,
-                "title": "Requirements",
-                "url": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/",
-                "average_page_views_per_visit": 1.43,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 137,
-                "visits": 96,
-                "betweenness": 0.018392355180739974,
-                "p_exit": 0.047353466914583135
-            },
-            "id": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/"
-        },
-        {
-            "attr_dict": {
                 "id": 363451710,
                 "title": "PhD",
                 "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd/",
@@ -2429,18 +2445,33 @@
         },
         {
             "attr_dict": {
-                "id": 663134428,
-                "title": "Staff - Dr. A. Mohammadi Gheidari",
-                "url": "https://www.tudelft.nl/en/staff/a.mohammadigheidari-1",
-                "average_page_views_per_visit": 1.5,
+                "id": 363569008,
+                "title": "Staff - Dr. J. Caro",
+                "url": "https://www.tudelft.nl/staff/j.caro/",
+                "average_page_views_per_visit": 1.17,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 6,
-                "visits": 4,
-                "betweenness": 0.02360363896579464,
-                "p_exit": 0.0649378321914375
+                "page_views": 7,
+                "visits": 6,
+                "betweenness": 0.04936751960180615,
+                "p_exit": 0.12940793486403146
             },
-            "id": "https://www.tudelft.nl/en/staff/a.mohammadigheidari-1"
+            "id": "https://www.tudelft.nl/staff/j.caro/"
+        },
+        {
+            "attr_dict": {
+                "id": 387255689,
+                "title": "Railway Engineering",
+                "url": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 28.57,
+                "has_integration": false,
+                "page_views": 18,
+                "visits": 13,
+                "betweenness": 0.004102099845952943,
+                "p_exit": 0.05231192691823856
+            },
+            "id": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/"
         },
         {
             "attr_dict": {
@@ -2576,6 +2607,20 @@
                 "p_exit": 3.4234718586684086e-07
             },
             "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/"
+        },
+        {
+            "attr_dict": {
+                "id": 653204005,
+                "url": "https://brightspace-support.tudelft.nl/enrolling-and-unenrolling-for-courses/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 4,
+                "visits": 4,
+                "betweenness": 0.007763600922364598,
+                "p_exit": 0.41334219695997526
+            },
+            "id": "https://brightspace-support.tudelft.nl/enrolling-and-unenrolling-for-courses/"
         },
         {
             "attr_dict": {
@@ -2744,21 +2789,6 @@
         },
         {
             "attr_dict": {
-                "id": 363569008,
-                "title": "Staff - Dr. J. Caro",
-                "url": "https://www.tudelft.nl/staff/j.caro/",
-                "average_page_views_per_visit": 1.17,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 7,
-                "visits": 6,
-                "betweenness": 0.04936751960180615,
-                "p_exit": 0.12940793486403146
-            },
-            "id": "https://www.tudelft.nl/staff/j.caro/"
-        },
-        {
-            "attr_dict": {
                 "id": 363442637,
                 "title": "ImPhys",
                 "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/",
@@ -2771,6 +2801,21 @@
                 "p_exit": 0.2040216668432387
             },
             "id": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/"
+        },
+        {
+            "attr_dict": {
+                "id": 388440020,
+                "title": "Staff - Dr. O. el Gawhary",
+                "url": "https://www.tudelft.nl/en/staff/o.elgawhary/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 2,
+                "visits": 2,
+                "betweenness": 0.023603638965794628,
+                "p_exit": 0.06493783219143746
+            },
+            "id": "https://www.tudelft.nl/en/staff/o.elgawhary/"
         },
         {
             "attr_dict": {
@@ -2831,6 +2876,21 @@
                 "p_exit": 0.035608297268964605
             },
             "id": "https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/goverde-rmp/"
+        },
+        {
+            "attr_dict": {
+                "id": 416428442,
+                "title": "Software",
+                "url": "https://www.tudelft.nl/en/student/ict/software/",
+                "average_page_views_per_visit": 1.22,
+                "bounce_rate": 20.47,
+                "has_integration": false,
+                "page_views": 273,
+                "visits": 224,
+                "betweenness": 0.003984375693341749,
+                "p_exit": 0.030815209288219562
+            },
+            "id": "https://www.tudelft.nl/en/student/ict/software/"
         },
         {
             "attr_dict": {
@@ -3059,20 +3119,6 @@
         },
         {
             "attr_dict": {
-                "id": 305472917,
-                "url": "http://brightspace.tudelft.nl",
-                "average_page_views_per_visit": 1.08,
-                "bounce_rate": 25.0,
-                "has_integration": false,
-                "page_views": 126,
-                "visits": 117,
-                "betweenness": 0.01671447449749813,
-                "p_exit": 1.0
-            },
-            "id": "http://brightspace.tudelft.nl"
-        },
-        {
-            "attr_dict": {
                 "id": 653572090,
                 "title": "Graduation opportunities",
                 "url": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/",
@@ -3088,48 +3134,76 @@
         },
         {
             "attr_dict": {
-                "id": 364917421,
-                "title": "J.C. Diehl - Research output \u203a TU Delft Research Information System",
-                "url": "https://pure.tudelft.nl/portal/en/persons/jc-diehl(f55e6009-c69f-4081-ab87-a45ccad925ca)/publications.html",
-                "average_page_views_per_visit": 2.0,
+                "id": 368204622,
+                "url": "https://repository.tudelft.nl/content/education-upload-tips",
+                "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 2,
-                "visits": 1,
+                "page_views": 7,
+                "visits": 7,
+                "betweenness": 0.0027435475614747316,
+                "p_exit": 0.9999769149083523
+            },
+            "id": "https://repository.tudelft.nl/content/education-upload-tips"
+        },
+        {
+            "attr_dict": {
+                "id": 653573666,
+                "title": "Downloads",
+                "url": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
+                "average_page_views_per_visit": 1.11,
+                "bounce_rate": 62.5,
+                "has_integration": false,
+                "page_views": 39,
+                "visits": 35,
+                "betweenness": 0.006134103129998538,
+                "p_exit": 0.25711562493552087
+            },
+            "id": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
+        },
+        {
+            "attr_dict": {
+                "id": 363457916,
+                "title": "Project MARCH",
+                "url": "https://www.tudelft.nl/ddream/teams/project-march/",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 5,
                 "betweenness": 6.333650902589589e-08,
                 "p_exit": 1.0
             },
-            "id": "https://pure.tudelft.nl/portal/en/persons/jc-diehl(f55e6009-c69f-4081-ab87-a45ccad925ca)/publications.html"
+            "id": "https://www.tudelft.nl/ddream/teams/project-march/"
         },
         {
             "attr_dict": {
-                "id": 662429606,
-                "title": "Design for Sustainability",
-                "url": "https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/research-areas/design-for-sustainability/",
-                "average_page_views_per_visit": 1.3,
-                "bounce_rate": 0.0,
+                "id": 363457933,
+                "title": "Project MARCH",
+                "url": "https://www.tudelft.nl/d-dream/teams/project-march/",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 100.0,
                 "has_integration": false,
-                "page_views": 13,
-                "visits": 10,
+                "page_views": 18,
+                "visits": 16,
                 "betweenness": 6.333650902589589e-08,
                 "p_exit": 0.5
             },
-            "id": "https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/research-areas/design-for-sustainability/"
+            "id": "https://www.tudelft.nl/d-dream/teams/project-march/"
         },
         {
             "attr_dict": {
-                "id": 363475109,
-                "title": "Management in the Built Environment",
-                "url": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/",
-                "average_page_views_per_visit": 1.11,
-                "bounce_rate": 42.86,
+                "id": 561793920,
+                "url": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree",
+                "average_page_views_per_visit": 1.14,
+                "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 21,
-                "visits": 19,
-                "betweenness": 0.0027492003449052934,
-                "p_exit": 0.33470460210394204
+                "page_views": 16,
+                "visits": 14,
+                "betweenness": 0.0032382739515758882,
+                "p_exit": 1.0
             },
-            "id": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/"
+            "id": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree"
         },
         {
             "attr_dict": {
@@ -3148,2036 +3222,2128 @@
         },
         {
             "attr_dict": {
-                "id": 391757573,
-                "title": "Floor plans",
-                "url": "https://www.tudelft.nl/index.php?id=7659",
-                "average_page_views_per_visit": 2.0,
+                "id": 257224765,
+                "title": "Delft University of Technology: Employee",
+                "url": "http://staff.tudelft.nl/en/J.L.RuedaTorres/",
+                "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 4,
+                "page_views": 2,
                 "visits": 2,
-                "betweenness": 0.0027473160837617728,
-                "p_exit": 0.9999769465736845
+                "betweenness": 0.057010475228354965,
+                "p_exit": 0.12817762215624046
             },
-            "id": "https://www.tudelft.nl/index.php?id=7659"
+            "id": "http://staff.tudelft.nl/en/J.L.RuedaTorres/"
         },
         {
             "attr_dict": {
-                "id": 387255689,
-                "title": "Railway Engineering",
-                "url": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 28.57,
+                "id": 363462332,
+                "title": "Requirements",
+                "url": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/",
+                "average_page_views_per_visit": 1.43,
+                "bounce_rate": 35.0,
                 "has_integration": false,
-                "page_views": 18,
-                "visits": 13,
-                "betweenness": 0.004102099845952943,
-                "p_exit": 0.05231192691823856
+                "page_views": 137,
+                "visits": 96,
+                "betweenness": 0.018392355180739974,
+                "p_exit": 0.047353466914583135
             },
-            "id": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/"
+            "id": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/"
         },
         {
             "attr_dict": {
-                "id": 416428442,
-                "title": "Software",
-                "url": "https://www.tudelft.nl/en/student/ict/software/",
-                "average_page_views_per_visit": 1.22,
-                "bounce_rate": 20.47,
+                "id": 257093586,
+                "title": "TU Delft: EEMCS International & Internship Office",
+                "url": "http://studenten.tudelft.nl/en/eemcs/international-office-internship-office/",
+                "average_page_views_per_visit": 1.5,
+                "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 273,
-                "visits": 224,
-                "betweenness": 0.003984375693341749,
-                "p_exit": 0.030815209288219562
+                "page_views": 3,
+                "visits": 2,
+                "betweenness": 0.0345660126193874,
+                "p_exit": 0.09396049770202981
             },
-            "id": "https://www.tudelft.nl/en/student/ict/software/"
+            "id": "http://studenten.tudelft.nl/en/eemcs/international-office-internship-office/"
+        },
+        {
+            "attr_dict": {
+                "id": 305472917,
+                "url": "http://brightspace.tudelft.nl",
+                "average_page_views_per_visit": 1.08,
+                "bounce_rate": 25.0,
+                "has_integration": false,
+                "page_views": 126,
+                "visits": 117,
+                "betweenness": 0.01671447449749813,
+                "p_exit": 1.0
+            },
+            "id": "http://brightspace.tudelft.nl"
         }
     ],
     "links": [
         {
-            "visited_together": 202,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ee/msc-electrical-engineering/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/bme/msc-biomedical-engineering/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/e-mail/gebruik-mail-en-mailbox/mail-ontvangen/"
+        },
+        {
+            "visited_together": 38,
+            "weight": 0.19095477386934673,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/index.php?id=7577"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/"
+        },
+        {
+            "visited_together": 7,
+            "weight": 0.035175879396984924,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/kt/bsc-klinische-technologie/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-bouwkunde/"
+        },
+        {
+            "visited_together": 7,
+            "weight": 0.035175879396984924,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine/operationair/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/vpn-openvpn/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/es/msc-embedded-systems/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cheme/msc-chemical-engineering/track-chemical-product-engineering/contact/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/finances/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-campustours/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-technology/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.03015075376884422,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "http://studenten.tudelft.nl"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/master-event/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/software/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/aansluitende-masteropleidingen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/begeleiding/studeren-met-een-functiebeperking/ondersteuning/study-buddy-project/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/administratie/inschrijven/bewijs-van-inschrijving/campuscard/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ct/bsc-civiele-techniek/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cosem/msc-complex-systems-engineering-and-management/research/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/thematisch-minor-aanbod/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/administratie/"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cme/msc-construction-management-and-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/carrieremogelijkheden/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/aanmeldprocedure-en-deadlines-tu-delft-studenten/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/index.php?id=31529"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/huisvesting-op-kamers/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/administratie/regeling-afstudeersteun-studenten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/msc-programme/track-structural-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/mot/msc-management-of-technology/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/architecture/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/help/skype-for-business/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-open-dagen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/onderwijs/brightspace/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aes/msc-applied-earth-sciences/msc-programme/track-applied-geophysics/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://pwstudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/onlineproefstuderen/"
+        },
+        {
+            "visited_together": 199,
             "weight": 1.0,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl"
         },
         {
             "visited_together": 52,
-            "weight": 0.25742574257425743,
+            "weight": 0.2613065326633166,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/"
         },
         {
+            "visited_together": 42,
+            "weight": 0.21105527638190955,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
+        },
+        {
             "visited_together": 12,
-            "weight": 0.0594059405940594,
+            "weight": 0.06030150753768844,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/staff/b.vanloenen/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/actueel/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/2014/tu-delft/online-cursus-wiskunde-voor-middelbare-scholieren/"
-        },
-        {
-            "visited_together": 40,
-            "weight": 0.19801980198019803,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/2020/tu-delft/coronavirus/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/over-tu-delft/organisatie/universiteitsdienst/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/io/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/2014/tu-delft/online-cursus-wiskunde-voor-middelbare-scholieren/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/organisatie/universiteitsdienst/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/staff/j.m.c.mol/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/tnw/over-faculteit/afdelingen/chemical-engineering/about-the-department/mecs/people/"
         },
         {
             "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "weight": 0.03015075376884422,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/zoeken/"
         },
         {
-            "visited_together": 7,
-            "weight": 0.034653465346534656,
+            "visited_together": 9,
+            "weight": 0.04522613065326633,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/tbm/"
         },
         {
-            "visited_together": 7,
-            "weight": 0.034653465346534656,
+            "visited_together": 9,
+            "weight": 0.04522613065326633,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/actueel/laatste-nieuws/"
         },
         {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/over-tu-delft/zoek-medewerkers/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/staff/s.m.a.sedighi/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group/staff/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "http://staff.tudelft.nl/en/M.Cvetkovic"
-        },
-        {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/staff/j.sietsma/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/delta-urbanism/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "http://staff.tudelft.nl/en/T.Bacchin/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/staff/s.g.p.castro/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/3me-studentenportal/onderwijs/bachelor/bsc-werktuigbouwkunde/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.010050251256281407,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/2020/bk/verduurzamen-aan-de-hand-van-harde-data/"
+        },
+        {
+            "visited_together": 10,
+            "weight": 0.05025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/zoek-medewerkers/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/index.php?id=31529"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/staff/s.m.a.sedighi/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "http://www.imphys.tudelft.nl"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/staff/j.caro/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/staff/j.sietsma/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/delta-urbanism/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "http://staff.tudelft.nl/en/T.Bacchin/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/staff/s.g.p.castro/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://universiteitsfonds.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/3me-studentenportal/onderwijs/bachelor/bsc-werktuigbouwkunde/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "http://universiteitsfonds.tudelft.nl",
             "target": "https://www.tudelft.nl/2020/bk/de-experts-kunnen-het-niet-alleen/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/"
+            "target": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group/staff/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/staff/j.caro/"
+            "target": "http://staff.tudelft.nl/en/J.L.RuedaTorres/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://universiteitsfonds.tudelft.nl",
-            "target": "https://www.tudelft.nl/index.php?id=31529"
-        },
-        {
-            "visited_together": 75,
-            "weight": 0.3712871287128713,
+            "visited_together": 71,
+            "weight": 0.35678391959798994,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/"
         },
         {
-            "visited_together": 8,
-            "weight": 0.039603960396039604,
-            "source": "https://www.tudelft.nl",
-            "target": "https://repository.tudelft.nl/islandora/search/?collection=research"
-        },
-        {
-            "visited_together": 15,
-            "weight": 0.07425742574257425,
+            "visited_together": 26,
+            "weight": 0.1306532663316583,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/en/library/"
         },
         {
-            "visited_together": 7,
-            "weight": 0.034653465346534656,
+            "visited_together": 10,
+            "weight": 0.05025125628140704,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/io/"
         },
         {
-            "visited_together": 7,
-            "weight": 0.034653465346534656,
+            "visited_together": 10,
+            "weight": 0.05025125628140704,
             "source": "https://www.tudelft.nl",
             "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
         },
         {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
+            "visited_together": 13,
+            "weight": 0.06532663316582915,
+            "source": "https://www.tudelft.nl",
+            "target": "https://repository.tudelft.nl/islandora/search/?collection=research"
+        },
+        {
+            "visited_together": 12,
+            "weight": 0.06030150753768844,
             "source": "https://www.tudelft.nl",
             "target": "https://www.tudelft.nl/tbm/"
         },
         {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
+            "visited_together": 12,
+            "weight": 0.06030150753768844,
             "source": "https://www.tudelft.nl",
             "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/"
+            "visited_together": 6,
+            "weight": 0.03015075376884422,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/en/library/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/io/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ee/msc-electrical-engineering/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/index.php?id=31529"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/3me-studentenportal/onderwijs/bachelor/bsc-werktuigbouwkunde/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://repository.tudelft.nl/islandora/search/?collection=research"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://www.tudelft.nl/tbm/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://www.tudelft.nl/",
+            "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/huisvesting-op-kamers/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/bme/msc-biomedical-engineering/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/made/msc-metropolitan-analysis-design-and-engineering/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/index.php?id=8111"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-open-dagen/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/e-mail/gebruik-mail-en-mailbox/mail-ontvangen/"
+            "target": "https://www.tudelft.nl/studenten/ict/software/"
         },
         {
-            "visited_together": 29,
-            "weight": 0.14356435643564355,
+            "visited_together": 42,
+            "weight": 0.21105527638190955,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/index.php?id=7577"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/"
-        },
-        {
             "visited_together": 5,
-            "weight": 0.024752475247524754,
+            "weight": 0.02512562814070352,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/sc/msc-systems-control/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/lst/bsc-life-science-technology/onderwijsprogramma/"
         },
         {
             "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "weight": 0.01507537688442211,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/kt/bsc-klinische-technologie/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-bouwkunde/"
-        },
-        {
-            "visited_together": 7,
-            "weight": 0.034653465346534656,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine/operationair/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/msc-programme/track-structural-engineering/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/scholarships/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/mot/msc-management-of-technology/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/vpn-openvpn/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/onderwijsprogramma/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/es/msc-embedded-systems/"
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cheme/msc-chemical-engineering/track-chemical-product-engineering/contact/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/bme/msc-biomedical-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "http://www.bme.msc.tudelft.nl"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/finances/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-campustours/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/onderwijsprogramma/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-technology/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/space-flight/"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine/operationair/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/urbanism/programme/graduation/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/software/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ct/bsc-civiele-techniek/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/architecture/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/master-event/"
+            "target": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/onderwijsprogramma/"
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 12,
+            "weight": 0.06030150753768844,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/aansluitende-masteropleidingen/"
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/begeleiding/studeren-met-een-functiebeperking/ondersteuning/study-buddy-project/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/studenten/ict/help/skype-for-business/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aes/msc-applied-earth-sciences/msc-programme/track-applied-geophysics/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/begeleiding/awareness-self-management/"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/aanmeldprocedure-en-deadlines-tu-delft-studenten/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/onlineproefstuderen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ct/bsc-civiele-techniek/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/e-mail/gebruik-mail-en-mailbox/mail-ontvangen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/vpn-openvpn/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-campustours/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-technology/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/master-event/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/aansluitende-masteropleidingen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/en/education/programmes/exchange/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/onderwijs/brightspace/"
-        },
-        {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/begeleiding/awareness-self-management/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/carrieremogelijkheden/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/aanmeldprocedure-en-deadlines-tu-delft-studenten/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/onlineproefstuderen/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ct/bsc-civiele-techniek/onderwijsprogramma/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/scholarships/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "http://studenten.tudelft.nl"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cosem/msc-complex-systems-engineering-and-management/research/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/thematisch-minor-aanbod/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
             "target": "https://www.tudelft.nl/studenten/administratie/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cme/msc-construction-management-and-engineering/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/carrieremogelijkheden/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://vodocenten.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/"
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/es/msc-embedded-systems/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/",
-            "target": "https://pwstudelft.nl"
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ee/msc-electrical-engineering/",
-            "target": "https://pwstudelft.nl"
+            "weight": 0.005025125628140704,
+            "source": "http://vodocenten.tudelft.nl",
+            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/masters/mechanical-engineering/msc-mechanical-engineering/track-overview/track-energy-process-technology/"
         },
         {
-            "visited_together": 36,
-            "weight": 0.1782178217821782,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/"
+        },
+        {
+            "visited_together": 46,
+            "weight": 0.23115577889447236,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.03015075376884422,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/scholarships/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/education/programmes/"
+        },
+        {
+            "visited_together": 8,
+            "weight": 0.04020100502512563,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/"
+        },
+        {
+            "visited_together": 42,
+            "weight": 0.21105527638190955,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "http://collegeramacolleges.tudelft.nl/online/welcome/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/"
-        },
-        {
-            "visited_together": 41,
-            "weight": 0.20297029702970298,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/"
-        },
-        {
-            "visited_together": 6,
-            "weight": 0.0297029702970297,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/scholarships/"
-        },
-        {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/education/programmes/"
-        },
-        {
-            "visited_together": 8,
-            "weight": 0.039603960396039604,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/education/programmes/masters/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/phd/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/admission-and-application/minors/registration-procedure-and-deadlines-for-lei-and-eur-students/"
         },
         {
-            "visited_together": 29,
-            "weight": 0.14356435643564355,
+            "visited_together": 32,
+            "weight": 0.16080402010050251,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/bachelors/ae/bsc-aerospace-engineering/"
         },
         {
             "visited_together": 10,
-            "weight": 0.04950495049504951,
+            "weight": 0.05025125628140704,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/bachelors/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/practical-matters/housing/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/minor/"
         },
         {
             "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "weight": 0.03015075376884422,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/practical-matters/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "http://graduateschool.tudelft.nl"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/masters/civil-engineering/msc-civil-engineering/msc-programme/masters-theses-civil-engineering-and-geosciences/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/bachelors/tn/bachelor-of-applied-physics/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "http://www.imphys.tudelft.nl"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://studenten.tudelft.nl/en/",
-            "target": "https://www.tudelft.nl/en/staff/a.mohammadigheidari-1"
+            "target": "https://www.tudelft.nl/en/education/programmes/exchange/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/bachelors/aes/bsc-applied-earth-sciences/curriculum/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/masters/?lookup%5B99822%5D%5Bfilter%5D%5B25%5D%5B88%5D=88"
         },
         {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/en/staff/o.elgawhary/"
+        },
+        {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/phd/finding-a-position/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/masters/aerospace-engineering/msc-aerospace-engineering/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/programmes/post-academic-professionals/pdeng-programmes/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studenten.tudelft.nl/en/",
             "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-tc-tina-comes/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/"
+            "weight": 0.005025125628140704,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/scholarships/"
-        },
-        {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/education/academic-calendar/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
-        },
-        {
-            "visited_together": 12,
-            "weight": 0.0594059405940594,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/"
+            "weight": 0.005025125628140704,
+            "source": "http://studenten.tudelft.nl/en/",
+            "target": "http://studenten.tudelft.nl/en/eemcs/international-office-internship-office/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/bachelors/ae/bsc-aerospace-engineering/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/education/programmes/masters/mechanical-engineering/msc-mechanical-engineering/track-overview/track-energy-process-technology/",
+            "target": "http://collegeramacolleges.tudelft.nl/online/welcome/"
         },
         {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
-        },
-        {
-            "visited_together": 6,
-            "weight": 0.0297029702970297,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/virtual-private-network-vpn/"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/online-ict-services/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "http://graduateschool.tudelft.nl"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/administration/enrolment/proof-of-enrolment/"
-        },
-        {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/education/brightspace/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/bachelors/aes/bsc-applied-earth-sciences/curriculum/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/e-mail/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/masters/aerospace-engineering/msc-aerospace-engineering/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/counselling/managing-your-career/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/admission-and-application/minors/registration-procedure-and-deadlines-for-lei-and-eur-students/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/practical-matters/housing/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/minor/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/student/ict/software/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-            "target": "https://www.tudelft.nl/en/education/programmes/post-academic-professionals/pdeng-programmes/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/index.php?id=31529"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/tbm/"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/io/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/",
+            "visited_together": 22,
+            "weight": 0.11055276381909548,
+            "source": "https://www.tudelft.nl/en/library/",
             "target": "https://repository.tudelft.nl/islandora/search/?collection=research"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/en/library/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/3me-studentenportal/onderwijs/bachelor/bsc-werktuigbouwkunde/"
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/library/",
+            "target": "https://www.tudelft.nl/tbm/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/library/",
+            "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
             "visited_together": 8,
-            "weight": 0.039603960396039604,
+            "weight": 0.04020100502512563,
             "source": "https://tresor.tudelft.nl",
             "target": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/toegang-buiten-de-campus/toegang-via-vpn/"
         },
         {
             "visited_together": 13,
-            "weight": 0.06435643564356436,
+            "weight": 0.06532663316582915,
             "source": "https://tresor.tudelft.nl",
             "target": "https://www.tudelft.nl/library/"
         },
         {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://tresor.tudelft.nl",
+            "target": "https://iamap.tudelft.nl/bereikbaarheid/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://tresor.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/gebouw-21/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://tresor.tudelft.nl",
+            "target": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/"
+        },
+        {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://tresor.tudelft.nl",
             "target": "https://www.tudelft.nl/library/collecties/normen-statistieken-en-meer/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://tresor.tudelft.nl",
             "target": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/printen-kopieren/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/made/msc-metropolitan-analysis-design-and-engineering/"
-        },
-        {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/bme/msc-biomedical-engineering/",
+            "target": "http://www.bme.msc.tudelft.nl"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/software/"
-        },
-        {
-            "visited_together": 37,
-            "weight": 0.18316831683168316,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/index.php?id=7577"
-        },
-        {
-            "visited_together": 10,
-            "weight": 0.04950495049504951,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
+            "visited_together": 12,
+            "weight": 0.06030150753768844,
+            "source": "https://www.tudelft.nl/en/",
+            "target": "http://collegeramacolleges.tudelft.nl/online/welcome/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/sc/msc-systems-control/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/administratie/regeling-afstudeersteun-studenten/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/kt/bsc-klinische-technologie/"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine/operationair/"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/praktische-zaken/scholarships/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/space-flight/"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/me/msc-mechanical-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/2-aanmelding-inschrijving-deadlines/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-nederlands-diploma/1-toelatingseisen/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/master-event/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/administratie/inschrijven/bewijs-van-inschrijving/campuscard/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cosem/msc-complex-systems-engineering-and-management/research/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/onderwijsprogramma/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/phd/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/minor/thematisch-minor-aanbod/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-open-dagen/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aubs/msc-architecture-urbanism-and-building-sciences/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/aes/msc-applied-earth-sciences/msc-programme/track-applied-geophysics/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/administratie/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cme/msc-construction-management-and-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/es/msc-embedded-systems/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/e-mail/gebruik-mail-en-mailbox/mail-ontvangen/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/index.php?id=31529"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/lst/bsc-life-science-technology/onderwijsprogramma/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-bouwkunde/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/msc-programme/track-structural-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/mot/msc-management-of-technology/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/vpn-openvpn/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/cheme/msc-chemical-engineering/track-chemical-product-engineering/contact/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/bsc-campustours/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/onderwijsprogramma/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ct/bsc-civiele-techniek/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/onderwijsprogramma/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde/aansluitende-masteropleidingen/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/ict/help/skype-for-business/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/io/bsc-industrieel-ontwerpen/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tb/bsc-technische-bestuurskunde/carrieremogelijkheden/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pwstudelft.nl",
-            "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/minors/aanmeldprocedure-en-deadlines-tu-delft-studenten/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/ewi/studeren/masteropleidingen/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/ewi/studeren/minoren/electrical-sustainable-energy-systems/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/en/eemcs/current/information-coronavirus/information-for-working-from-home/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/ewi/actueel/informatie-coronavirus/thuiswerken/"
         },
         {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://studieverzameling.ewi.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group/staff/"
+        },
+        {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/ewi/actueel/humans-of-eemcs/said-hamdioui/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://studieverzameling.ewi.tudelft.nl",
             "target": "https://www.tudelft.nl/ewi/"
         },
         {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics/",
+            "target": "http://collegeramacolleges.tudelft.nl/online/welcome/"
+        },
+        {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/en/education/practical-matters/scholarships/",
+            "target": "http://collegeramacolleges.tudelft.nl/online/welcome/"
+        },
+        {
+            "visited_together": 10,
+            "weight": 0.05025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/education/academic-calendar/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/netid-account/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/phd/"
+        },
+        {
+            "visited_together": 10,
+            "weight": 0.05025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/"
+        },
+        {
+            "visited_together": 12,
+            "weight": 0.06030150753768844,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/"
+        },
+        {
+            "visited_together": 6,
+            "weight": 0.03015075376884422,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/virtual-private-network-vpn/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/online-ict-services/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/faculties/as-student-portal/education/graduation/bachelors-graduation-procedure/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "http://graduateschool.tudelft.nl"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/administration/enrolment/proof-of-enrolment/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/education/brightspace/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/bachelors/tn/bachelor-of-applied-physics/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/ict/ict-facilities/e-mail/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/ict/software/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/post-academic-professionals/pdeng-programmes/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/student/counselling/managing-your-career/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/search-jobs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/bachelors/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/ide/education/master-studies/msc-design-for-interaction/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/practical-matters/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "http://collegeramacolleges.tudelft.nl/online/welcome/",
+            "target": "https://www.tudelft.nl/en/education/programmes/masters/?lookup%5B99822%5D%5Bfilter%5D%5B25%5D%5B88%5D=88"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "http://www.studiegids.tudelft.nl",
             "target": "https://www.tudelft.nl/bk/studeren/minoren-en-keuzevakken/archineering/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/",
-            "target": "https://www.tudelft.nl/index.php?id=8111"
-        },
-        {
-            "visited_together": 5,
-            "weight": 0.024752475247524754,
-            "source": "https://repository.tudelft.nl/islandora/search/?collection=research",
-            "target": "https://www.tudelft.nl/library/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://repository.tudelft.nl/islandora/search/?collection=research",
-            "target": "https://www.tudelft.nl/io/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://repository.tudelft.nl/islandora/search/?collection=research",
-            "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
-        },
-        {
-            "visited_together": 18,
-            "weight": 0.0891089108910891,
-            "source": "https://repository.tudelft.nl/islandora/search/?collection=research",
-            "target": "https://www.tudelft.nl/en/library/"
-        },
-        {
             "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "weight": 0.03015075376884422,
             "source": "https://www.tudelft.nl/studenten/ict/software/",
             "target": "https://www.tudelft.nl/index.php?id=7577"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/e-mail/gebruik-mail-en-mailbox/mail-ontvangen/"
         },
         {
-            "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/"
         },
         {
-            "visited_together": 9,
-            "weight": 0.04455445544554455,
+            "visited_together": 7,
+            "weight": 0.035175879396984924,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
         },
         {
             "visited_together": 12,
-            "weight": 0.0594059405940594,
+            "weight": 0.06030150753768844,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
         },
         {
             "visited_together": 26,
-            "weight": 0.12871287128712872,
+            "weight": 0.1306532663316583,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/online-ict-diensten/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/index.php?id=7577",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://www.tudelft.nl/index.php?id=7577",
+            "target": "https://www.tudelft.nl/index.php?id=31529"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/administratie/regeling-afstudeersteun-studenten/"
         },
         {
             "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "weight": 0.03015075376884422,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-bouwkunde/"
         },
         {
             "visited_together": 14,
-            "weight": 0.06930693069306931,
+            "weight": 0.07035175879396985,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/onderwijs/academische-jaarindeling/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/vpn-openvpn/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/rechtspositie/reglementen-studentenstatuut-oer-etc/momi-study-progress-monitoring/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "http://studenten.tudelft.nl"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/begeleiding/studeren-met-een-functiebeperking/ondersteuning/study-buddy-project/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/ict/help/skype-for-business/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/administratie/inschrijven/bewijs-van-inschrijving/campuscard/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://www.tudelft.nl/index.php?id=7577",
-            "target": "https://www.tudelft.nl/studenten/onderwijs/brightspace/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/begeleiding/awareness-self-management/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/index.php?id=7577",
             "target": "https://www.tudelft.nl/studenten/administratie/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/index.php?id=7577",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/"
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/index.php?id=7577",
-            "target": "https://www.tudelft.nl/index.php?id=31529"
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/io/",
-            "target": "https://www.tudelft.nl/en/library/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/index.php?id=7577",
+            "target": "https://www.tudelft.nl/studenten/onderwijs/brightspace/"
         },
         {
             "visited_together": 12,
-            "weight": 0.0594059405940594,
+            "weight": 0.06030150753768844,
             "source": "https://www.tudelft.nl/io/",
             "target": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/"
         },
         {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/io/",
             "target": "https://online-learning.tudelft.nl"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/",
-            "target": "https://www.tudelft.nl/en/library/"
-        },
-        {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "https://online-learning.tudelft.nl/courses/design-leadership-and-innovation/",
             "target": "https://online-learning.tudelft.nl"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/en/library/",
-            "target": "https://www.tudelft.nl/tbm/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/en/library/",
-            "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
-        },
-        {
             "visited_together": 10,
-            "weight": 0.04950495049504951,
+            "weight": 0.05025125628140704,
             "source": "https://weblogin.tudelft.nl/vpn/index.html",
             "target": "https://www.tudelft.nl/mobility/meedoen/thuiswerken/weblogin/"
         },
         {
+            "visited_together": 4,
+            "weight": 0.020100502512562814,
+            "source": "https://repository.tudelft.nl/islandora/search/?collection=research",
+            "target": "https://www.tudelft.nl/library/"
+        },
+        {
             "visited_together": 6,
-            "weight": 0.0297029702970297,
+            "weight": 0.03015075376884422,
             "source": "https://www.tudelft.nl/studenten/faculteiten/bk-studentenportal/organisatie/studieadviseurs/",
             "target": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/"
         },
         {
             "visited_together": 3,
-            "weight": 0.01485148514851485,
+            "weight": 0.01507537688442211,
             "source": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
             "target": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/tbm/TheHague/",
             "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/values-technology-and-innovation/people/full-professors/profdr-mj-jeroen-van-den-hoven/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://online-learning.tudelft.nl",
             "target": "https://www.tudelft.nl/tbm/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://online-learning.tudelft.nl",
             "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
             "visited_together": 14,
-            "weight": 0.06930693069306931,
-            "source": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/",
-            "target": "https://www.tudelft.nl/tbm/"
+            "weight": 0.07035175879396985,
+            "source": "https://www.tudelft.nl/tbm/",
+            "target": "https://online-learning.tudelft.nl/courses/sustainable-urban-freight-transport-a-global-perspective/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/msc-electives/",
             "target": "https://www.tudelft.nl/index.php?id=31529"
         },
         {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/index.php?id=31529",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/"
+        },
+        {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/index.php?id=31529",
             "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree",
-            "target": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/education/graduation-msc/assessment/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/library/",
+            "target": "https://iamap.tudelft.nl/bereikbaarheid/"
         },
         {
-            "visited_together": 3,
-            "weight": 0.01485148514851485,
-            "source": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/education/graduation-msc/assessment/",
-            "target": "https://brightspace.tudelft.nl"
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/library/",
+            "target": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/gebouw-21/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/library/",
+            "target": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/2020/tu-delft/coronavirus/",
+            "target": "https://www.tudelft.nl/en/education/programmes/minor/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://brightspace.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/education/graduation-msc/assessment/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://brightspace.tudelft.nl",
+            "target": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/hydraulic-engineering/sections/rivers-ports-waterways-and-dredging-engineering/staff/broos-ej/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/materials-mechanics-management-design-3md/sections-labs/applied-mechanics/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/citg/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/geo-engineering/staff/academic-staff/gavin-kg/"
         },
         {
+            "visited_together": 2,
+            "weight": 0.010050251256281407,
+            "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
+            "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/"
+        },
+        {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/"
         },
         {
             "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "weight": 0.020100502512562814,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/pavement-engineering/staff/mw-katerina-varveri/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
             "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/goverde-rmp/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/citg/actueel/citg-op-social-media/",
-            "target": "https://www.tudelft.nl/en/ceg/about-faculty/departments/engineering-structures/sections-labs/railway-engineering/"
+            "weight": 0.005025125628140704,
+            "source": "https://iamap.tudelft.nl/bereikbaarheid/",
+            "target": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/gebouw-21/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://brightspace.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://sportsandculture.tudelft.nl/en/home",
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://sportsandculture.tudelft.nl/nl/home",
             "target": "https://www.tudelft.nl/x/aanbod/ruimte-reserveren-als-x-abonnee/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://sportsandculture.tudelft.nl/en/home",
+            "visited_together": 14,
+            "weight": 0.07035175879396985,
+            "source": "https://sportsandculture.tudelft.nl/nl/home",
+            "target": "https://sportsandculture.tudelft.nl/en/home"
+        },
+        {
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
+            "source": "https://sportsandculture.tudelft.nl/nl/home",
+            "target": "https://www.tudelft.nl/en/x/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.01507537688442211,
+            "source": "https://sportsandculture.tudelft.nl/nl/home",
             "target": "https://sportsandculture.tudelft.nl/nl/home"
         },
         {
-            "visited_together": 4,
-            "weight": 0.019801980198019802,
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/x/aanbod/ruimte-reserveren-als-x-abonnee/",
+            "target": "https://sportsandculture.tudelft.nl/en/home"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/student/faculties/eemcs-student-portal/",
+            "target": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree"
+        },
+        {
+            "visited_together": 8,
+            "weight": 0.04020100502512563,
             "source": "https://sportsandculture.tudelft.nl/en/home",
             "target": "https://www.tudelft.nl/en/x/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://www.tudelft.nl/x/aanbod/ruimte-reserveren-als-x-abonnee/",
-            "target": "https://sportsandculture.tudelft.nl/nl/home"
+            "visited_together": 5,
+            "weight": 0.02512562814070352,
+            "source": "https://sportsandculture.tudelft.nl/en/home",
+            "target": "https://sportsandculture.tudelft.nl/en/home"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/dr-mr-n-niek-mouter-msc/",
             "target": "http://graduateschool.tudelft.nl"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "http://graduateschool.tudelft.nl",
             "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/dr-tc-tina-comes/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://collegerama.tudelft.nl/Mediasite/Play/015f0a5464e34294b1bc8ad34a05841d1d",
             "target": "https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/wind-energy/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://adhok.bk.tudelft.nl",
+            "weight": 0.005025125628140704,
+            "source": "http://ictmanuals.tudelft.nl",
             "target": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/index.php?id=7012",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/"
+            "weight": 0.005025125628140704,
+            "source": "http://ictmanuals.tudelft.nl",
+            "target": "https://adhok.bk.tudelft.nl"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/studenten/faculteiten/io/praktische-zaken/aanmelden-voor-vakken-osiris/keuzevakken-in-de-bachelor/",
-            "target": "https://www.tudelft.nl/index.php?id=7659"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/student/faculties/a-be-student-portal/education/master-of-science/master-of-science-programme-architecture-urbanism-building-sciences/graduating/admission-requirements-p2-and-p4/",
+            "target": "https://adhok.bk.tudelft.nl"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/",
+            "target": "https://www.tudelft.nl/2020/bk/verduurzamen-aan-de-hand-van-harde-data/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/",
+            "target": "https://www.tudelft.nl/2020/bk/de-experts-kunnen-het-niet-alleen/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/3me/afdelingen/maritime-and-transport-technology/people/ship-hydromechanics/",
             "target": "https://www.tudelft.nl/3me/over/afdelingen/maritime-and-transport-technology/people/ship-and-offshore-structures/t-keizer-msc/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group/staff/",
-            "target": "http://staff.tudelft.nl/en/M.Cvetkovic"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/",
+            "target": "https://www.tudelft.nl/library/bezoek-gebruik/faciliteiten-studieplekken/printen-kopieren/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group/staff/",
+            "target": "http://staff.tudelft.nl/en/J.L.RuedaTorres/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/en/education/programmes/exchange/",
             "target": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/exchange-students/1-requirements-documents/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd/",
-            "target": "https://www.tudelft.nl/en/staff/a.mohammadigheidari-1"
+            "target": "https://www.tudelft.nl/staff/j.caro/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
             "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd/",
             "target": "http://www.imphys.tudelft.nl"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
+            "weight": 0.005025125628140704,
             "source": "http://www.imphys.tudelft.nl",
-            "target": "https://www.tudelft.nl/en/staff/a.mohammadigheidari-1"
+            "target": "https://www.tudelft.nl/staff/j.caro/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-computer-engineering/programme/",
+            "target": "http://studenten.tudelft.nl/en/eemcs/international-office-internship-office/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://brightspace-support.tudelft.nl/enrolling-and-unenrolling-for-courses/",
+            "target": "https://www.tudelft.nl/studenten/onderwijs/brightspace/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://wiki.tudelft.nl/bin/view/Research/PRCV/WebHome",
             "target": "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-laboratory/people/marco-loog/"
         },
         {
             "visited_together": 2,
-            "weight": 0.009900990099009901,
+            "weight": 0.010050251256281407,
             "source": "https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/delta-urbanism/",
             "target": "http://staff.tudelft.nl/en/T.Bacchin/"
         },
         {
-            "visited_together": 2,
-            "weight": 0.009900990099009901,
-            "source": "https://www.tudelft.nl/staff/j.caro/",
-            "target": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/"
+            "visited_together": 1,
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/",
+            "target": "https://www.tudelft.nl/en/staff/o.elgawhary/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "http://brightspace.tudelft.nl",
-            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/graduation-opportunities/",
+            "target": "http://brightspace.tudelft.nl"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://pure.tudelft.nl/portal/en/persons/jc-diehl(f55e6009-c69f-4081-ab87-a45ccad925ca)/publications.html",
-            "target": "https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/research-areas/design-for-sustainability/"
+            "weight": 0.005025125628140704,
+            "source": "https://repository.tudelft.nl/content/education-upload-tips",
+            "target": "https://www.tudelft.nl/en/student/faculties/ide/education/msc-graduation/downloads/"
         },
         {
             "visited_together": 1,
-            "weight": 0.0049504950495049506,
-            "source": "https://www.tudelft.nl/bk/over-faculteit/afdelingen/management-in-the-built-environment/",
-            "target": "https://www.tudelft.nl/2020/bk/de-experts-kunnen-het-niet-alleen/"
+            "weight": 0.005025125628140704,
+            "source": "https://www.tudelft.nl/ddream/teams/project-march/",
+            "target": "https://www.tudelft.nl/d-dream/teams/project-march/"
         }
     ]
 }

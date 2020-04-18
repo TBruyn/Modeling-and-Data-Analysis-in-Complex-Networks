@@ -43,20 +43,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -86,20 +75,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -204,9 +182,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 364662777,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/en/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 66.9,
+                "has_integration": false,
+                "page_views": 1146,
+                "visits": 896,
+                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -220,20 +209,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -265,29 +243,18 @@
                 "p_exit": 0.5842696629213483
             },
             {
-                "id": 363661792,
-                "title": "MOOC: Citizens Co-Creating Sustainable Cities | TU Delft Online",
-                "url": "https://online-learning.tudelft.nl/courses/citizens-co-creating-sustainable-cities/",
+                "id": 257358094,
+                "title": "TU Delft: Docenten en decanen",
+                "url": "http://vodocenten.tudelft.nl",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 3,
-                "visits": 3,
-                "p_exit": 0.00010951303205081405
-            },
-            {
-                "id": 336118449,
-                "title": "Home",
-                "url": "https://www.tudelft.nl",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 40.28,
-                "has_integration": false,
-                "page_views": 27238,
-                "visits": 19716,
-                "p_exit": 0.8360600386752203
+                "page_views": 1,
+                "visits": 1,
+                "p_exit": 0.5
             }
         ],
-        "page_views": 3
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -397,9 +364,31 @@
                 "page_views": 8,
                 "visits": 5,
                 "p_exit": 0.07766990291262135
+            },
+            {
+                "id": 257070204,
+                "title": "TU Delft Student portal",
+                "url": "http://studenten.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.03,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 73,
+                "visits": 71,
+                "p_exit": 0.05725490196078432
+            },
+            {
+                "id": 412215851,
+                "title": "TU Delft Student portal",
+                "url": "https://www.tudelft.nl/en/student/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 32.62,
+                "has_integration": false,
+                "page_views": 1199,
+                "visits": 882,
+                "p_exit": 0.997504159733777
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -601,15 +590,15 @@
                 "p_exit": 0.8360600386752203
             },
             {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
+                "id": 364662777,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/en/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 66.9,
                 "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
+                "page_views": 1146,
+                "visits": 896,
+                "p_exit": 0.9947916666666666
             }
         ],
         "page_views": 2
@@ -676,18 +665,29 @@
                 "p_exit": 0.3
             },
             {
-                "id": 267527828,
-                "title": "TU Delft: Kenniscentrum Open Data",
-                "url": "http://www.opendata.bk.tudelft.nl",
+                "id": 259767158,
+                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
+                "url": "http://universiteitsfonds.tudelft.nl",
                 "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
+                "page_views": 6,
+                "visits": 6,
+                "p_exit": 0.0967741935483871
+            },
+            {
+                "id": 363442639,
+                "title": "Universiteitsfonds",
+                "url": "https://www.tudelft.nl/universiteitsfonds/",
+                "average_page_views_per_visit": 1.37,
+                "bounce_rate": 35.0,
+                "has_integration": false,
+                "page_views": 56,
+                "visits": 41,
                 "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -733,20 +733,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 364662777,
-                "title": "Library",
-                "url": "https://www.tudelft.nl/en/library/",
-                "average_page_views_per_visit": 1.28,
-                "bounce_rate": 66.9,
-                "has_integration": false,
-                "page_views": 1146,
-                "visits": 896,
-                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -856,9 +845,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -936,9 +936,20 @@
                 "page_views": 799,
                 "visits": 727,
                 "p_exit": 0.4483726150392817
+            },
+            {
+                "id": 257214119,
+                "title": "index.html",
+                "url": "https://weblogin.tudelft.nl/vpn/index.html",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 58.97,
+                "has_integration": false,
+                "page_views": 983,
+                "visits": 871,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -968,19 +979,9 @@
                 "page_views": 217,
                 "visits": 158,
                 "p_exit": 0.9863636363636363
-            },
-            {
-                "id": 257920007,
-                "url": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -1057,20 +1058,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -1132,9 +1122,20 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
+            },
+            {
+                "id": 666803506,
+                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 61.08,
+                "has_integration": false,
+                "page_views": 542,
+                "visits": 461,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1213,31 +1214,9 @@
                 "page_views": 91,
                 "visits": 66,
                 "p_exit": 0.6791044776119403
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 4
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1283,9 +1262,20 @@
                 "page_views": 216,
                 "visits": 141,
                 "p_exit": 0.96
+            },
+            {
+                "id": 257358094,
+                "title": "TU Delft: Docenten en decanen",
+                "url": "http://vodocenten.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "p_exit": 0.5
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1299,9 +1289,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 364662777,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/en/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 66.9,
+                "has_integration": false,
+                "page_views": 1146,
+                "visits": 896,
+                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1481,9 +1482,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666463541,
+                "title": "Miljoenen voor verbetering binnenvaart Rijn-Alpen corridor",
+                "url": "https://www.tudelft.nl/2020/3me/maart/miljoenen-voor-verbetering-binnenvaart-rijn-alpen-corridor/",
+                "average_page_views_per_visit": 1.3,
+                "bounce_rate": 38.1,
+                "has_integration": false,
+                "page_views": 138,
+                "visits": 106,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1513,9 +1525,20 @@
                 "page_views": 799,
                 "visits": 727,
                 "p_exit": 0.4483726150392817
+            },
+            {
+                "id": 257214119,
+                "title": "index.html",
+                "url": "https://weblogin.tudelft.nl/vpn/index.html",
+                "average_page_views_per_visit": 1.13,
+                "bounce_rate": 58.97,
+                "has_integration": false,
+                "page_views": 983,
+                "visits": 871,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1529,20 +1552,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 364662777,
-                "title": "Library",
-                "url": "https://www.tudelft.nl/en/library/",
-                "average_page_views_per_visit": 1.28,
-                "bounce_rate": 66.9,
-                "has_integration": false,
-                "page_views": 1146,
-                "visits": 896,
-                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -1614,9 +1626,31 @@
                 "page_views": 22,
                 "visits": 20,
                 "p_exit": 0.7857142857142857
+            },
+            {
+                "id": 259767158,
+                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
+                "url": "http://universiteitsfonds.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 6,
+                "p_exit": 0.0967741935483871
+            },
+            {
+                "id": 363442639,
+                "title": "Universiteitsfonds",
+                "url": "https://www.tudelft.nl/universiteitsfonds/",
+                "average_page_views_per_visit": 1.37,
+                "bounce_rate": 35.0,
+                "has_integration": false,
+                "page_views": 56,
+                "visits": 41,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -1780,9 +1814,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -1796,20 +1841,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666478032,
-                "title": "Klimaatarboretum TU Delft",
-                "url": "https://www.tudelft.nl/2020/tu-delft/klimaatarboretum-tu-delft/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 60.0,
-                "has_integration": false,
-                "page_views": 173,
-                "visits": 150,
-                "p_exit": 0.9664804469273743
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -1871,9 +1905,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -2031,9 +2076,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -2095,20 +2151,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -2186,9 +2231,20 @@
                 "page_views": 23,
                 "visits": 15,
                 "p_exit": 0.696969696969697
+            },
+            {
+                "id": 431838387,
+                "title": "J.M.C. Mol - Research output \u203a TU Delft Research Information System",
+                "url": "https://pure.tudelft.nl/portal/en/persons/jmc-mol(919c62ae-5bad-4af8-b271-49771a0b28a6)/publications.html",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 4,
+                "visits": 4,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -2282,20 +2338,9 @@
                 "page_views": 14,
                 "visits": 11,
                 "p_exit": 0.6086956521739131
-            },
-            {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -2341,9 +2386,20 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
+            },
+            {
+                "id": 666803506,
+                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 61.08,
+                "has_integration": false,
+                "page_views": 542,
+                "visits": 461,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -2407,39 +2463,6 @@
                 "p_exit": 0.34
             },
             {
-                "id": 469835572,
-                "title": "Hardware advice | @Hok Student ICT Support",
-                "url": "http://adhok.bk.tudelft.nl/laptop/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 23,
-                "visits": 20,
-                "p_exit": 0.39655172413793105
-            },
-            {
-                "id": 257073361,
-                "title": "TU Delft: Laptopproject",
-                "url": "http://laptopproject.tudelft.nl",
-                "average_page_views_per_visit": 1.17,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 35,
-                "visits": 30,
-                "p_exit": 0.07882882882882883
-            },
-            {
-                "id": 411477726,
-                "title": "Laptopproject",
-                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 366,
-                "visits": 298,
-                "p_exit": 0.8948655256723717
-            },
-            {
                 "id": 368515670,
                 "title": "Collegegeld en Financi\u00ebn",
                 "url": "https://www.tudelft.nl/index.php?id=7577",
@@ -2462,7 +2485,7 @@
                 "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 6
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -2535,20 +2558,9 @@
                 "page_views": 48,
                 "visits": 36,
                 "p_exit": 0.8421052631578947
-            },
-            {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -2564,14 +2576,13 @@
                 "p_exit": 0.18705035971223022
             },
             {
-                "id": 344742724,
-                "title": "Single Sign-On for the TU Delft",
-                "url": "https://brightspace.tudelft.nl",
-                "average_page_views_per_visit": 1.09,
-                "bounce_rate": 30.0,
+                "id": 561793920,
+                "url": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree",
+                "average_page_views_per_visit": 1.14,
+                "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 93,
-                "visits": 85,
+                "page_views": 16,
+                "visits": 14,
                 "p_exit": 1.0
             }
         ],
@@ -2589,6 +2600,17 @@
                 "page_views": 4,
                 "visits": 3,
                 "p_exit": 0.3333333333333333
+            },
+            {
+                "id": 363476678,
+                "title": "404",
+                "url": "https://www.tudelft.nl/404/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 2,
+                "visits": 2,
+                "p_exit": 0.25
             },
             {
                 "id": 259767158,
@@ -2613,7 +2635,7 @@
                 "p_exit": 1.0
             }
         ],
-        "page_views": 3
+        "page_views": 4
     },
     {
         "pagelist": [
@@ -2873,31 +2895,9 @@
                 "page_views": 407,
                 "visits": 364,
                 "p_exit": 0.9044444444444445
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -2927,9 +2927,31 @@
                 "page_views": 234,
                 "visits": 164,
                 "p_exit": 0.9629629629629629
+            },
+            {
+                "id": 257358094,
+                "title": "TU Delft: Docenten en decanen",
+                "url": "http://vodocenten.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "p_exit": 0.5
+            },
+            {
+                "id": 363451904,
+                "title": "Docenten en decanen",
+                "url": "https://www.tudelft.nl/docenten-en-decanen/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -2943,9 +2965,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -3023,31 +3056,9 @@
                 "page_views": 1749,
                 "visits": 1505,
                 "p_exit": 0.9760044642857143
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3061,20 +3072,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3120,20 +3120,9 @@
                 "page_views": 719,
                 "visits": 582,
                 "p_exit": 0.9435695538057742
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3147,20 +3136,9 @@
                 "page_views": 20,
                 "visits": 17,
                 "p_exit": 0.5882352941176471
-            },
-            {
-                "id": 559469358,
-                "title": "| DMS",
-                "url": "https://sportsandculture.tudelft.nl/nl/home",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 10,
-                "visits": 10,
-                "p_exit": 0.7142857142857143
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3222,9 +3200,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -3320,13 +3309,14 @@
                 "p_exit": 0.3615819209039548
             },
             {
-                "id": 561793920,
-                "url": "https://studiegids.tudelft.nl/menuAction.do?toolbarSelection=tree",
-                "average_page_views_per_visit": 1.14,
-                "bounce_rate": 0.0,
+                "id": 344742724,
+                "title": "Single Sign-On for the TU Delft",
+                "url": "https://brightspace.tudelft.nl",
+                "average_page_views_per_visit": 1.09,
+                "bounce_rate": 30.0,
                 "has_integration": false,
-                "page_views": 16,
-                "visits": 14,
+                "page_views": 93,
+                "visits": 85,
                 "p_exit": 1.0
             }
         ],
@@ -3360,9 +3350,20 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
+            },
+            {
+                "id": 666803506,
+                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
+                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
+                "average_page_views_per_visit": 1.18,
+                "bounce_rate": 61.08,
+                "has_integration": false,
+                "page_views": 542,
+                "visits": 461,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -3424,20 +3425,9 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
-            },
-            {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
-                "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3953,20 +3943,9 @@
                 "page_views": 2,
                 "visits": 2,
                 "p_exit": 0.18181818181818182
-            },
-            {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -3980,9 +3959,31 @@
                 "page_views": 5420,
                 "visits": 2324,
                 "p_exit": 0.9867103586382668
+            },
+            {
+                "id": 257070204,
+                "title": "TU Delft Student portal",
+                "url": "http://studenten.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.03,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 73,
+                "visits": 71,
+                "p_exit": 0.05725490196078432
+            },
+            {
+                "id": 412215851,
+                "title": "TU Delft Student portal",
+                "url": "https://www.tudelft.nl/en/student/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 32.62,
+                "has_integration": false,
+                "page_views": 1199,
+                "visits": 882,
+                "p_exit": 0.997504159733777
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -4039,20 +4040,9 @@
                 "page_views": 273,
                 "visits": 180,
                 "p_exit": 0.8557993730407524
-            },
-            {
-                "id": 653581411,
-                "title": "Events",
-                "url": "https://www.tudelft.nl/en/x/whats-on-offer/events/",
-                "average_page_views_per_visit": 1.2,
-                "bounce_rate": 100.0,
-                "has_integration": false,
-                "page_views": 12,
-                "visits": 10,
-                "p_exit": 0.75
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -4184,20 +4174,9 @@
                 "page_views": 43,
                 "visits": 35,
                 "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 3
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -4259,9 +4238,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -4402,20 +4392,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -4520,31 +4499,9 @@
                 "page_views": 702,
                 "visits": 516,
                 "p_exit": 0.9422818791946309
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 4
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -4606,9 +4563,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -4729,20 +4697,9 @@
                 "page_views": 55,
                 "visits": 36,
                 "p_exit": 0.859375
-            },
-            {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -4820,20 +4777,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -4911,20 +4857,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5008,9 +4943,31 @@
                 "page_views": 684,
                 "visits": 473,
                 "p_exit": 0.9035667107001321
+            },
+            {
+                "id": 257070204,
+                "title": "TU Delft Student portal",
+                "url": "http://studenten.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.03,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 73,
+                "visits": 71,
+                "p_exit": 0.05725490196078432
+            },
+            {
+                "id": 412215851,
+                "title": "TU Delft Student portal",
+                "url": "https://www.tudelft.nl/en/student/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 32.62,
+                "has_integration": false,
+                "page_views": 1199,
+                "visits": 882,
+                "p_exit": 0.997504159733777
             }
         ],
-        "page_views": 3
+        "page_views": 5
     },
     {
         "pagelist": [
@@ -5024,20 +4981,9 @@
                 "page_views": 246,
                 "visits": 170,
                 "p_exit": 0.9647058823529412
-            },
-            {
-                "id": 662420643,
-                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
-                "url": "https://pwstudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 8,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5099,20 +5045,9 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
-            },
-            {
-                "id": 665856240,
-                "title": "Researchers organically engineer solar cells using enzymes in papaya fruit",
-                "url": "https://www.tudelft.nl/en/2020/tnw/researchers-organically-engineer-solar-cells-using-enzymes-in-papaya-fruit/",
-                "average_page_views_per_visit": 1.15,
-                "bounce_rate": 100.0,
-                "has_integration": false,
-                "page_views": 60,
-                "visits": 52,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5158,19 +5093,9 @@
                 "page_views": 15,
                 "visits": 14,
                 "p_exit": 0.8333333333333334
-            },
-            {
-                "id": 257920007,
-                "url": "http://collegeramacolleges.tudelft.nl/online/welcome/",
-                "average_page_views_per_visit": 1.5,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5243,20 +5168,9 @@
                 "page_views": 11,
                 "visits": 10,
                 "p_exit": 0.10185185185185185
-            },
-            {
-                "id": 411886009,
-                "title": "ICT Handleidingen - Medewerkers en studenten",
-                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 12.9,
-                "has_integration": false,
-                "page_views": 91,
-                "visits": 66,
-                "p_exit": 0.6791044776119403
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5334,9 +5248,20 @@
                 "page_views": 11,
                 "visits": 10,
                 "p_exit": 0.10185185185185185
+            },
+            {
+                "id": 411886009,
+                "title": "ICT Handleidingen - Medewerkers en studenten",
+                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
+                "average_page_views_per_visit": 1.38,
+                "bounce_rate": 12.9,
+                "has_integration": false,
+                "page_views": 91,
+                "visits": 66,
+                "p_exit": 0.6791044776119403
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -5366,31 +5291,9 @@
                 "page_views": 66,
                 "visits": 53,
                 "p_exit": 0.88
-            },
-            {
-                "id": 257358094,
-                "title": "TU Delft: Docenten en decanen",
-                "url": "http://vodocenten.tudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "p_exit": 0.5
-            },
-            {
-                "id": 363451904,
-                "title": "Docenten en decanen",
-                "url": "https://www.tudelft.nl/docenten-en-decanen/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5404,20 +5307,9 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
-            },
-            {
-                "id": 666477994,
-                "title": "TU Delft climate arboretum",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-climate-arboretum/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 71.79,
-                "has_integration": false,
-                "page_views": 167,
-                "visits": 142,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5447,20 +5339,9 @@
                 "page_views": 21,
                 "visits": 19,
                 "p_exit": 0.5121951219512195
-            },
-            {
-                "id": 363580083,
-                "title": "Summerschool Sustainable Housing from a European Perspective",
-                "url": "https://www.tudelft.nl/bk/studeren/summerschools/summerschool-sustainable-housing-from-a-european-perspective/",
-                "average_page_views_per_visit": 2.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 4,
-                "visits": 2,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5720,31 +5601,9 @@
                 "page_views": 14,
                 "visits": 12,
                 "p_exit": 0.24561403508771928
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5774,20 +5633,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5865,20 +5713,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -5908,9 +5745,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -5924,9 +5772,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -5972,9 +5831,20 @@
                 "page_views": 19,
                 "visits": 18,
                 "p_exit": 0.6785714285714286
+            },
+            {
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 8,
+                "visits": 8,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -6052,20 +5922,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6201,20 +6060,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6228,20 +6076,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6273,29 +6110,71 @@
                 "p_exit": 0.5652173913043478
             },
             {
-                "id": 369464496,
-                "title": "TU Delft patent portfolio",
-                "url": "https://www.tudelft.nl/en/library/collections/tu-delft-patent-portfolio/",
-                "average_page_views_per_visit": 1.17,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 7,
-                "visits": 6,
-                "p_exit": 0.7
-            },
-            {
-                "id": 664133808,
-                "title": "Standards, statistics and more",
-                "url": "https://www.tudelft.nl/en/library/collections/standards-statistics-and-more/",
-                "average_page_views_per_visit": 1.5,
+                "id": 391282195,
+                "url": "https://tresor.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
                 "page_views": 3,
-                "visits": 2,
-                "p_exit": 1.0
+                "visits": 3,
+                "p_exit": 0.1875
+            },
+            {
+                "id": 382533860,
+                "title": "Tr\u00e9sor",
+                "url": "https://www.tudelft.nl/library/bezoek-gebruik/openingstijden-locaties/tresor/",
+                "average_page_views_per_visit": 1.5,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 4,
+                "p_exit": 0.6666666666666666
+            },
+            {
+                "id": 391282195,
+                "url": "https://tresor.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 3,
+                "p_exit": 0.1875
+            },
+            {
+                "id": 351032688,
+                "title": "Plattegrond en gebouwen",
+                "url": "https://www.tudelft.nl/over-tu-delft/contact-en-bereikbaarheid/plattegrond-en-gebouwen/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 5,
+                "visits": 5,
+                "p_exit": 0.09615384615384616
+            },
+            {
+                "id": 621929379,
+                "title": "Accessibility and parking - TU Delft Campus",
+                "url": "https://iamap.tudelft.nl/en/accessibility-and-parking/",
+                "average_page_views_per_visit": 1.1,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 22,
+                "visits": 20,
+                "p_exit": 0.4230769230769231
+            },
+            {
+                "id": 621925910,
+                "title": "Bereikbaarheid TU Delft - TU Delft Campus",
+                "url": "https://iamap.tudelft.nl/bereikbaarheid/",
+                "average_page_views_per_visit": 1.09,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 25,
+                "visits": 23,
+                "p_exit": 0.5319148936170213
             }
         ],
-        "page_views": 3
+        "page_views": 7
     },
     {
         "pagelist": [
@@ -6336,20 +6215,9 @@
                 "page_views": 6,
                 "visits": 6,
                 "p_exit": 0.0967741935483871
-            },
-            {
-                "id": 363442639,
-                "title": "Universiteitsfonds",
-                "url": "https://www.tudelft.nl/universiteitsfonds/",
-                "average_page_views_per_visit": 1.37,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 56,
-                "visits": 41,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 3
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -6444,9 +6312,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 364662777,
+                "title": "Library",
+                "url": "https://www.tudelft.nl/en/library/",
+                "average_page_views_per_visit": 1.28,
+                "bounce_rate": 66.9,
+                "has_integration": false,
+                "page_views": 1146,
+                "visits": 896,
+                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -6524,9 +6403,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -6540,9 +6430,31 @@
                 "page_views": 118,
                 "visits": 81,
                 "p_exit": 0.7329192546583851
+            },
+            {
+                "id": 368515670,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/index.php?id=7577",
+                "average_page_views_per_visit": 1.23,
+                "bounce_rate": 40.0,
+                "has_integration": false,
+                "page_views": 43,
+                "visits": 35,
+                "p_exit": 0.1575091575091575
+            },
+            {
+                "id": 350675794,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
+                "average_page_views_per_visit": 1.41,
+                "bounce_rate": 51.11,
+                "has_integration": false,
+                "page_views": 221,
+                "visits": 157,
+                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -6620,42 +6532,9 @@
                 "page_views": 32,
                 "visits": 29,
                 "p_exit": 0.6666666666666666
-            },
-            {
-                "id": 257090548,
-                "title": "Delft University of Technology: Employee",
-                "url": "http://staff.tudelft.nl/en/R.Bhandia/",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 1,
-                "visits": 1,
-                "p_exit": 0.14285714285714285
-            },
-            {
-                "id": 259767158,
-                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
-                "url": "http://universiteitsfonds.tudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 6,
-                "visits": 6,
-                "p_exit": 0.0967741935483871
-            },
-            {
-                "id": 363442639,
-                "title": "Universiteitsfonds",
-                "url": "https://www.tudelft.nl/universiteitsfonds/",
-                "average_page_views_per_visit": 1.37,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 56,
-                "visits": 41,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 4
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -6947,9 +6826,20 @@
                 "page_views": 18,
                 "visits": 13,
                 "p_exit": 0.5142857142857142
+            },
+            {
+                "id": 363652696,
+                "title": "Discover the science and complexity behind railway systems",
+                "url": "https://www.tudelft.nl/en/2017/tu-delft/discover-the-science-and-complexity-behind-railway-systems/",
+                "average_page_views_per_visit": 2.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 3,
+                "p_exit": 0.8571428571428571
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -6963,9 +6853,31 @@
                 "page_views": 1749,
                 "visits": 1505,
                 "p_exit": 0.9760044642857143
+            },
+            {
+                "id": 368515670,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/index.php?id=7577",
+                "average_page_views_per_visit": 1.23,
+                "bounce_rate": 40.0,
+                "has_integration": false,
+                "page_views": 43,
+                "visits": 35,
+                "p_exit": 0.1575091575091575
+            },
+            {
+                "id": 350675794,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
+                "average_page_views_per_visit": 1.41,
+                "bounce_rate": 51.11,
+                "has_integration": false,
+                "page_views": 221,
+                "visits": 157,
+                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -7013,40 +6925,18 @@
                 "p_exit": 0.4
             },
             {
-                "id": 257093586,
-                "title": "TU Delft: EEMCS International & Internship Office",
-                "url": "http://studenten.tudelft.nl/en/eemcs/international-office-internship-office/",
-                "average_page_views_per_visit": 1.5,
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
                 "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 3,
-                "visits": 2,
-                "p_exit": 0.03529411764705882
-            },
-            {
-                "id": 257070204,
-                "title": "TU Delft Student portal",
-                "url": "http://studenten.tudelft.nl/en/",
-                "average_page_views_per_visit": 1.03,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 73,
-                "visits": 71,
-                "p_exit": 0.05725490196078432
-            },
-            {
-                "id": 412215851,
-                "title": "TU Delft Student portal",
-                "url": "https://www.tudelft.nl/en/student/",
-                "average_page_views_per_visit": 1.36,
-                "bounce_rate": 32.62,
-                "has_integration": false,
-                "page_views": 1199,
-                "visits": 882,
-                "p_exit": 0.997504159733777
+                "page_views": 8,
+                "visits": 8,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 4
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7092,9 +6982,31 @@
                 "page_views": 45,
                 "visits": 36,
                 "p_exit": 0.3813559322033898
+            },
+            {
+                "id": 257070204,
+                "title": "TU Delft Student portal",
+                "url": "http://studenten.tudelft.nl/en/",
+                "average_page_views_per_visit": 1.03,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 73,
+                "visits": 71,
+                "p_exit": 0.05725490196078432
+            },
+            {
+                "id": 412215851,
+                "title": "TU Delft Student portal",
+                "url": "https://www.tudelft.nl/en/student/",
+                "average_page_views_per_visit": 1.36,
+                "bounce_rate": 32.62,
+                "has_integration": false,
+                "page_views": 1199,
+                "visits": 882,
+                "p_exit": 0.997504159733777
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -7156,20 +7068,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -7274,20 +7175,9 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
-            },
-            {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
-                "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -7317,9 +7207,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7333,9 +7234,20 @@
                 "page_views": 110,
                 "visits": 83,
                 "p_exit": 0.9243697478991597
+            },
+            {
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 8,
+                "visits": 8,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7685,20 +7597,9 @@
                 "page_views": 18,
                 "visits": 15,
                 "p_exit": 0.6666666666666666
-            },
-            {
-                "id": 431567959,
-                "title": "J. Sietsma - Research output \u203a TU Delft Research Information System",
-                "url": "https://pure.tudelft.nl/portal/en/persons/j-sietsma(e614009f-7c02-4312-b589-d462a67256d6)/publications.html",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 3,
-                "visits": 3,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -7760,9 +7661,20 @@
                 "page_views": 40,
                 "visits": 22,
                 "p_exit": 0.8163265306122449
+            },
+            {
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 8,
+                "visits": 8,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7808,9 +7720,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7872,20 +7795,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 364662777,
-                "title": "Library",
-                "url": "https://www.tudelft.nl/en/library/",
-                "average_page_views_per_visit": 1.28,
-                "bounce_rate": 66.9,
-                "has_integration": false,
-                "page_views": 1146,
-                "visits": 896,
-                "p_exit": 0.9947916666666666
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -7910,31 +7822,9 @@
                 "page_views": 91,
                 "visits": 66,
                 "p_exit": 0.6791044776119403
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 4
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -7975,9 +7865,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -8055,42 +7956,9 @@
                 "page_views": 12,
                 "visits": 10,
                 "p_exit": 0.8571428571428571
-            },
-            {
-                "id": 259616848,
-                "title": "Delft University of Technology: Employee",
-                "url": "http://staff.tudelft.nl/en/T.Bacchin/",
-                "average_page_views_per_visit": 2.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 2,
-                "visits": 1,
-                "p_exit": 0.14285714285714285
-            },
-            {
-                "id": 259767158,
-                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
-                "url": "http://universiteitsfonds.tudelft.nl",
-                "average_page_views_per_visit": 1.0,
-                "bounce_rate": 0.0,
-                "has_integration": false,
-                "page_views": 6,
-                "visits": 6,
-                "p_exit": 0.0967741935483871
-            },
-            {
-                "id": 363442639,
-                "title": "Universiteitsfonds",
-                "url": "https://www.tudelft.nl/universiteitsfonds/",
-                "average_page_views_per_visit": 1.37,
-                "bounce_rate": 35.0,
-                "has_integration": false,
-                "page_views": 56,
-                "visits": 41,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 4
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -8104,31 +7972,9 @@
                 "page_views": 87,
                 "visits": 64,
                 "p_exit": 0.6692307692307692
-            },
-            {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
-                "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 3
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -8185,20 +8031,9 @@
                 "page_views": 103,
                 "visits": 66,
                 "p_exit": 0.34797297297297297
-            },
-            {
-                "id": 363726985,
-                "title": "Kees Hagen",
-                "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/people/kees-hagen/",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 100.0,
-                "has_integration": false,
-                "page_views": 11,
-                "visits": 8,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -8495,20 +8330,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 665884674,
-                "title": "Onderzoekers maken zonnecellen met behulp van enzymen uit papaja's",
-                "url": "https://www.tudelft.nl/2020/tnw/onderzoekers-maken-zonnecellen-met-behulp-van-enzymen-uit-papajas/",
-                "average_page_views_per_visit": 1.25,
-                "bounce_rate": 50.0,
-                "has_integration": false,
-                "page_views": 60,
-                "visits": 48,
-                "p_exit": 0.9090909090909091
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -8538,9 +8362,20 @@
                 "page_views": 273,
                 "visits": 224,
                 "p_exit": 0.7338709677419355
+            },
+            {
+                "id": 258859949,
+                "title": "Weblogin TU Delft",
+                "url": "http://weblogin.tudelft.nl",
+                "average_page_views_per_visit": 1.2,
+                "bounce_rate": 60.0,
+                "has_integration": false,
+                "page_views": 96,
+                "visits": 80,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -8666,9 +8501,20 @@
                 "page_views": 30,
                 "visits": 16,
                 "p_exit": 0.7692307692307693
+            },
+            {
+                "id": 662420643,
+                "title": "PWS TU Delft | Hulp bij jouw profielwerkstuk \u2013 Practica, Proefjes, Vragen en Stappenplan",
+                "url": "https://pwstudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 8,
+                "visits": 8,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -8698,9 +8544,30 @@
                 "page_views": 1678,
                 "visits": 1308,
                 "p_exit": 0.9893867924528302
+            },
+            {
+                "id": 391282195,
+                "url": "https://tresor.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 3,
+                "visits": 3,
+                "p_exit": 0.1875
+            },
+            {
+                "id": 391586803,
+                "title": "Kaarten",
+                "url": "https://tresor.tudelft.nl/kaart/",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 1,
+                "visits": 1,
+                "p_exit": 0.0625
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -8746,9 +8613,31 @@
                 "page_views": 5,
                 "visits": 4,
                 "p_exit": 0.45454545454545453
+            },
+            {
+                "id": 259767158,
+                "title": "Universiteitsfonds Delft \u2013 Helpt de TU Delft te excelleren",
+                "url": "http://universiteitsfonds.tudelft.nl",
+                "average_page_views_per_visit": 1.0,
+                "bounce_rate": 0.0,
+                "has_integration": false,
+                "page_views": 6,
+                "visits": 6,
+                "p_exit": 0.0967741935483871
+            },
+            {
+                "id": 363442639,
+                "title": "Universiteitsfonds",
+                "url": "https://www.tudelft.nl/universiteitsfonds/",
+                "average_page_views_per_visit": 1.37,
+                "bounce_rate": 35.0,
+                "has_integration": false,
+                "page_views": 56,
+                "visits": 41,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -9092,20 +8981,9 @@
                 "page_views": 9278,
                 "visits": 6563,
                 "p_exit": 0.904464807954767
-            },
-            {
-                "id": 666803506,
-                "title": "TU Delft Master\u2019s students start initiative for developing ventilators",
-                "url": "https://www.tudelft.nl/en/2020/tu-delft/tu-delft-masters-students-start-initiative-for-developing-ventilators/",
-                "average_page_views_per_visit": 1.18,
-                "bounce_rate": 61.08,
-                "has_integration": false,
-                "page_views": 542,
-                "visits": 461,
-                "p_exit": 1.0
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -9295,9 +9173,20 @@
                 "page_views": 40,
                 "visits": 30,
                 "p_exit": 0.38095238095238093
+            },
+            {
+                "id": 652371777,
+                "title": "Modulekaart_BSc-Wb-2019-2020",
+                "url": "https://www.wbmt2.tudelft.nl/onderw/curriculum/Modulekaart_BSc-Wb-2019-2020.pdf",
+                "average_page_views_per_visit": 1.19,
+                "bounce_rate": 100.0,
+                "has_integration": false,
+                "page_views": 43,
+                "visits": 36,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -9520,9 +9409,20 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
+            },
+            {
+                "id": 666724400,
+                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
+                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
+                "average_page_views_per_visit": 1.21,
+                "bounce_rate": 70.56,
+                "has_integration": false,
+                "page_views": 3771,
+                "visits": 3127,
+                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -9552,9 +9452,31 @@
                 "page_views": 1749,
                 "visits": 1505,
                 "p_exit": 0.9760044642857143
+            },
+            {
+                "id": 368515670,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/index.php?id=7577",
+                "average_page_views_per_visit": 1.23,
+                "bounce_rate": 40.0,
+                "has_integration": false,
+                "page_views": 43,
+                "visits": 35,
+                "p_exit": 0.1575091575091575
+            },
+            {
+                "id": 350675794,
+                "title": "Collegegeld en Financi\u00ebn",
+                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
+                "average_page_views_per_visit": 1.41,
+                "bounce_rate": 51.11,
+                "has_integration": false,
+                "page_views": 221,
+                "visits": 157,
+                "p_exit": 0.9608695652173913
             }
         ],
-        "page_views": 1
+        "page_views": 3
     },
     {
         "pagelist": [
@@ -9632,20 +9554,9 @@
                 "page_views": 27238,
                 "visits": 19716,
                 "p_exit": 0.8360600386752203
-            },
-            {
-                "id": 666724400,
-                "title": "Masterstudenten TU Delft starten initiatief om beademingsapparatuur te ontwikkelen",
-                "url": "https://www.tudelft.nl/2020/tu-delft/masterstudenten-tu-delft-starten-initiatief-om-beademingsapparatuur-te-ontwikkelen/",
-                "average_page_views_per_visit": 1.21,
-                "bounce_rate": 70.56,
-                "has_integration": false,
-                "page_views": 3771,
-                "visits": 3127,
-                "p_exit": 0.9984114376489277
             }
         ],
-        "page_views": 2
+        "page_views": 1
     },
     {
         "pagelist": [
@@ -9691,9 +9602,19 @@
                 "page_views": 74,
                 "visits": 49,
                 "p_exit": 0.31223628691983124
+            },
+            {
+                "id": 305472917,
+                "url": "http://brightspace.tudelft.nl",
+                "average_page_views_per_visit": 1.08,
+                "bounce_rate": 25.0,
+                "has_integration": false,
+                "page_views": 126,
+                "visits": 117,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 1
+        "page_views": 2
     },
     {
         "pagelist": [
@@ -9725,40 +9646,28 @@
                 "p_exit": 0.17796610169491525
             },
             {
-                "id": 411886009,
-                "title": "ICT Handleidingen - Medewerkers en studenten",
-                "url": "https://www.tudelft.nl/tu-delft-studentenportal/ict/help/m/",
-                "average_page_views_per_visit": 1.38,
-                "bounce_rate": 12.9,
+                "id": 519534700,
+                "url": "https://adhok.bk.tudelft.nl",
+                "average_page_views_per_visit": 2.0,
+                "bounce_rate": 0.0,
                 "has_integration": false,
-                "page_views": 91,
-                "visits": 66,
-                "p_exit": 0.6791044776119403
+                "page_views": 6,
+                "visits": 3,
+                "p_exit": 0.024896265560165973
             },
             {
-                "id": 368515670,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/index.php?id=7577",
-                "average_page_views_per_visit": 1.23,
-                "bounce_rate": 40.0,
+                "id": 295751814,
+                "title": "SAML 2.0 POST",
+                "url": "https://software.tudelft.nl",
+                "average_page_views_per_visit": 1.35,
+                "bounce_rate": 50.0,
                 "has_integration": false,
-                "page_views": 43,
-                "visits": 35,
-                "p_exit": 0.1575091575091575
-            },
-            {
-                "id": 350675794,
-                "title": "Collegegeld en Financi\u00ebn",
-                "url": "https://www.tudelft.nl/onderwijs/praktische-zaken/collegegeld-en-financien/",
-                "average_page_views_per_visit": 1.41,
-                "bounce_rate": 51.11,
-                "has_integration": false,
-                "page_views": 221,
-                "visits": 157,
-                "p_exit": 0.9608695652173913
+                "page_views": 214,
+                "visits": 159,
+                "p_exit": 1.0
             }
         ],
-        "page_views": 4
+        "page_views": 3
     },
     {
         "pagelist": [

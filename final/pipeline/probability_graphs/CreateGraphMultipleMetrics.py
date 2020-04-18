@@ -26,10 +26,16 @@ def add_attribute(graph, attribute_graph, attribute_name):
 def add_probabilities(graph, metric_list_with_weights):
     for node, data in graph.nodes(data=True):
         for metric, weight in metric_list_with_weights:
-            data['attr_data']['p_exit'] = data['attr_data']['p_exit_' + metric] * weight
+            if 'p_exit' not in data['attr_data']:
+                data['attr_data']['p_exit'] = data['attr_data']['p_exit_' + metric] * weight
+            else:
+                data['attr_data']['p_exit'] += data['attr_data']['p_exit_' + metric] * weight
     for u, v, d in graph.edges(data=True):
         for metric, weight in metric_list_with_weights:
-            d['p'] = d['p_' + metric] * weight
+            if 'p' not in d:
+                d['p'] = d['p_' + metric] * weight
+            else:
+                d['p'] += d['p_' + metric] * weight
 
 
 def main():
