@@ -7,17 +7,11 @@ import pprint
 import os
 import time
 
+current_number_of_visitors = 991
+entry_pages = json.loads(open('pipeline/entry_pages.json', 'r').read())
 
-def save_traffic_data(traffic_data, nametag=''):
-    abspath = os.path.abspath(__file__)
-    dname = os.path.dirname(abspath)
-    print(dname)
-    os.chdir(dname)
 
-    timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
 
-    with open('generated_user_traffic/generated_traffic_' + nametag + '_' + timestamp + '.json', 'w', encoding='utf-8') as file:
-        json.dump(traffic_data, file, indent=4)
 
 
 class UserModel:
@@ -60,26 +54,36 @@ class UserModel:
 
         return virtual_user_traffic
 
-    def random_walk_from_node_list(self, nodelist):
-        return [self.random_walk_from_node(node) for node in nodelist]
+    def random_walk_from_node_list(self, nodelist=entry_pages):
+        return [self.random_walk_from_node(node) for node in nodelist if node in self.graph.nodes]
 
-    def random_walk_n_nodes(self, n):
+    def random_walk_n_nodes(self, n=current_number_of_visitors):
         nlist = random.choices(list(self.graph.nodes), k=n)
         return self.random_walk_from_node_list(nlist)
 
+    def save_traffic_data(self, traffic_data, nametag=""):
+        abspath = os.path.abspath(__file__)
+        dname = os.path.dirname(abspath)
+        print(dname)
+        os.chdir(dname)
+
+        timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
+
+        with open('generated_user_traffic/generated_traffic_' + nametag + '.json', 'w', encoding='utf-8') as file:
+            json.dump(traffic_data, file, indent=4)
 
 def test():
-    G = GraphLoader.load_graph('pipeline/probability_graphs/pgraph_random_graph_Wed_Apr_15_17:28:26_2020.json')
+    pages = json.loads(
+        open(
+            '/home/tim/Documents/Modeling-and-Data-Analysis-in-Complex-Networks/final/data/merged_traffic_array_latest.json',
+            'r').read())
 
-    model = UserModel(G)
-    walk = model.random_walk_from_node('https://www.tudelft.nl/')
+    visits = [[(visit['url'], visit['last_page_view']) for visit in p['pagelist']] for p in pages if 'pagelist' in p]
+    entry_pages_with_timestamp = [sorted(visit, key=lambda x: x[1])[0] for visit in visits if len(visit) > 0]
+    entry_pages = [p for p, t in entry_pages_with_timestamp]
 
-    deg = list(G.degree())
-    deg.sort(key=lambda x: x[1], reverse=True)
-    nlist = [node for (node, degree) in deg[0:10]]
-
-    walklist = model.random_walk_from_node_list(nlist)
-
-    bla = model.random_walk_n_nodes(10)
+    with open('pipeline/entry_pages.json', 'w', encoding='utf-8') as file:
+        json.dump(entry_pages, file, indent=4)
 
 
+test()
