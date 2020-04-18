@@ -7,7 +7,6 @@ import random
 import numpy as np
 import pprint
 
-
 """
 
 Create simple probability graph
@@ -22,7 +21,7 @@ G = GraphLoader.load_page_subgraph()
 
 pagerank = nx.pagerank(G)
 
-[d['attr_data'].update({'pagerank': pagerank[n]}) for n,d in G.nodes(data=True)]
+[d['attr_data'].update({'pagerank': pagerank[n]}) for n, d in G.nodes(data=True)]
 pprint.pprint(G.nodes(data=True))
 
 for current in G.nodes:
