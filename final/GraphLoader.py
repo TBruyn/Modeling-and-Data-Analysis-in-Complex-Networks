@@ -38,7 +38,7 @@ def load_page_graph():
 
 
 def load_probability_graph(filename):
-    return load_graph('pipeline/probability_graphs/' + pages_graph_filename)
+    return load_graph('pipeline/probability_graphs/' + filename)
 
 
 def save_probability_graph(graph, filename, add_path=True):
