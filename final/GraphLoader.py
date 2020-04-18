@@ -42,11 +42,14 @@ def load_probability_graph(filename):
     return load_graph('pipeline/probability_graphs/' + filename)
 
 
-def save_probability_graph(graph, filename, add_path=True):
+def save_probability_graph(graph, filename, add_path=True, add_timestamp=False):
     if add_path:
         timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
         filename = dname + '/pipeline/probability_graphs/pgraph_' \
-                   + filename.replace('.json', '') + '_' + timestamp + '.json'
+                   + filename.replace('.json', '') + '_'
+        if add_timestamp:   filename += timestamp
+        else: filename += 'latest'
+        filename += '.json'
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(json_graph.node_link_data(graph), file, indent=4)
 
@@ -57,7 +60,7 @@ def load_traffic_graph(filename):
 
 def load_all_traffic_graphs():
     traffic_graphs = []
-    for file in glob.glob('pipeline/traffic_graphs/*.json'):
+    for file in glob.glob('pipeline/traffic_graphs/pgraph*.json'):
         try:
             traffic_graphs.append(load_graph(file))
         except Exception as e:

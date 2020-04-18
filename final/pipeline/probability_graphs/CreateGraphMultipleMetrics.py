@@ -8,49 +8,43 @@ import numpy as np
 import pprint
 
 from pipeline.probability_graphs import CreateGraphPageviewsOnly, CreateGraphPageRankOnly, CreateGraphBetweennessOnly, \
-    CreateGraphDegreeOnly, CreateGraphInvertedDegreeOnly
+    CreateGraphDegreeOnly, CreateGraphInvertedDegreeOnly, CreateGraphInvertedBetweennessOnly
 
 
-def add_betweenness(G):
-    undirected = G.to_undirected()
 
-    components = [undirected.subgraph(c) for c in nx.connected_components(undirected)]
-    betweenness = {}
-    [[betweenness.update({k: v}) for k, v in nx.betweenness_centrality(c).items()] for c in components]
+def add_attribute(graph, attribute_graph, attribute_name):
+    if set(graph.nodes) != set(attribute_graph.nodes) or set(graph.edges) != set(attribute_graph.edges):
+        raise ValueError('Node sets different when adding: ' + attribute_name)
 
-    min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
-    [betweenness.update({n: betweenness[n] + min_b}) for n, d in G.nodes(data=True)]
+    [d['attr_data'].update(
+        {'p_exit_' + attribute_name: attribute_graph.nodes[n]['attr_data']['p_exit'],
+         attribute_name: attribute_graph.nodes[n]['attr_data'][attribute_name]
+                            }) for n, d in graph.nodes(data=True)]
+    [d.update({'p_'+ attribute_name : attribute_graph.edges[(u,v)]['p']}) for u,v,d in graph.edges(data=True)]
+    return graph
 
-    [d['attr_data'].update({'betweenness': betweenness[n]}) for n, d in G.nodes(data=True)]
-
-
-def add_degree(G):
-    degrees = nx.degree((G))
-    [d['attr_data'].update({'degree': degrees[n]}) for n, d in G.nodes(data=True)]
-
-
-def add_inverted_degree(G):
-    degrees = nx.degree((G))
-    [d['attr_data'].update({'inv_degree': 1 / degrees[n]}) for n, d in G.nodes(data=True)]
-
-
-def add_pagerank(G):
-    pagerank = nx.pagerank(G)
-
-    [d['attr_data'].update({'pagerank': pagerank[n]}) for n, d in G.nodes(data=True)]
-
-
-def calculate_probabilities(attributelist):
-    print()
 
 G = GraphLoader.load_page_subgraph()
-pageviewgraph = CreateGraphPageviewsOnly.create_graph()
-pagerankgraph = CreateGraphPageRankOnly.create_graph()
-betweennessgraph = CreateGraphBetweennessOnly.create_graph()
-degreegraph = CreateGraphDegreeOnly.create_graph()
-invdegreegraph = CreateGraphInvertedDegreeOnly.create_graph()
-print(pageviewgraph.nodes(data=True))
-print('bla')
+
+pageview_graph = CreateGraphPageviewsOnly.create_graph()
+pagerank_graph = CreateGraphPageRankOnly.create_graph()
+betweenness_graph = CreateGraphBetweennessOnly.create_graph()
+# inverted_betweenness_graph = CreateGraphInvertedBetweennessOnly.create_graph()
+degree_graph = CreateGraphDegreeOnly.create_graph()
+inverted_degree_graph = CreateGraphInvertedDegreeOnly.create_graph()
+
+add_attribute(G, pageview_graph, 'page_views')
+add_attribute(G, pagerank_graph, 'pagerank')
+add_attribute(G, betweenness_graph, 'betweenness')
+# add_attribute(G, inverted_betweenness_graph, 'inverted_betweenness')
+add_attribute(G, degree_graph, 'degree')
+add_attribute(G, inverted_degree_graph, 'inv_degree')
+
+GraphLoader.save_probability_graph(G, 'all_attributes', add_timestamp=False)
+
+pprint.pprint(list(G.nodes(data=True))[5])
+pprint.pprint(list(G.edges(data=True))[5])
+
 
 # add_betweenness(G)
 # add_degree(G)

@@ -19,6 +19,8 @@ P[exit] = (inverted betweenness of u) / (sum of inverted betweenness of all neig
 """
 
 tag = 'inverted_betweenness_only'
+
+
 def create_graph():
     G = GraphLoader.load_page_subgraph()
     undirected = G.to_undirected()
@@ -30,10 +32,7 @@ def create_graph():
     min_b = min([betweenness[n] for n, d in G.nodes(data=True) if betweenness[n] > 0])
     [betweenness.update({n: 1 / (betweenness[n] + min_b)}) for n, d in G.nodes(data=True)]
 
-
     [d['attr_data'].update({'inverted_betweenness': betweenness[n]}) for n, d in G.nodes(data=True)]
-
-
 
     for current in G.nodes:
         edges = G.edges(current, data=True)
@@ -47,10 +46,12 @@ def create_graph():
 
         return G
 
+
 def main():
     G = create_graph()
 
-    GraphLoader.save_probability_graph(G, tag)
+    pprint.pprint([(n, d) for n, d in G.nodes(data=True) if 'p_exit' not in d['attr_data']])
+    # GraphLoader.save_probability_graph(G, tag)
     print("Created probability graph:")
     print("Inverted betweenness only")
 
