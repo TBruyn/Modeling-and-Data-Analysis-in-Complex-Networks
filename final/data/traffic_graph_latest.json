@@ -1979,6 +1979,146 @@
         },
         {
             "attr_dict": {
+                "id": 478303281,
+                "title": "Laptopproject TU Delft",
+                "url": "http://tudelft.orderitnow.nl",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:07:22+02:00"
+            },
+            "id": "http://tudelft.orderitnow.nl"
+        },
+        {
+            "attr_dict": {
+                "id": 491221829,
+                "title": "Modellen 2019 - 2020",
+                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:07:19+02:00"
+            },
+            "id": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
+        },
+        {
+            "attr_dict": {
+                "id": 342905167,
+                "title": "Track: Aerospace Structures & Materials",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:06:23+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/"
+        },
+        {
+            "attr_dict": {
+                "id": 337156285,
+                "title": "Luchtvaart- en Ruimtevaarttechniek",
+                "url": "https://www.tudelft.nl/lr/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:04:37+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/"
+        },
+        {
+            "attr_dict": {
+                "id": 363500340,
+                "title": "Studeren",
+                "url": "https://www.tudelft.nl/lr/studeren/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:04:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/studeren/"
+        },
+        {
+            "attr_dict": {
+                "id": 368452626,
+                "title": "BSc Aerospace Engineering",
+                "url": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:04:48+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 369824657,
+                "title": "Studentenervaringen",
+                "url": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:04:55+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/"
+        },
+        {
+            "attr_dict": {
+                "id": 368977556,
+                "title": "Onderwijsprogramma",
+                "url": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:25+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "attr_dict": {
+                "id": 363890426,
+                "title": "Graduate School of AE",
+                "url": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "attr_dict": {
+                "id": 363447352,
+                "title": "MSc Aerospace Engineering",
+                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:52+02:00"
+            },
+            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "attr_dict": {
+                "id": 411477726,
+                "title": "Laptopproject",
+                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:56+02:00"
+            },
+            "id": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
+        },
+        {
+            "attr_dict": {
+                "id": 363483258,
+                "title": "TU Delft: TU Delft Medewerkers",
+                "url": "https://www.tudelft.nl/medewerkersportal/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:52+02:00"
+            },
+            "id": "https://www.tudelft.nl/medewerkersportal/"
+        },
+        {
+            "attr_dict": {
+                "id": 592367119,
+                "title": "30EC_GPFlyer_student+%28February+2019%29_online.pdf",
+                "url": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30EC_GPFlyer_student+%28February+2019%29_online.pdf",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:52+02:00"
+            },
+            "id": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30EC_GPFlyer_student+%28February+2019%29_online.pdf"
+        },
+        {
+            "attr_dict": {
+                "id": 653572989,
+                "title": "Downloads",
+                "url": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/downloads/",
+                "has_integration": false,
+                "last_page_view": "2020-04-18T14:05:46+02:00"
+            },
+            "id": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/downloads/"
+        },
+        {
+            "attr_dict": {
                 "id": 416421885,
                 "title": "Virtual Private Network (VPN)",
                 "url": "https://www.tudelft.nl/en/student/ict/ict-facilities/virtual-private-network-vpn/",
@@ -4247,16 +4387,6 @@
         },
         {
             "attr_dict": {
-                "id": 363447352,
-                "title": "MSc Aerospace Engineering",
-                "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
-                "has_integration": false,
-                "last_page_view": "2020-04-17T10:06:42+02:00"
-            },
-            "id": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
-        },
-        {
-            "attr_dict": {
                 "id": 654953579,
                 "title": "Frequently asked questions",
                 "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/",
@@ -4937,26 +5067,6 @@
         },
         {
             "attr_dict": {
-                "id": 411477726,
-                "title": "Laptopproject",
-                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-                "has_integration": false,
-                "last_page_view": "2020-04-08T10:16:07+02:00"
-            },
-            "id": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
-        },
-        {
-            "attr_dict": {
-                "id": 491221829,
-                "title": "Modellen 2019 - 2020",
-                "url": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
-                "has_integration": false,
-                "last_page_view": "2020-04-08T10:16:16+02:00"
-            },
-            "id": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
-            "attr_dict": {
                 "id": 491313121,
                 "title": "Een klacht indienen",
                 "url": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/een-klacht-indienen/",
@@ -4994,16 +5104,6 @@
                 "last_page_view": "2020-04-08T10:17:19+02:00"
             },
             "id": "https://www.tudelft.nl/studenten/faculteiten/lr-studentenportal/onderwijs/master/"
-        },
-        {
-            "attr_dict": {
-                "id": 337156285,
-                "title": "Luchtvaart- en Ruimtevaarttechniek",
-                "url": "https://www.tudelft.nl/lr/",
-                "has_integration": false,
-                "last_page_view": "2020-04-08T10:17:01+02:00"
-            },
-            "id": "https://www.tudelft.nl/lr/"
         },
         {
             "attr_dict": {
@@ -11703,6 +11803,12 @@
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/io/",
+            "target": "https://www.tudelft.nl/medewerkersportal/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/io/",
             "target": "https://www.tudelft.nl/io/over-io/contact/"
         },
         {
@@ -12802,6 +12908,288 @@
             "weight": 0.038461538461538464,
             "source": "https://pure.tudelft.nl/portal/en/persons/lm-hermans(6e51e016-ad2c-4b69-91e0-344b62cf2217)/publications.html",
             "target": "https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/multi-actor-systems/people/assistant-professors/leon-hermans/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "http://tudelft.orderitnow.nl",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
+        },
+        {
+            "visited_together": 7,
+            "weight": 0.2692307692307692,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/wachtwoord/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+            "target": "https://tudelft.orderitnow.nl"
+        },
+        {
+            "visited_together": 3,
+            "weight": 0.11538461538461539,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/studeren/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/lr/studeren/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/lr-studentenportal/onderwijs/master/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 4,
+            "weight": 0.15384615384615385,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/studentenervaringen/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/",
+            "target": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/lr/studeren/bsc-aerospace-engineering/onderwijsprogramma/",
+            "target": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/lr/onderzoek/graduate-school-of-ae/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
+            "target": "https://www.tudelft.nl/onderwijs/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/wachtwoord/"
+        },
+        {
+            "visited_together": 2,
+            "weight": 0.07692307692307693,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
+            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
+            "target": "https://tudelft.orderitnow.nl"
+        },
+        {
+            "visited_together": 1,
+            "weight": 0.038461538461538464,
+            "source": "https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Faculteitspecifiek/IO/Onderwijs/graduation/Downloads/30EC_GPFlyer_student+%28February+2019%29_online.pdf",
+            "target": "https://www.tudelft.nl/studenten/faculteiten/io/onderwijs/afstuderen-master/downloads/"
         },
         {
             "visited_together": 3,
@@ -14463,12 +14851,6 @@
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/admission-requirements/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
         },
         {
@@ -14626,12 +15008,6 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/onderwijs/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/onderwijs/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
         },
         {
             "visited_together": 1,
@@ -15681,12 +16057,6 @@
             "visited_together": 1,
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
             "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
         },
         {
@@ -15694,18 +16064,6 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/dates-deadlines/",
             "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
-            "target": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/1-admission-requirements/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/",
-            "target": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ae/msc-aerospace-engineering/frequently-asked-questions/"
         },
         {
             "visited_together": 1,
@@ -16374,60 +16732,6 @@
             "target": "https://www.tudelft.nl/studenten/faculteiten/io-studentenportal/praktische-zaken/intellectueel-eigendom-in-io-onderwijs/collaboration-courses/"
         },
         {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/wachtwoord/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/wachtwoord/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
-            "visited_together": 6,
-            "weight": 0.23076923076923078,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
-            "visited_together": 2,
-            "weight": 0.07692307692307693,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/",
-            "target": "https://tudelft.orderitnow.nl"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/welke-laptop-voor-jouw-studie/laptopadvies-civiele-techniek-geowetenschappen/"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.11538461538461539,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
-            "target": "https://tudelft.orderitnow.nl"
-        },
-        {
-            "visited_together": 3,
-            "weight": 0.11538461538461539,
-            "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/",
-            "target": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2019-2020/"
-        },
-        {
             "visited_together": 2,
             "weight": 0.07692307692307693,
             "source": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/een-klacht-indienen/",
@@ -16450,12 +16754,6 @@
             "weight": 0.038461538461538464,
             "source": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/",
             "target": "https://www.tudelft.nl/studenten/rechtspositie/klacht-bezwaar-en-beroep/ombudsman-voor-studenten/"
-        },
-        {
-            "visited_together": 1,
-            "weight": 0.038461538461538464,
-            "source": "https://www.tudelft.nl/studenten/faculteiten/lr-studentenportal/onderwijs/master/",
-            "target": "https://www.tudelft.nl/lr/"
         },
         {
             "visited_together": 1,
