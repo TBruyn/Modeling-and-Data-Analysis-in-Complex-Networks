@@ -58,5 +58,10 @@ def load_traffic_graph(filename):
 def load_all_traffic_graphs():
     traffic_graphs = []
     for file in glob.glob('pipeline/traffic_graphs/*.json'):
-        traffic_graphs.append(load_graph(file))
+        try:
+            traffic_graphs.append(load_graph(file))
+        except Exception as e:
+            print('Something went wrong with file:')
+            print(file)
+            print(str(e))
     return traffic_graphs
