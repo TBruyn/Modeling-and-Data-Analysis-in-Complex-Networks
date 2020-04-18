@@ -22,7 +22,6 @@ G = GraphLoader.load_page_subgraph()
 pagerank = nx.pagerank(G)
 
 [d['attr_data'].update({'pagerank': pagerank[n]}) for n, d in G.nodes(data=True)]
-pprint.pprint(G.nodes(data=True))
 
 for current in G.nodes:
     edges = G.edges(current, data=True)
@@ -36,3 +35,5 @@ for current in G.nodes:
     G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['pagerank'] / total
 
 GraphLoader.save_probability_graph(G, tag)
+print("Created probability graph:")
+print("Pagerank only")

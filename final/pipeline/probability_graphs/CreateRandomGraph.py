@@ -18,3 +18,5 @@ for n in G.nodes:
 
 
 GraphLoader.save_probability_graph(G, 'random_graph')
+print("Created probability graph:")
+print("Random")

@@ -31,3 +31,5 @@ for current in G.nodes:
     G.nodes[current]['attr_data']['p_exit'] = G.nodes[current]['attr_data']['page_views'] / total
 
 GraphLoader.save_probability_graph(G, tag)
+print("Created probability graph:")
+print("Pageviews only")
