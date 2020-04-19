@@ -31,6 +31,10 @@ def load_page_subgraph():
     return load_graph(subgraph_filename)
 
 
+def load_traffic_graph():
+    return load_graph(traffic_graph_filename)
+
+
 def load_page_graph():
     return load_graph(pages_graph_filename)
 
@@ -53,11 +57,11 @@ def save_probability_graph(graph, filename, add_path=True, add_timestamp=False):
         json.dump(json_graph.node_link_data(graph), file, indent=4)
 
 
-def load_traffic_graph(filename):
+def load_generated_traffic_graph(filename):
     return load_graph('pipeline/traffic_graphs/' + filename)
 
 
-def load_all_traffic_graphs():
+def load_all_generated_traffic_graphs():
     traffic_graphs = []
     for file in glob.glob('pipeline/traffic_graphs/*.json'):
         try:
