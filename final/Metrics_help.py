@@ -3,7 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import collections
+import netcomp as nc
 import numpy as np
+import netlsd 
 
 
 
@@ -22,7 +24,6 @@ def calculate_metrics_df(graph):
 
     deg = graph.degree()
     deg_c = nx.degree_centrality(graph)
-    eigen_c = nx.eigenvector_centrality(graph)
     between_c = nx.betweenness_centrality(graph, normalized=True, endpoints=False)
     pr = nx.pagerank(graph, alpha=0.8)
     close_centrality = nx.closeness_centrality(graph)
@@ -31,7 +32,6 @@ def calculate_metrics_df(graph):
     df['Nodes'] = dict(deg).keys()
     df['Degree'] = dict(deg).values()
     df['Degree Centrality'] = deg_c.values()
-    df['Eigenvector Centrality'] = eigen_c.values()
     df['Betweeness Centrality'] = between_c.values()
     df['PageRank'] = pr.values()
     df['Closeness Centrality'] = close_centrality.values()
@@ -39,7 +39,7 @@ def calculate_metrics_df(graph):
 
     print(info)
     print('The density of the graph is :{}'.format(link_density))
-    print(av)
+    print('The average clustering coefficient of the graph'.format(av))
 
     return df
 
@@ -100,4 +100,39 @@ def plot_degree_distribution(dd):
     plt.ylabel("Pr[D = k]")
     plt.xlabel("Degree")
     plt.xlim(0, 75)
+    plt.show()
+    
+def Comparison_metrics(G1, G2):
+    
+    A1 = nx.adjacency_matrix(G1)
+    A2 = nx.adjacency_matrix(G2)
+    
+    a = nc.deltacon0(A1,A2)
+    b = nc.lambda_dist(A1,A2)
+    c = nc.lambda_dist(A1,A2,kind='laplacian_norm')
+    
+    av_cl1 = nx.average_clustering(G1)
+    av_cl2 = nx.average_clustering(G1)
+    
+    desc0 = netlsd.heat(G1)
+    desc1 = netlsd.heat(G2)
+    net__lsd = netlsd.compare(desc0, desc1)
+    
+    print('The Average Glustering coeficient of G1:{}'.format(av_cl1))
+    print('The Average Glustering coeficient of G2:{}'.format(av_cl2))
+    
+    print('The DeltaCon of G1 and G2:{}'.format(a))
+    print('The differnce of the adjcency matrices of G1 and G2'.format(b))
+    print('The differnce of the laplacian matrices of G1 and G2:{}'.format(c))
+    print('The Netlsd of G1 and G2:{}'.format(net__lsd))
+
+    
+def plot_comp(d1,d2):
+    f, axes = plt.subplots(1, 2, figsize=(10, 5))
+    sns.kdeplot(d1['Degree Centrality'],color='b', ax=axes[0, 0])
+    sns.kdeplot(d2['Degree Centrality'], color= 'r', ax=axes[0, 0])
+
+
+    sns.kdeplot(d1["Betweeness Centrality"],color="b", ax=axes[0, 1])
+    sns.kdeplot(d2["Betweeness Centrality"], color="r", ax=axes[0, 1]')
     plt.show()
