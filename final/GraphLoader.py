@@ -1,6 +1,7 @@
 import glob
 import json
 import os
+import pprint
 import time
 from networkx.readwrite import json_graph
 
@@ -60,7 +61,7 @@ def load_traffic_graph(filename):
 
 def load_all_traffic_graphs():
     traffic_graphs = []
-    for file in glob.glob('pipeline/traffic_graphs/pgraph*.json'):
+    for file in glob.glob('pipeline/traffic_graphs/*.json'):
         try:
             traffic_graphs.append(load_graph(file))
         except Exception as e:
@@ -68,3 +69,4 @@ def load_all_traffic_graphs():
             print(file)
             print(str(e))
     return traffic_graphs
+
