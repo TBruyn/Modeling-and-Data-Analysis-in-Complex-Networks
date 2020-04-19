@@ -31,10 +31,6 @@ def load_page_subgraph():
     return load_graph(subgraph_filename)
 
 
-def load_traffic_graph():
-    return load_graph(traffic_graph_filename)
-
-
 def load_page_graph():
     return load_graph(pages_graph_filename)
 
@@ -48,8 +44,10 @@ def save_probability_graph(graph, filename, add_path=True, add_timestamp=False):
         timestamp = time.asctime(time.localtime(time.time())).replace(' ', '_')
         filename = dname + '/pipeline/probability_graphs/pgraph_' \
                    + filename.replace('.json', '') + '_'
-        if add_timestamp:   filename += timestamp
-        else: filename += 'latest'
+        if add_timestamp:
+            filename += timestamp
+        else:
+            filename += 'latest'
         filename += '.json'
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(json_graph.node_link_data(graph), file, indent=4)
@@ -70,3 +68,10 @@ def load_all_traffic_graphs():
             print(str(e))
     return traffic_graphs
 
+
+def main():
+    pprint.pprint(load_traffic_graph('traffic_graph_all_attributes_evenly_entrypoints_523.json'))
+
+
+if __name__ == '__main__':
+    main()
