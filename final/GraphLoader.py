@@ -24,7 +24,7 @@ def filenames():
 def load_graph(filename):
     with open(filename) as f:
         js_graph = json.load(f)
-    return json_graph.node_link_graph(js_graph)
+        return json_graph.node_link_graph(js_graph)
 
 
 def load_page_subgraph():
@@ -74,7 +74,7 @@ def load_all_generated_traffic_graphs():
 
 
 def main():
-    pprint.pprint(load_traffic_graph('traffic_graph_all_attributes_evenly_entrypoints_523.json'))
+    pprint.pprint(load_page_subgraph())
 
 
 if __name__ == '__main__':
