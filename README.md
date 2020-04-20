@@ -2,9 +2,7 @@
 Modeling and Data Analysis in Complex Networks 2020
 
 Kostas Chronas and Tim Bruyn
-
-![](final/figures/subgraph_latest.svg)
-
+<img src="final/figures/subgraph_latest.svg" alt="drawing" width="400"/>
 ## Project synopsis
 
 We have created a user model that simulates visitor behaviour on the TU Delft website.
