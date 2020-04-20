@@ -1,9 +1,8 @@
 # Modeling user data on the TU Delft website
 Modeling and Data Analysis in Complex Networks 2020
 
+<img align="right" src="final/figures/subgraph_latest.svg" alt="drawing" width="200"/>
 Kostas Chronas and Tim Bruyn
-
-<div style="text-align:center"><img src="final/figures/subgraph_latest.svg" alt="drawing" width="400"/></div>
 
 ## Project synopsis
 
