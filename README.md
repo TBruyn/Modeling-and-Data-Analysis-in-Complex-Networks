@@ -32,6 +32,8 @@ final
 │        - Generate subgraph (about 1000 nodes) from hyperlink graph (about 25000 nodes)
 │        - Collect user data from SiteImprove
 │        - Generate traffic graph from user data
+│       WARNING: The code used to collect the data from SiteImprove will not work, 
+│                because it relies on a SSH key that is not included in this repo
 ├── data
 │       Json files with data
 │        - User traffic
