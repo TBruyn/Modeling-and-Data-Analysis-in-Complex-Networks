@@ -1,5 +1,4 @@
 # Modeling user data on the TU Delft website
-<img align="right" src="final/figures/subgraph_latest.svg" alt="drawing" width="300"/>
 
 Modeling and Data Analysis in Complex Networks 2020
 
