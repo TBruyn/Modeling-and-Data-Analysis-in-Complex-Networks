@@ -3,7 +3,7 @@ Modeling and Data Analysis in Complex Networks 2020
 
 Kostas Chronas and Tim Bruyn
 
-<img src="final/figures/subgraph_latest.svg" alt="drawing" width="400"/>
+<div style="text-align:center"><img src="final/figures/subgraph_latest.svg" alt="drawing" width="400"/></div>
 
 ## Project synopsis
 
